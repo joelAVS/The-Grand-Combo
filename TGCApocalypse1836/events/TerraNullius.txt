@@ -1,11 +1,12 @@
-province_event = {
+province_event = {                                   #Zombify province
 	id = 123456100
 	title = "EVTNAME123456025"
 	desc = "EVTDESC123456025"
 
 	trigger = {
-		province_control_days = 700
+		owner = {exists = yes }
 		NOT = { owner = { tag = ZOM } }
+		province_control_days = 730
 		has_province_modifier = zombie_outbreak
 		controlled_by = REB
 		exists = ZOM
@@ -15,7 +16,7 @@ province_event = {
 	}
 
 	mean_time_to_happen = {
-		months = 24
+		months = 10
 		modifier = {
 			factor = 0.75
 			any_neighbor_province = {
@@ -26,6 +27,8 @@ province_event = {
 			factor = 0.75
 			has_empty_adjacent_province = yes
 		}
+
+		
 	}
 
 	option = {
@@ -56,23 +59,24 @@ country_event = { #note, this must be a country event, otherwise it might happen
 	desc = "EVTDESC123456101"
 
 	trigger = {
+		exists = yes
 		NOT = { exists = ZOM }
 		any_owned_province = {
-			province_control_days=1800 #5 years
+			province_control_days = 730
 			has_province_modifier = zombie_outbreak
 			controlled_by = REB
 		}
 	}
 
 	mean_time_to_happen = {
-		months = 24
+		months = 10
 	}
 
 	option = {
 		name = "Uh oh."
 		random_owned = {
 			limit = {
-				province_control_days=1800 #5 years
+				province_control_days = 730
 				has_province_modifier = zombie_outbreak
 				controlled_by = REB
 			}
@@ -92,7 +96,7 @@ country_event = { #note, this must be a country event, otherwise it might happen
 			remove_country_modifier = accepts_provinces
 			add_country_modifier = {
 				name = do_not_annex
-				duration = 62
+				duration = 30
 			}
 			country_event = { id = 123456202 days = 31 }
 		}
@@ -106,13 +110,11 @@ country_event = {
 	
 	trigger = {
 		OR = {
-			tag = ZOM
-		}
-		NOT = {
-			has_country_modifier = do_not_annex
+			AND = { exists = yes tag = ZOM NOT = { has_country_modifier = do_not_annex } year = 1840 }
+			AND = { exists = yes OR = { NOT = { total_pops = 10 } } NOT = { tag = JAN } ai = yes year = 1850 }
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 1
 	}
@@ -127,14 +129,13 @@ country_event = {
 }
 
 country_event = {
-	id = 123456201
+	id = 123456203
 	title = "EVTNAME123456201"
 	desc = "EVTDESC123456201"
 	
 	trigger = {
-		OR = {
-			tag = ZOM
-		}
+		tag = ZOM
+		exists = yes
 		has_country_modifier = accepts_new_provinces
 		OR = {
 			num_of_cities = 200 #75
