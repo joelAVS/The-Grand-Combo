@@ -45,5 +45,3 @@ upper_house = {
 set_country_flag = neutrality_candidate
 decision = 1836_initial_setup
 decision = declare_neutrality
-
-
