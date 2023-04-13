@@ -100,6 +100,10 @@ reactionary_rebels = {
 		modifier = {
 			factor = 0
 			OR = {
+				country = { civilized = no }
+				AND = { is_primary_culture = no
+						is_accepted_culture = no }
+				country = { has_country_flag = absolute_monarchy_gov }
 				social_movement = yes
 				political_movement = yes
 			}
@@ -115,10 +119,6 @@ reactionary_rebels = {
 				political_reform_want = 0.05
 				social_reform_want = 0.05
 			}
-		}
-		modifier = {
-			factor = 0
-			country = { civilized = no }
 		}
 		modifier = {
 			factor = 1.05
@@ -154,11 +154,6 @@ reactionary_rebels = {
 			}
 		}
 		modifier = {
-			factor = 0
-			is_primary_culture = no
-			is_accepted_culture = no
-		}
-		modifier = {
 			factor = 0.01
 			is_primary_culture = no
 			location = {
@@ -185,10 +180,6 @@ reactionary_rebels = {
 			factor = 0.8
 			is_accepted_culture = yes
 			NOT = { is_culture_group = THIS }
-		}
-		modifier = {
-			factor = 0
-			country = { has_country_flag = absolute_monarchy_gov }
 		}
 		modifier = {
 			factor = 0.2
@@ -390,25 +381,32 @@ fascist_rebels = {
 
 		modifier = {
 			factor = 0
-			NOT = { is_ideology_enabled = fascist }
-		}
-		modifier = {
-			factor = 0
 			OR = {
+				country = { civilized = no }
+				NOT = { is_ideology_enabled = fascist }
 				social_movement = yes
 				political_movement = yes
-			}
-			NOT = {
-				OR = {
-					pop_majority_ideology = fascist
-					pop_majority_ideology = reactionary
-					militancy = 5
+				country = { government = fascist_dictatorship }
+				NOT = {
+					OR = {
+						pop_majority_ideology = fascist
+						pop_majority_ideology = reactionary
+						militancy = 5
+					}
+				}
+				AND = {
+					is_primary_culture = no
+					is_accepted_culture = no
+					location = { any_core = { is_cultural_union = no
+												OR = {
+													is_primary_culture = THIS
+													is_accepted_culture = THIS
+												}
+												exists = no
+											}
+					}
 				}
 			}
-		}
-		modifier = {
-			factor = 0
-			country = { civilized = no }
 		}
 		modifier = {
 			factor = 0.01
@@ -435,10 +433,6 @@ fascist_rebels = {
 			NOT = { is_culture_group = THIS }
 		}
 		modifier = {
-			factor = 0
-			country = { government = fascist_dictatorship }
-		}
-		modifier = {
 			factor = 1.015
 			country = { NOT = { plurality = 35 } }
 		}
@@ -452,21 +446,6 @@ fascist_rebels = {
 			factor = 1.015
 			location = {
 				minorities = yes
-			}
-		}
-		modifier = {
-			factor = 0
-			is_primary_culture = no
-			is_accepted_culture = no
-			location = {
-				any_core = {
-					is_cultural_union = no
-					OR = {
-						is_primary_culture = THIS
-						is_accepted_culture = THIS
-					}
-					exists = no
-				}
 			}
 		}
 		modifier = {
@@ -673,17 +652,29 @@ communist_rebels = {
 
 		modifier = {
 			factor = 0
-			country = { civilized = no }
+			
 		}
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ideology_enabled = communist
+			OR = { 
+				   country = { civilized = no }
+				   location = { is_colonial = yes }
+				   NOT = { is_ideology_enabled = communist }
+				   country = { has_country_flag = communist_gov }
+				   AND = {  is_primary_culture = no
+							is_accepted_culture = no
+							location = {
+								any_core = {
+									is_cultural_union = no
+									OR = {
+										is_primary_culture = THIS
+										is_accepted_culture = THIS
+									}
+									exists = no
+								}
+							}
+				   }
 			}
-		}
-		modifier = {
-			factor = 0
-			country = { has_country_flag = communist_gov }
 		}
 		modifier = {
 			factor = 1.015
@@ -732,21 +723,6 @@ communist_rebels = {
 			consciousness = 6
 		}
 		modifier = {
-			factor = 0
-			is_primary_culture = no
-			is_accepted_culture = no
-			location = {
-				any_core = {
-					is_cultural_union = no
-					OR = {
-						is_primary_culture = THIS
-						is_accepted_culture = THIS
-					}
-					exists = no
-				}
-			}
-		}
-		modifier = {
 			factor = 0.01
 			is_primary_culture = no
 			location = {
@@ -775,13 +751,6 @@ communist_rebels = {
 				any_neighbor_country = {
 					has_country_flag = communist_gov
 				}
-			}
-		}
-
-		modifier = {
-			factor = 0
-			location = {
-				is_colonial = yes
 			}
 		}
 	}
@@ -968,33 +937,27 @@ anarcho_liberal_rebels = {
 		factor = 1.01
 		modifier = {
 			factor = 0
-			country = { civilized = no }
-		}
-		modifier = {
-			factor = 0
-			location = {
-				is_colonial = yes
-			}
-		}
-		modifier = {
-			factor = 0
 			OR = {
+				country = { civilized = no }
+				location = { is_colonial = yes }
 				political_movement = yes
 				social_movement = yes
-			}
-		}
-		modifier = {
-			factor = 0
-			country = { government = bourgeois_dictatorship }
-		}
-		modifier = {
-			factor = 0
-			country = {
-				OR = {
-					has_country_flag = democracy_gov
-					has_country_flag = constitutional_monarchy_gov
+				country = { government = bourgeois_dictatorship }
+				country = { OR = { has_country_flag = democracy_gov
+								   has_country_flag = constitutional_monarchy_gov }
+							ruling_party_ideology = anarcho_liberal }
+				NOT = { OR = { pop_majority_ideology = anarcho_liberal
+							   pop_majority_ideology = liberal }
 				}
-				ruling_party_ideology = anarcho_liberal
+				AND = {	is_primary_culture = no
+					  	is_accepted_culture = no
+						location = { any_core = { is_cultural_union = no
+												  OR = { is_primary_culture = THIS
+														 is_accepted_culture = THIS }
+												  exists = no
+									}							
+						}
+				}
 			}
 		}
 		modifier = {
@@ -1012,15 +975,6 @@ anarcho_liberal_rebels = {
 			country = { NOT = { plurality = 35 } }
 		}
 		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					pop_majority_ideology = anarcho_liberal
-					pop_majority_ideology = liberal
-				}
-			}
-		}
-		modifier = {
 			factor = 1.15
 			pop_majority_ideology = anarcho_liberal
 		}
@@ -1028,7 +982,6 @@ anarcho_liberal_rebels = {
 			factor = 1.02
 			pop_majority_ideology = liberal
 		}
-
 		modifier = {
 			factor = 0.1
 			country = {
@@ -1049,22 +1002,6 @@ anarcho_liberal_rebels = {
 				public_meetings = yes_meeting
 				press_rights = free_press
 				slavery = no_slavery
-			}
-		}
-
-		modifier = {
-			factor = 0
-			is_primary_culture = no
-			is_accepted_culture = no
-			location = {
-				any_core = {
-					is_cultural_union = no
-					OR = {
-						is_primary_culture = THIS
-						is_accepted_culture = THIS
-					}
-					exists = no
-				}
 			}
 		}
 		modifier = {
