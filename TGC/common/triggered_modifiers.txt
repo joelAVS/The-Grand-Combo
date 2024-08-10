@@ -1318,3 +1318,85 @@ playing_alice = {
 	pop_militancy_modifier = -0.02
 	pop_consciousness_modifier = -0.02
 }
+
+#Immigration Modifiers
+	closed_border_high_adm = {
+		trigger = {
+			administration_spending = 0.9
+			border_policy = closed_borders
+		}
+		global_immigrant_attract = -0.9
+	}
+	closed_border_med_adm = {
+		trigger = {
+			administration_spending = 0.5
+			NOT = { administration_spending = 0.9 }
+			border_policy = closed_borders
+		}
+		global_immigrant_attract = -0.5
+	}
+	closed_border_low_adm = {
+		trigger = {
+			administration_spending = 0.2
+			NOT = { administration_spending = 0.5 }
+			border_policy = closed_borders
+		}
+		global_immigrant_attract = -0.25
+	}
+	
+	european_country = {
+		trigger = { capital_scope = { continent = europe } }
+		global_immigrant_attract = -0.5	
+	}
+
+	unemployment_good_1 = {
+		trigger = {
+			NOT = { unemployment = 0.01 }
+		}
+		global_immigrant_attract = 0.5
+	}
+
+	unemployment_good_2 = {
+		trigger = {
+			NOT = { unemployment = 0.02 }
+		}
+		global_immigrant_attract = 0.25
+	}
+
+	unemployment_good_3 = {
+		trigger = {
+			NOT = { unemployment = 0.03 }
+		}
+		global_immigrant_attract = 0.125
+	}
+
+	unemployment_bad_3 = {
+		trigger = {
+			unemployment = 0.1
+			NOT = { unemployment = 0.2 }
+		}
+		global_immigrant_attract = -0.125
+	}
+
+	unemployment_bad_2 = {
+		trigger = {
+			unemployment = 0.2
+			NOT = { unemployment = 0.3 }
+		}
+		global_immigrant_attract = -0.25
+	}
+
+	unemployment_bad_3 = {
+		trigger = {
+			unemployment = 0.3
+			NOT = { unemployment = 0.4 }
+		}
+		global_immigrant_attract = -0.5
+	}
+
+	microstate_immigration = {
+		trigger = { 
+			NOT = { number_of_states = 2 }
+		}
+		global_immigrant_attract = -0.5
+	}

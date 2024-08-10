@@ -57,12 +57,6 @@ country_migration_target = {
 			THIS = { NOT = { literacy = 0.6 } }
 		}		
 
-	## Bad Immigration Policy (Only mexico using it currently)
-		modifier = {
-			factor = 0.3
-			NOT = { THIS = { has_pop_religion = catholic } }
-			has_country_flag = bad_immigration_policy #was modifier
-		}	
 	## Border Policy
 		modifier = {
 			factor = 0.1
@@ -86,40 +80,7 @@ country_migration_target = {
 			capital_scope = { continent = europe }
 		}	
 
-	## Unemployment ##
-		modifier = {
-			factor = 1.125
-			NOT = { unemployment = 0.01 }
-		}
-		modifier = {
-			factor = 1.125
-			NOT = { unemployment = 0.02 }
-		}
-		modifier = {
-			factor = 1.125
-			NOT = { unemployment = 0.03 }
-		}
-		modifier = {
-			factor = 1.125
-			NOT = { unemployment = 0.04 }
-		}
 
-		modifier = {
-			factor = 0.75
-			unemployment = 0.1
-		}
-		modifier = {
-			factor = 0.5
-			unemployment = 0.2
-		}
-		modifier = {
-			factor = 0.25
-			unemployment = 0.4
-		}
-		modifier = {
-			factor = 0.1
-			unemployment = 0.8
-		}
 
 	## Micro States
 		modifier = {
