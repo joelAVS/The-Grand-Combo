@@ -15,11 +15,21 @@ guiTypes = {
 			name = "Background"	
 			quadTextureSprite ="GFX_event_country_bg"
 		}
-		
+
+				
 		iconType =
 		{
 			name ="event_images"
 			spriteType = "GFX_event_no_image"
+			position = { x= 35 y = 110 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		
+		iconType =
+		{
+			name ="event_image_frame"
+			spriteType = "GFX_event_frame"
 			position = { x= 35 y = 110 }
 			Orientation = "UPPER_LEFT"
 		}
