@@ -935,7 +935,7 @@ political_decisions = {
 				tag = NGF
 				tag = PRU
 			}
-			NOT = { tech_school = prussian_tech_school }
+			NOT = { has_country_modifier = ts_prussian }
 		}
 
 		allow = {
@@ -955,7 +955,21 @@ political_decisions = {
 		}
 
 		effect = {
-			tech_school = prussian_tech_school
+			remove_country_modifier = ts_traditional
+			remove_country_modifier = ts_army
+			remove_country_modifier = ts_naval
+			remove_country_modifier = ts_industrial
+			remove_country_modifier = ts_culture
+			remove_country_modifier = ts_commerce
+			remove_country_modifier = ts_prussian
+			remove_country_modifier = ts_czech
+			remove_country_modifier = ts_japanese
+			remove_country_modifier = ts_chinese
+
+			add_country_modifier = {
+					name = ts_prussian
+					duration = -1
+			}
 			prestige = 10
 		}
 
@@ -1486,7 +1500,7 @@ political_decisions = {
 					organized_factories = 1
 					early_railroad = 1
 				}
-				tech_school = prussian_tech_school
+				has_country_modifier = ts_prussian
 			}
 		}
 
@@ -3346,8 +3360,8 @@ political_decisions = {
 	press_schleswig_issue = {
 		picture = claim_schleswig
 		potential = {
-			primary_culture = north_german
 			is_greater_power = yes
+			primary_culture = north_german
 			ai = yes
 			year = 1864
 			NOT = { has_global_flag = press_schleswig_issue }

@@ -896,8 +896,6 @@ political_decisions = {
 			NOT = { has_country_modifier = small_country_draft }
 		}
 
-		allow = {
-		}
 
 		effect = {
 			set_country_flag = called_for_recruits

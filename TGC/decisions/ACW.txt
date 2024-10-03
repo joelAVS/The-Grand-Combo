@@ -861,8 +861,6 @@ political_decisions = {
 			is_vassal = no
 		}
 
-		allow = {
-		}
 
 		effect = {
 			set_country_flag = bonnie_blue_flag
@@ -880,9 +878,9 @@ political_decisions = {
 				background = war_college
 			}
 			define_general = {
-				name = "Thomas ‘Stonewall’ Jackson"
-				personality = coolminded
-				background = school_of_defense
+				name = "Thomas â€˜Stonewallâ€™ Jackson"
+				personality = unflinching
+				background = dauntless
 			}
 			define_general = {
 				name = "J.E.B. Stuart"
@@ -1049,8 +1047,6 @@ political_decisions = {
 			NOT = { has_country_flag = flag_of_freedom }
 		}
 
-		allow = {
-		}
 
 		effect = {
 			set_country_flag = flag_of_freedom
