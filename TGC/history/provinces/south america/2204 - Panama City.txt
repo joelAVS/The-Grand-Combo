@@ -1,5 +1,5 @@
 owner = VNG
-controller = VNG # Anything typed here will be added to all selected province history files
+controller = VNG 
 add_core = CLM
 add_core = PNM
 trade_goods = fruit
@@ -9,6 +9,10 @@ naval_base = 1
 university = 1
 
 1836.1.1 = {
+    owner = CLM
+    controller = CLM
+}
+1861.7.1 = {
     owner = CLM
     controller = CLM
 }

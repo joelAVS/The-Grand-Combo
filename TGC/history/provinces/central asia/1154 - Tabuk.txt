@@ -1,6 +1,7 @@
 owner = NEJ
-controller = NEJ # Anything typed here will be added to all selected province history files
+controller = NEJ 
 add_core = HDJ
 trade_goods = wool
 life_rating = 35
-1836.1.1 = { owner = NYE controller = NYE } # Anything typed here will be added to all selected province history files
+1836.1.1 = { owner = NYE controller = NYE }
+1861.7.1 = { owner = NYE controller = NYE } 

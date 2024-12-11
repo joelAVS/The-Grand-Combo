@@ -1,11 +1,15 @@
 owner = VNG
-controller = VNG # Anything typed here will be added to all selected province history files
+controller = VNG 
 add_core = VNZ
 trade_goods = wool
 life_rating = 35
 terrain = urban_valencia_vnz
 
 1836.1.1 = {
+    owner = VNZ
+    controller = VNZ
+}
+1861.7.1 = {
     owner = VNZ
     controller = VNZ
 }

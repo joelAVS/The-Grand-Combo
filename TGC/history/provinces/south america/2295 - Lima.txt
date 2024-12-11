@@ -1,5 +1,5 @@
 owner = VOP
-controller = VOP # Anything typed here will be added to all selected province history files
+controller = VOP 
 add_core = PEU
 trade_goods = cattle
 life_rating = 35
@@ -9,6 +9,10 @@ naval_base = 1
 university = 1
 
 1836.1.1 = {
+    owner = PEU
+    controller = BOL
+}
+1861.7.1 = {
     owner = PEU
     controller = BOL
 }

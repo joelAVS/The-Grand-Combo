@@ -7,6 +7,11 @@ add_core = JOR
     controller = HAL
     add_core = HAL
 }
+1861.7.1 = {
+    owner = HAL
+    controller = HAL
+    add_core = HAL
+}
 trade_goods = cattle
 life_rating = 10
 #terrain = montane_forest

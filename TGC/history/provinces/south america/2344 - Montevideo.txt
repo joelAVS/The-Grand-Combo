@@ -1,5 +1,5 @@
 owner = VLP
-controller = VLP # Anything typed here will be added to all selected province history files
+controller = VLP 
 add_core = URU
 trade_goods = cattle
 life_rating = 38
@@ -9,6 +9,10 @@ naval_base = 1
 party_loyalty = { ideology = liberal loyalty_value = 30 } 
 
 1836.1.1 = {
+    owner = URU
+    controller = URU
+}
+1861.7.1 = {
     owner = URU
     controller = URU
 }

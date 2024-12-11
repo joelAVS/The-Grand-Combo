@@ -1,5 +1,5 @@
 owner = NET
-controller = NET # Anything typed here will be added to all selected province history files
+controller = NET 
 add_core = BEL
 add_core = FLA
 add_core = NET
@@ -14,6 +14,10 @@ state_building = { level = 2 building = cement_factory upgrade = yes }
 state_building = { level = 2 building = liquor_distillery upgrade = yes } 
 
 1836.1.1 = {
+    owner = BEL
+    controller = BEL
+}
+1861.7.1 = {
     owner = BEL
     controller = BEL
 }

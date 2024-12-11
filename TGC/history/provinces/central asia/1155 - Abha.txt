@@ -1,8 +1,12 @@
 owner = NEJ
-controller = NEJ # Anything typed here will be added to all selected province history files
+controller = NEJ 
 add_core = NYE
 add_core = HDJ
 1836.1.1 = {
+owner = NYE
+controller = NYE
+}
+1861.7.1 = {
 owner = NYE
 controller = NYE
 }

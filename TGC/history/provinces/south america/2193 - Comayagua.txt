@@ -1,11 +1,15 @@
 owner = VNS
-controller = VNS # Anything typed here will be added to all selected province history files
+controller = VNS 
 add_core = HON
 trade_goods = fruit
 life_rating = 31
 terrain = urban_tegucigalpa
 
 1836.1.1 = {
+    owner = UCA
+    controller = UCA
+}
+1861.7.1 = {
     owner = UCA
     controller = UCA
 }

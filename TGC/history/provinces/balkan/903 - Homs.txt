@@ -1,5 +1,5 @@
 owner = TUR
-controller = TUR # Anything typed here will be added to all selected province history files
+controller = TUR 
 add_core = EGY
 add_core = TUR
 add_core = SYR
@@ -7,6 +7,10 @@ trade_goods = grain
 life_rating = 35
 
 1836.1.1 = {
+    owner = EGY
+    controller = EGY
+}
+1861.7.1 = {
     owner = EGY
     controller = EGY
 }

@@ -1,5 +1,5 @@
 owner = VLP
-controller = VLP # Anything typed here will be added to all selected province history files
+controller = VLP 
 add_core = ARC
 add_core = BOL
 trade_goods = timber
@@ -7,6 +7,10 @@ life_rating = 35
 terrain = forest_hills
 
 1836.1.1 = {
+    owner = ARC
+    controller = ARC
+}
+1861.7.1 = {
     owner = ARC
     controller = ARC
 }

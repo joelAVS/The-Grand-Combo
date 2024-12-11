@@ -1,11 +1,15 @@
 owner = NPL
-controller = NPL # Anything typed here will be added to all selected province history files
+controller = NPL 
 add_core = SIC
 add_core = ITA
 trade_goods = fish
 life_rating = 35
 
 1836.1.1 = {
+    owner = SIC
+    controller = SIC
+}
+1861.7.1 = {
     owner = SIC
     controller = SIC
 }

@@ -6,6 +6,11 @@ add_core = NEJ
     controller = HAL
     add_core = HAL
 }
+1861.7.1 = {
+    owner = HAL
+    controller = HAL
+    add_core = HAL
+}
 trade_goods = wool
 life_rating = 10
 #terrain = semidesert

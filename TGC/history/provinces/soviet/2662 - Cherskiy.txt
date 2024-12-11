@@ -1,5 +1,5 @@
 owner = VNS
-controller = VNS # Anything typed here will be added to all selected province history files
+controller = VNS 
 add_core = MEX
 trade_goods = grain
 life_rating = 30
@@ -7,6 +7,10 @@ terrain = desert
 colonial = 2
 
 1836.1.1 = {
+    owner = MEX
+    controller = MEX
+}
+1861.7.1 = {
     owner = MEX
     controller = MEX
 }

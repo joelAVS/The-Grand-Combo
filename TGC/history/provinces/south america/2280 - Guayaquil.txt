@@ -1,5 +1,5 @@
 owner = VNG
-controller = VNG # Anything typed here will be added to all selected province history files
+controller = VNG 
 add_core = ECU
 trade_goods = fruit
 life_rating = 35
@@ -7,6 +7,10 @@ life_rating = 35
 naval_base = 1
 
 1836.1.1 = {
+    owner = ECU
+    controller = ECU
+}
+1861.7.1 = {
     owner = ECU
     controller = ECU
 }

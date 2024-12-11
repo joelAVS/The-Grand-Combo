@@ -1,5 +1,5 @@
 owner = POR
-controller = POR # Anything typed here will be added to all selected province history files
+controller = POR 
 add_core = BRZ
 trade_goods = coffee
 life_rating = 40
@@ -10,6 +10,10 @@ university = 1
 bank = 1
 
 1836.1.1 = {
+    owner = BRZ
+    controller = BRZ
+}
+1861.7.1 = {
     owner = BRZ
     controller = BRZ
 }

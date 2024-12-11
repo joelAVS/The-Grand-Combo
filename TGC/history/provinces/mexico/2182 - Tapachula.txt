@@ -1,5 +1,5 @@
 owner = VNS
-controller = VNS # Anything typed here will be added to all selected province history files
+controller = VNS 
 add_core = UCA
 add_core = CHP
 add_core = GUA
@@ -8,6 +8,10 @@ trade_goods = cotton
 life_rating = 30
 
 1836.1.1 = {
+    owner = UCA
+    controller = UCA
+}
+1861.7.1 = {
     owner = UCA
     controller = UCA
 }

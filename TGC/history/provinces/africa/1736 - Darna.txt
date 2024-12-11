@@ -1,5 +1,5 @@
 owner = TRI
-controller = TRI # Anything typed here will be added to all selected province history files
+controller = TRI 
 add_core = CYR
 trade_goods = fish
 life_rating = 35
@@ -7,6 +7,10 @@ life_rating = 35
 colonial = 2
 
 1836.1.1 = {
+    owner = TUR
+    controller = TUR
+}
+1861.7.1 = {
     owner = TUR
     controller = TUR
 }

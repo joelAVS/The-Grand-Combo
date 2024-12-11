@@ -1,5 +1,5 @@
 owner = VNS
-controller = VNS # Anything typed here will be added to all selected province history files
+controller = VNS 
 add_core = ELS
 trade_goods = coffee
 life_rating = 32
@@ -8,6 +8,10 @@ terrain = urban_san_salvador
 naval_base = 1
 
 1836.1.1 = {
+    owner = UCA
+    controller = UCA
+}
+1861.7.1 = {
     owner = UCA
     controller = UCA
 }
