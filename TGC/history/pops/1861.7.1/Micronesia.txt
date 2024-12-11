@@ -1,0 +1,247 @@
+#Western Micronesia (27600)
+#colonized by Spain in 1836
+#Guam (6000/1500 POPS)
+2517 = {
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 86
+	}
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 1713
+	}
+}
+#Saipan (5600/1400 POPS)
+2521 = {
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 80
+	}
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 3
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 1523
+	}
+}
+#uncolonized in 1836
+#Palau (8000/2000 POPS)
+2518 = {
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 28
+	}
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 2070
+	}
+}
+#Truk (3140/785 POPS)
+2579 = {
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 23
+	}
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 69
+	}
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 1247
+	}
+}
+#Ponape (2660/665 POPS)
+610 = {
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 11
+	}
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 40
+	}
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 690
+	}
+}
+#Northern Micronesia (180)
+#uncolonized in 1836
+#Bonin (60/15 POPS)
+1654 = {
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 17
+	}
+}
+#Marcus (60/15 POPS)
+2525 = {
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 17
+	}
+}
+#Easterns Micronesia (21000)
+#uncolonized in 1836
+#Marshall Islands (6000/1500 POPS)
+2522 = {
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 11
+	}
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 28
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 86
+	}
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 1581
+	}
+}
+#Nauru (1000/250 POPS)
+2523 = {
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 11
+	}
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 258
+	}
+}
+#Gilbert Islands (14000/3250 POPS)
+2527 = {
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 201
+	}
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 3593
+	}
+}

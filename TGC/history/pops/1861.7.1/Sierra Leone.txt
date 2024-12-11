@@ -1,0 +1,267 @@
+#Sierra Leone Region (752000)
+#uncolonized in 1836/Britain has trade post in 1836
+#Freetown (400000/100000 POPS)
+1884 = {
+	aristocrats = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 345
+	}
+
+	officers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 114
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 114
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 287
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 114
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 5405
+	}
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 776
+	}
+
+	officers = {
+		culture = mande
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1897
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 402
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 36943
+	}
+	aristocrats = {
+		culture = western_nigritic
+		religion = sunni
+		size = 1006
+	}
+
+	officers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = western_nigritic
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = western_nigritic
+		religion = sunni
+		size = 2645
+	}
+	soldiers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 517
+	}
+	farmers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 55516
+	}
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 287
+	}
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 804
+	}
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 172
+	}
+	tribals = {
+		culture = western_nigritic
+		religion = animist
+		size = 7819
+	}
+}
+#uncolonized in 1836
+#Bo (352000/88000 POPS)
+1886 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 1035
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 2156
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 546
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 42147
+	}
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 919
+	}
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 2300
+	}
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 488
+	}
+	tribals = {
+		culture = western_nigritic
+		religion = animist
+		size = 43326
+	}
+	slaves = {
+		culture = western_nigritic
+		religion = animist
+		size = 8049
+	}
+}
+#Jallon Region (384000) #see Guinea.txt for balance of Region
+#uncolonized in 1836
+#Falaba (384000/96000 POPS) #now part of Sierra Leone
+1885 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 1063
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 2185
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 546
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 42090
+	}
+	aristocrats = {
+		culture = western_nigritic
+		religion = sunni
+		size = 919
+	}
+	clergymen = {
+		culture = western_nigritic
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = western_nigritic
+		religion = sunni
+		size = 1897
+	}
+	soldiers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 488
+	}
+	farmers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 42578
+	}
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = western_nigritic
+		religion = animist
+		size = 2645
+	}
+	slaves = {
+		culture = western_nigritic
+		religion = animist
+		size = 14949
+	}
+}

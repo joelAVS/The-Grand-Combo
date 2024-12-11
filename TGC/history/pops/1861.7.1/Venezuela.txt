@@ -1,0 +1,923 @@
+#Venezuela 1836 (850000)
+#Caracas Region (300000)
+#Ruled by Venezuela 1836
+#Caracas (225000/47000 POPS)
+2264= {
+	aristocrats = {
+		culture = venezuelan
+		religion = catholic
+		size = 1293
+	}
+
+	bureaucrats = {
+		culture = venezuelan
+		religion = catholic
+		size = 143
+	}
+
+	officers = {
+		culture = venezuelan
+		religion = catholic
+		size = 114
+	}
+
+	clergymen = {
+		culture = venezuelan
+		religion = catholic
+		size = 459
+	}
+
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 2357
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 5175
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 21850
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 57
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 632
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1265
+		militancy = 4
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 10350
+		militancy = 4
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4600
+		militancy = 2
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 229
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 5520
+	}
+}
+#Todos los Santos de Calabozo (30000/9000 POPS)
+2266= {
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 575
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 575
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 2300
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1724
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 345
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 4830
+	}
+}
+#Nueva Barcelona del Cerro Santo (45000/12000 POPS)
+2267= {
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 1150
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 1724
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 4024
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1380
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 345
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2300
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 2300
+	}
+}
+#Lago de Maracaibo (Zulia) Region (200000)
+#Ruled by Venezuela 1836
+#Nueva Valencia del Rey (90000/28000 POPS)
+2268= {
+	aristocrats = {
+		culture = venezuelan
+		religion = catholic
+		size = 1150
+	}
+
+	bureaucrats = {
+		culture = venezuelan
+		religion = catholic
+		size = 345
+	}
+
+	clergymen = {
+		culture = venezuelan
+		religion = catholic
+		size = 229
+	}
+
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 4024
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 9200
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1150
+		militancy = 4
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4600
+		militancy = 4
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2300
+		militancy = 2
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 1150
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 2875
+	}
+}
+#Ruled by Colombia 1836
+#Maracaibo (60000/24000 POPS)
+2270= {
+	aristocrats = {
+		culture = colombian
+		religion = catholic
+		size = 1380
+	}
+
+	clergymen = {
+		culture = colombian
+		religion = catholic
+		size = 114
+	}
+
+	artisans = {
+		culture = colombian
+		religion = catholic
+		size = 1150
+	}
+
+	soldiers = {
+		culture = colombian
+		religion = catholic
+		size = 229
+	}
+
+	farmers = {
+		culture = colombian
+		religion = catholic
+		size = 6324
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1380
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 345
+		militancy = 4
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5175
+		militancy = 4
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2300
+		militancy = 2
+	}
+
+	artisans = {
+		culture = chibchan
+		religion = animist
+		size = 1494
+	}
+
+	soldiers = {
+		culture = chibchan
+		religion = animist
+		size = 229
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = animist
+		size = 4600
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 2300
+	}
+}
+#San Cristobal (20000/10000 POPS)
+2271= {
+	clergymen = {
+		culture = venezuelan
+		religion = catholic
+		size = 57
+	}
+
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 1265
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 345
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 2300
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 459
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1207
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2300
+	}
+
+	artisans = {
+		culture = chibchan
+		religion = animist
+		size = 459
+	}
+
+	soldiers = {
+		culture = chibchan
+		religion = animist
+		size = 114
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = animist
+		size = 1724
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 1265
+	}
+}
+#Santa Ana de Coro (30000/14000 POPS)
+2272= {
+	clergymen = {
+		culture = venezuelan
+		religion = catholic
+		size = 459
+	}
+
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 1150
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 114
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 4024
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1667
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 57
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2875
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 1609
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 114
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 4024
+	}
+}
+#Los Llanos (Apure) Region (70000)
+#Ruled by Venezuela 1836
+#Barinas (30000/10000 POPS)
+2265= {
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 1092
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 57
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 3449
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 1035
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 114
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 5750
+	}
+}
+#Guanare (30000/14000 POPS)
+2273= {
+	aristocrats = {
+		culture = venezuelan
+		religion = catholic
+		size = 919
+	}
+
+	clergymen = {
+		culture = venezuelan
+		religion = catholic
+		size = 229
+	}
+
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 1839
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 459
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 5175
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1150
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 1667
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 57
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 4600
+	}
+}
+#El Viento (10000/4000 POPS)
+2249= {
+	artisans = {
+		culture = colombian
+		religion = catholic
+		size = 229
+	}
+
+	farmers = {
+		culture = colombian
+		religion = catholic
+		size = 919
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 1092
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 57
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 2300
+	}
+}
+#Orinoco Region (100000)
+#Ruled by Venezuela 1836
+#Cumana (65000/18000 POPS)
+2269= {
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 2300
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 5750
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1724
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1724
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5175
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 3449
+	}
+}
+#San Fernando de Maturin (35000/10000 POPS)
+2276= {
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 575
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 4024
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 575
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3449
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 2300
+	}
+}
+#Amazonas-Bolivar (Spanish Guayana) Region (180000)
+#Ruled by Venezuela 1836
+#San Fernando de Atabapo (50000/14000 POPS)
+2274= {
+	aristocrats = {
+		culture = venezuelan
+		religion = catholic
+		size = 345
+	}
+
+	clergymen = {
+		culture = venezuelan
+		religion = catholic
+		size = 229
+	}
+
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 575
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 2300
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 2300
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 4024
+	}
+
+	artisans = {
+		culture = yanomami
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = yanomami
+		religion = animist
+		size = 4600
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 1150
+	}
+}
+#Angostura (70000/18000 POPS)
+2275= {
+		aristocrats = {
+		culture = venezuelan
+		religion = catholic
+		size = 229
+	}
+
+	clergymen = {
+		culture = venezuelan
+		religion = catholic
+		size = 229
+	}
+
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 1724
+	}
+
+	soldiers = {
+		culture = venezuelan
+		religion = catholic
+		size = 114
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 5462
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 2300
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 6612
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 3449
+	}
+}
+#Piedra del Cocuy (30000/8000 POPS)
+2277= {
+	clergymen = {
+		culture = venezuelan
+		religion = catholic
+		size = 172
+	}
+
+	artisans = {
+		culture = venezuelan
+		religion = catholic
+		size = 402
+	}
+
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 1150
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 1150
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 2070
+	}
+
+	artisans = {
+		culture = yanomami
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = yanomami
+		religion = animist
+		size = 2530
+	}
+}
+#San Carlos del Rio Negro (30000/8500 POPS)
+2278= {
+	clergymen = {
+		culture = colombian
+		religion = catholic
+		size = 114
+	}
+
+	artisans = {
+		culture = colombian
+		religion = catholic
+		size = 459
+	}
+
+	farmers = {
+		culture = colombian
+		religion = catholic
+		size = 1150
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 1150
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1724
+	}
+
+	artisans = {
+		culture = yanomami
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = yanomami
+		religion = animist
+		size = 3449
+	}
+}

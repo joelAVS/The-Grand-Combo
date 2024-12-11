@@ -1,0 +1,859 @@
+#file includes modern Malaysia, Singapore and Brunei
+#Malaya Region (780800)
+#Ruled By Britain 1836
+#Singapore (36000/9000 POPS)
+1384 = {
+	labourers = {
+		culture = min
+		religion = protestant
+		size = 1035
+	}
+	labourers = {
+		culture = min
+		religion = mahayana
+		size = 2760
+	}
+	
+	clergymen = {
+		culture = yue
+		religion = protestant
+		size = 57
+	}
+	
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = protestant
+		size = 1667
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 3449
+	}
+
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1150
+	}
+	
+	artisans = {
+		culture = han_chinese
+		religion = protestant
+		size = 575
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 4024
+	}
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 1724
+	}
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 2300
+	}
+}
+#Malacca (52800/13200 POPS)
+1386 = {
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2817
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 2875
+	}
+	
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 1380
+	}
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 431
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 12994
+	}
+}
+#Penang (84000/21000 POPS)
+1388 = {
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 5606
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 3536
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 862
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 17135
+	}
+}
+#Under Malay Rule 1836 (324000)
+#Johor Bahru (108000/27000 POPS)
+1385 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 575
+	}
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 143
+	}
+	officers = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 2587
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 2415
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 34557
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 3967
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 6324
+	}
+}
+#Kuala Lumpur (68000/17000 POPS)
+1387 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 3162
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 3564
+	}
+	labourers = {
+		culture = malay
+		religion = sunni
+		size = 35592
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 4887
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 9315
+	}
+}
+#Kuantan (32000/8000 POPS)
+1390 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 459
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	labourers = {
+		culture = malay
+		religion = sunni
+		size = 7331
+	}
+	
+	slaves = {
+		culture = malay
+		religion = mahayana
+		size = 345
+	}
+	
+	labourers = {
+		culture = yue
+		religion = mahayana
+		size = 1150
+	}
+}
+#Ipoh (116000/29000 POPS)
+2575 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 2875
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 3564
+	}
+	labourers = {
+		culture = malay
+		religion = sunni
+		size = 35535
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 86
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 3363
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 5750
+	}
+	
+	slaves = {
+		culture = malay
+		religion = mahayana
+		size = 1150
+	}
+}
+#under Overlordship of Siam 1836 (284000)
+#Alor Setar (116000/29000 POPS)
+1389 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1552
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 28519
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1092
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1265
+	}
+}
+#Kota Bharu (168000/42000 POPS)
+8 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 459
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 488
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 2300
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 35448
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1092
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1265
+	}
+	slaves = {
+		culture = malay
+		religion = sunni
+		size = 3449
+	}
+}
+#Kuala Terengganu (168000/42000 POPS)
+1391 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 373
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1092
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 18198
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1092
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1265
+	}
+	slaves = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+}
+#Northern Borneo Region (252000)
+#Under the Rule of Brunei in 1836 (212000)
+#Brunei (24000/6000 POPS)
+1393 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 57
+	}
+	officers = {
+		culture = malay
+		religion = sunni
+		size = 28
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 5750
+	}
+	
+	slaves = {
+		culture = malay
+		religion = sunni
+		size = 575
+	}
+}
+#Kuching (88000/22000 POPS)
+1394 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 575
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1265
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 14144
+	}
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 143
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 3449
+	}
+	
+	farmers = {
+		culture = dayak
+		religion = protestant
+		size = 143
+	}
+	
+	artisans = {
+		culture = dayak
+		religion = protestant
+		size = 28
+	}
+	
+	clergymen = {
+		culture = dayak
+		religion = protestant
+		size = 11
+	}
+	slaves = {
+		culture = dayak
+		religion = animist
+		size = 3449
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 546
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 575
+	}
+}
+#Bintulu (44000/11000 POPS)
+1395 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 28
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 5433
+	}
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 3449
+	}
+	
+	slaves = {
+		culture = dayak
+		religion = animist
+		size = 2300
+	}
+	
+	farmers = {
+		culture = dayak
+		religion = protestant
+		size = 431
+	}
+	
+	artisans = {
+		culture = dayak
+		religion = protestant
+		size = 57
+	}
+	
+	clergymen = {
+		culture = dayak
+		religion = protestant
+		size = 11
+	}
+}
+#Api (56000/14000 POPS)
+1396 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 86
+	}
+	
+	slaves = {
+		culture = dayak
+		religion = animist
+		size = 5750
+	}
+	
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 2961
+	}
+	
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 287
+	}
+	
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 28
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 402
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 18888
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 575
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 546
+	}
+}
+#Under the Rule of Sulu in 1836 (40000)
+#Sandakan (40000/10000 POPS)
+1397 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 86
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 86
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 3996
+	}
+	
+	slaves = {
+		culture = dayak
+		religion = animist
+		size = 3449
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 28
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1092
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 28
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 4312
+	}
+}

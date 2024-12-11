@@ -1,0 +1,804 @@
+#Afghanistan Region (3672000)
+#under the rule of Afghanistan in 1836
+#Kabul (996000/249000 POPS)
+1209 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 3162
+	}
+	bureaucrats = {
+		culture = pashtun
+		religion = sunni
+		size = 948
+	}
+	officers = {
+		culture = pashtun
+		religion = sunni
+		size = 718
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 1581
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 6209
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 3449
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 3449
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 3449
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 2300
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 115028
+	}
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 2300
+	}
+	officers = {
+		culture = tajik
+		religion = sunni
+		size = 402
+	}
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 1121
+	}
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 5635
+	}
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 95191
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 287
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 158
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 919
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 172
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 92761
+	}
+	slaves = {
+		culture = panjabi
+		religion = sikh
+		size = 16675
+	}
+	slaves = {
+		culture = uzbek
+		religion = sunni
+		size = 31624
+	}
+	slaves = {
+		culture = hazara
+		religion = sunni
+		size = 20700
+	}
+}
+#Balkh (516000/129000 POPS)
+1211 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1839
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 934
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 1897
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 948
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 80628
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 862
+	}
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 446
+	}
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 1035
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 5750
+	}
+	
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 446
+	}
+	
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 1035
+	}
+	
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 4600
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 172
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 101
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 575
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 114
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 4786
+	}
+	slaves = {
+		culture = pashtun
+		religion = sunni
+		size = 17250
+	}
+}
+#Maymana (516000/129000 POPS)
+2519 = {
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 129
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 3578
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 446
+	}
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 575
+	}
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 1006
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 3449
+	}
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 4024
+	}
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 101
+	}
+	
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 114
+	}
+	
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 1250
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 172
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 101
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 575
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 114
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 2486
+	}
+	slaves = {
+		culture = pashtun
+		religion = sunni
+		size = 3449
+	}
+}
+#Herat (324000/81000 POPS)
+1212 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 948
+	}
+	
+	bureaucrats = {
+		culture = pashtun
+		religion = sunni
+		size = 431
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 431
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 2357
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 39847
+	}
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 273
+	}
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 17148
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 804
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 2300
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 3449
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 17250
+	}
+	slaves = {
+		culture = uzbek
+		religion = sunni
+		size = 7474
+	}
+}
+#Bamyan (412000/103000 POPS)
+1213 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 373
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 201
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 977
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 16847
+	}
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 158
+	}
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 804
+	}
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 13698
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 1207
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 575
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 3104
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 603
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 56608
+	}
+	aristocrats = {
+		culture = hazara
+		religion = sunni
+		size = 402
+	}
+	clergymen = {
+		culture = hazara
+		religion = sunni
+		size = 216
+	}
+	artisans = {
+		culture = hazara
+		religion = sunni
+		size = 977
+	}
+	soldiers = {
+		culture = hazara
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = hazara
+		religion = sunni
+		size = 14503
+	}
+	slaves = {
+		culture = uzbek
+		religion = sunni
+		size = 9775
+	}
+}
+#Farrah (464000/116000 POPS)
+1214 = {
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 632
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 331
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 1609
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 23876
+	}
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1983
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 1006
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 5060
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 80500
+	}
+	slaves = {
+		culture = persian
+		religion = sunni
+		size = 27599
+	}
+}
+#Kandahar (368000/92000 POPS)
+1215 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1839
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 963
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 4657
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 2300
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 83618
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 201
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 114
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 603
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 114
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 9315
+	}
+	slaves = {
+		culture = hazara
+		religion = sunni
+		size = 3449
+	}
+}
+#Jalalabad (268000/67000 POPS)
+1216 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1494
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 776
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 3852
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 3449
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 66682
+	}
+	slaves = {
+		culture = panjabi
+		religion = sikh
+		size = 4255
+	}
+	farmers = {
+		culture = panjabi 
+		religion = animist
+		size = 25299
+	}
+}
+#Ghazni (324000/81000 POPS)
+1217 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1552
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 791
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 3909
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 776
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 71170
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 229
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 129
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 747
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 143
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 13698
+	}
+	slaves = {
+		culture = hazara
+		religion = sunni
+		size = 3794
+	}
+}
+#Badakhshan Region (340000)
+#under the rule of Afghanistan in 1836
+#Faizabad (340000/85000 POPS)
+1210 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 143
+	}
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 114
+	}
+	
+	bureaucrats = {
+		culture = uzbek
+		religion = sunni
+		size = 345
+	}
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 402
+	}
+	
+	officers = {
+		culture = uzbek
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 6338
+	}
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 1897
+	}
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 891
+	}
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 4312
+	}
+	
+	officers = {
+		culture = tajik
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 1035
+	}
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 72248
+	}
+	slaves = {
+		culture = tajik
+		religion = sunni
+		size = 6899
+	}
+}

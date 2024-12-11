@@ -1,0 +1,924 @@
+#Lower Swahili Coast Region (560000)
+#ruled by kingdom of Oman in 1836
+#Dar es Salaam (220000/55000 POPS)
+2036 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 1092
+	}
+	bureaucrats = {
+		culture = swahili
+		religion = sunni
+		size = 86
+	}
+	officers = {
+		culture = swahili
+		religion = sunni
+		size = 143
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 603
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 2300
+	}
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 575
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 37748
+	}
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 16099
+	}
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 229
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 4197
+	}
+}
+#Tanga (88000/22000 POPS)
+2037 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 373
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 201
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 833
+	}
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 201
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 13339
+	}
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 6899
+	}
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 229
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 3047
+	}
+}
+#Kilwa (188000/47000 POPS)
+2038 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 632
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 316
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 1293
+	}
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 345
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 16962
+	}
+	aristocrats = {
+		culture = yao
+		religion = animist
+		size = 402
+	}
+	clergymen = {
+		culture = yao
+		religion = animist
+		size = 229
+	}
+	artisans = {
+		culture = yao
+		religion = animist
+		size = 1092
+	}
+	soldiers = {
+		culture = yao
+		religion = animist
+		size = 229
+	}
+	tribals = {
+		culture = yao
+		religion = animist
+		size = 19895
+	}
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 11500
+	}
+}
+#Lindi (64000/16000 POPS)
+2039 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 114
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = ibadi
+		size = 575
+	}
+	bureaucrats = {
+		culture = bedouin
+		religion = ibadi
+		size = 28
+	}
+	clergymen = {
+		culture = bedouin
+		religion = ibadi
+		size = 57
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 747
+	}
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 201
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 12333
+	}
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 4600
+	}
+}
+#Ruvuma-Rufiji Region (568000)
+#uncolonized in 1836
+#Songea (136000/34000 POPS)
+2040 = {
+	aristocrats = {
+		culture = yao
+		religion = sunni
+		size = 431
+	}
+	clergymen = {
+		culture = yao
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = yao
+		religion = sunni
+		size = 919
+	}
+	soldiers = {
+		culture = yao
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = yao
+		religion = sunni
+		size = 17738
+	}
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 258
+	}
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 690
+	}
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 143
+	}
+	tribals = {
+		culture = nyasa
+		religion = animist
+		size = 12563
+	}
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 3449
+	}
+	slaves = {
+		culture = chewa
+		religion = animist
+		size = 2300
+	}
+}
+#Masasi (132000/33000 POPS)
+2041 = {
+	aristocrats = {
+		culture = yao
+		religion = sunni
+		size = 546
+	}
+	clergymen = {
+		culture = yao
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = yao
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = yao
+		religion = sunni
+		size = 287
+	}
+	farmers = {
+		culture = yao
+		religion = sunni
+		size = 17393
+	}
+	aristocrats = {
+		culture = southern_bantu
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = southern_bantu
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = southern_bantu
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = southern_bantu
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = southern_bantu
+		religion = animist
+		size = 8366
+	}
+	slaves = {
+		culture = southern_bantu
+		religion = animist
+		size = 9200
+	}
+}
+#Iringa (300000/75000 POPS)
+2042 = {
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 431
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 229
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 919
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 229
+	}
+	tribals = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 15208
+	}
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 517
+	}
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 258
+	}
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 1322
+	}
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 258
+	}
+	tribals = {
+		culture = nyasa
+		religion = animist
+		size = 24092
+	}
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 14949
+	}
+	aristocrats = {
+		culture = nyasa
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = nyasa
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = nyasa
+		religion = sunni
+		size = 229
+	}
+	soldiers = {
+		culture = nyasa
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = nyasa
+		religion = sunni
+		size = 4197
+	}
+	aristocrats = {
+		culture = yao
+		religion = animist
+		size = 603
+	}
+	clergymen = {
+		culture = yao
+		religion = animist
+		size = 316
+	}
+	artisans = {
+		culture = yao
+		religion = animist
+		size = 1265
+	}
+	soldiers = {
+		culture = yao
+		religion = animist
+		size = 316
+	}
+	tribals = {
+		culture = yao
+		religion = animist
+		size = 20498
+	}
+}
+#Tanganyikia Region (1276000)
+#uncolonized in 1836/dominated by the Unyamwezi
+#Tabora (260000/65000 POPS)
+2043 = {
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1408
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 747
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 2932
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 747
+	}
+	tribals = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 50542
+	}
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 8049
+	}
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 3104
+	}
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 6899
+	}
+}
+#Mwanza (368000/92000 POPS)
+2044 = {
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 546
+	}
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 1265
+	}
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 287
+	}
+	tribals = {
+		culture = luo
+		religion = animist
+		size = 10378
+	}
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1380
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 718
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 3392
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 718
+	}
+	tribals = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 53647
+	}
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 27599
+	}
+	aristocrats = {
+		culture = ruanda
+		religion = animist
+		size = 11
+	}
+	clergymen = {
+		culture = ruanda
+		religion = animist
+		size = 28
+	}
+	artisans = {
+		culture = ruanda
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = ruanda
+		religion = animist
+		size = 17
+	}
+	tribals = {
+		culture = ruanda
+		religion = animist
+		size = 1035
+	}
+	aristocrats = {
+		culture = ruanda
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = ruanda
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = ruanda
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = ruanda
+		religion = animist
+		size = 28
+	}
+	tribals = {
+		culture = ruanda
+		religion = animist
+		size = 3104
+	}
+}
+#Morogoro (232000/58000 POPS)
+2045 = {
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1150
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 603
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 2415
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 575
+	}
+	tribals = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 41112
+	}
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 459
+	}
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 86
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 4053
+	}
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 16099
+	}
+}
+#Ujiji (336000/84000 POPS)
+2046 = {
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1236
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 632
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 2530
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 632
+	}
+	tribals = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 36138
+	}
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 546
+	}
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 1437
+	}
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 287
+	}
+	tribals = {
+		culture = nyasa
+		religion = animist
+		size = 26191
+	}
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 13799
+	}
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 4197
+	}
+}
+#Arusha (80000/20000 POPS)
+2047 = {
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 690
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 172
+	}
+	tribals = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 12592
+	}
+
+	aristocrats = {
+		culture = maasai
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = maasai
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = maasai
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = maasai
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = maasai
+		religion = animist
+		size = 8366
+	}
+
+	slaves = {
+		culture = cushitic
+		religion = sunni
+		size = 2300
+	}
+}
+#Zanzibar Region (156000)
+#ruled by Oman in 1836
+#Zanzibar (156000/39000 POPS)
+2048 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 603
+	}
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 1265
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 8164
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = ibadi
+		size = 172
+	}
+	bureaucrats = {
+		culture = bedouin
+		religion = ibadi
+		size = 86
+	}
+	officers = {
+		culture = bedouin
+		religion = ibadi
+		size = 86
+	}
+	clergymen = {
+		culture = bedouin
+		religion = ibadi
+		size = 57
+	}
+	artisans = {
+		culture = bedouin
+		religion = ibadi
+		size = 229
+	}
+	soldiers = {
+		culture = bedouin
+		religion = ibadi
+		size = 517
+	}
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 459
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 1207
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 258
+	}
+	farmers = {
+		culture = lacustrine_bantu
+		religion = sunni
+		size = 21993
+	}
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 9200
+	}
+}

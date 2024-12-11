@@ -1,0 +1,196 @@
+#Togo Region (368000) #see Ghana.txt for balance of region
+#uncolonized in 1836
+#Lome (216000/54000 POPS)
+1914 = {
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 891
+	}
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 459
+	}
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 1811
+	}
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 459
+	}
+	tribals = {
+		culture = ewe
+		religion = animist
+		size = 35477
+	}
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 316
+	}
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 690
+	}
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 172
+	}
+	tribals = {
+		culture = east_kwa
+		religion = animist
+		size = 13598
+	}
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 8049
+	}
+}
+#Atakpane (128000/32000 POPS)
+1917 = {
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 287
+	}
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 804
+	}
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 172
+	}
+	tribals = {
+		culture = ewe
+		religion = animist
+		size = 14662
+	}
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 402
+	}
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = east_kwa
+		religion = animist
+		size = 7331
+	}
+	aristocrats = {
+		culture = fon
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = fon
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = fon
+		religion = animist
+		size = 517
+	}
+	soldiers = {
+		culture = fon
+		religion = animist
+		size = 143
+	}
+	tribals = {
+		culture = fon
+		religion = animist
+		size = 9343
+	}
+	slaves = {
+		culture = fon
+		religion = animist
+		size = 2300
+	}
+}
+#Sokode (24000/6000 POPS)
+1918 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = gur
+		religion = animist
+		size = 4197
+	}
+	aristocrats = {
+		culture = gur
+		religion = sunni
+		size = 28
+	}
+	clergymen = {
+		culture = gur
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = gur
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = gur
+		religion = sunni
+		size = 28
+	}
+	farmers = {
+		culture = gur
+		religion = sunni
+		size = 2070
+	}
+}

@@ -1,0 +1,218 @@
+#Bechuanaland Region (76000) #see South Africa.txt for balance of region
+#uncolonized in 1836/dominated by the Tswana in 1836
+#Gaborone (28000/7000 POPS)
+2074 = {
+	aristocrats = {
+		culture = tswana
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = tswana
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = tswana
+		religion = animist
+		size = 402
+	}
+	soldiers = {
+		culture = tswana
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = tswana
+		religion = animist
+		size = 7331
+	}
+}
+#Nokaneng (12000/3000 POPS)
+2076 = {
+	aristocrats = {
+		culture = tswana
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = tswana
+		religion = animist
+		size = 28
+	}
+	artisans = {
+		culture = tswana
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = tswana
+		religion = animist
+		size = 11
+	}
+	tribals = {
+		culture = tswana
+		religion = animist
+		size = 1035
+	}
+	aristocrats = {
+		culture = herero
+		religion = animist
+		size = 28
+	}
+	clergymen = {
+		culture = herero
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = herero
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = herero
+		religion = animist
+		size = 28
+	}
+	tribals = {
+		culture = herero
+		religion = animist
+		size = 2070
+	}
+}
+#Tshabong (12000/3000 POPS)
+2077 = {
+	aristocrats = {
+		culture = tswana
+		religion = animist
+		size = 28
+	}
+	clergymen = {
+		culture = tswana
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = tswana
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = tswana
+		religion = animist
+		size = 28
+	}
+	tribals = {
+		culture = tswana
+		religion = animist
+		size = 2070
+	}
+	aristocrats = {
+		culture = khoisan
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = khoisan
+		religion = animist
+		size = 28
+	}
+	artisans = {
+		culture = khoisan
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = khoisan
+		religion = animist
+		size = 11
+	}
+	tribals = {
+		culture = khoisan
+		religion = animist
+		size = 1035
+	}
+}
+#Mochidi (16000/4000 POPS)
+2574 = {
+	aristocrats = {
+		culture = tswana
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = tswana
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = tswana
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = tswana
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = tswana
+		religion = animist
+		size = 4197
+	}
+}
+#under the rule of Matabele in 1836
+#Serowe (16000/4000 POPS)
+2075 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 34
+	}
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 46
+	}
+	tribals = {
+		culture = nguni
+		religion = animist
+		size = 2070
+	}
+	aristocrats = {
+		culture = tswana
+		religion = animist
+		size = 34
+	}
+	clergymen = {
+		culture = tswana
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = tswana
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = tswana
+		religion = animist
+		size = 23
+	}
+	tribals = {
+		culture = tswana
+		religion = animist
+		size = 2070
+	}
+}

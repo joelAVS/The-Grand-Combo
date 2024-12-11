@@ -1,0 +1,120 @@
+#French Guiana (20000)
+#Ruled by France 1836
+#Cayenne (17000/4500 POPS)
+2241 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 345
+	}
+	artisans = {
+		culture = kreol
+		religion = catholic
+		size = 172
+	}
+	soldiers = {
+		culture = mullato
+		religion = catholic
+		size = 57
+	}
+	farmers = {
+		culture = mullato
+		religion = catholic
+		size = 575
+	}
+	slaves = {
+		culture = afro_antillean
+		religion = catholic
+		size = 229
+		militancy = 3
+	}
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 804
+	}
+		farmers = {
+		culture = arawak
+		religion = animist
+		size = 1150
+	}
+		farmers = {
+		culture = carib
+		religion = animist
+		size = 1380
+	}
+}
+#Wayana (3000/800 POPS)
+2246 = {
+		soldiers = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+		slaves = {
+		culture = afro_antillean
+		religion = catholic
+		size = 114
+		militancy = 3
+	}
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 287
+	}
+		farmers = {
+		culture = carib
+		religion = animist
+		size = 287
+	}
+}

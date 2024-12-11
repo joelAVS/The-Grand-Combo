@@ -1,0 +1,82 @@
+#Luxembourg Region (167000)
+#De jure in personal union with Netherlands; De Facto part of Belgium 1836
+#See Belgium.txt for remainder of region
+#Luxembourg (167000/41750 POPS)
+397 = {
+	aristocrats = {
+		culture = north_german
+		religion = catholic
+		size = 287
+	}
+	bureaucrats = {
+		culture = north_german
+		religion = catholic
+		size = 86
+	}
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 345
+	}
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 3018
+	}
+	soldiers = {
+		culture = north_german
+		religion = catholic
+		size = 3449
+	}
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 39928
+	}
+	craftsmen = {
+		culture = north_german
+		religion = catholic
+		size = 86
+	}
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 86
+	}
+	officers = {
+		culture = north_german
+		religion = catholic
+		size = 86
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 482
+	}
+	
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 5
+	}
+}

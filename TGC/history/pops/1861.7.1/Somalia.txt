@@ -1,0 +1,342 @@
+#file includes modern Somalia and Djibouti
+#Benadir Region (392000)
+#under the loose rule of Muscat in 1836
+#Mogadishu (216000/54000 POPS)
+1868 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 1207
+	}
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 114
+	}
+	officers = {
+		culture = somali
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 632
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 2501
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 1293
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 66700
+	}
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 6899
+	}
+}
+#Kismayo (84000/21000 POPS)
+1870 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 316
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 747
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 15841
+	}
+	aristocrats = {
+		culture = cushitic
+		religion = animist
+		size = 86
+	}
+	clergymen = {
+		culture = cushitic
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = cushitic
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = cushitic
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = cushitic
+		religion = animist
+		size = 5261
+	}
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 1265
+	}
+}
+#uncolonized/ruled by the Sultan of Geledi in 1836
+#Baidoa (92000/23000 POPS)
+1869 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 517
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 258
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 1322
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 1351
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 23000
+	}
+}
+#Majerteyn Region (192000)
+#under the loose rule of Muscat via Sultan of Majerteyn in 1836
+#Hobye (76000/19000 POPS)
+1871 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 402
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 201
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 891
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 17825
+	}
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 2300
+	}
+}
+#Busaso (116000/29000 POPS)
+1872 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 621
+	}
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 57
+	}
+	officers = {
+		culture = somali
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 316
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 1351
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 24092
+	}
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 5750
+	}
+}
+#Adal Region (244000)
+#under the loose rule of Egypt 1836
+#Berbera (188000/47000 POPS)
+1873 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 1023
+	}
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 11
+	}
+	officers = {
+		culture = somali
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 517
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 2127
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 2012
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 36800
+	}
+	slaves = {
+		culture = oromo
+		religion = animist
+		size = 8049
+	}
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 3449
+	}
+}
+#Zayla (32000/8000 POPS)
+1874 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 459
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 86
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 8395
+	}
+}
+#Jibuti (28000/7000 POPS) #now part of Djibouti
+1875 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 172
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 28
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 3104
+	}
+	aristocrats = {
+		culture = afar
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = afar
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = afar
+		religion = sunni
+		size = 229
+	}
+	soldiers = {
+		culture = afar
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = afar
+		religion = sunni
+		size = 4168
+	}
+}

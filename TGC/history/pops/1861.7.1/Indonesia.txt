@@ -1,0 +1,3944 @@
+#East Sumatra Region (1188400)
+#ruled by the Netherlands 1836
+#Palembang (540400/135100 POPS)
+1399 = {
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 804
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 373
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 1724
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 402
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 19693
+	}
+
+	slaves = {
+		culture = malay
+		religion = animist
+		size = 17250
+	}
+	bureaucrats = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 862
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 172
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 1265
+	}
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 1006
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 4600
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 105656
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 11
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 23
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 23
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+}
+#Tanjungpinang (100000/25000 POPS)
+1402 = {
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 919
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 172
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 6669
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 459
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 19693
+	}
+}
+#Lampung (548000/137000 POPS)
+1403 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 1724
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 1006
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 4024
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1437
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 121756
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 402
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 229
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 1265
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 287
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 11730
+	}
+
+	slaves = {
+		culture = malay
+		religion = animist
+		size = 11500
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2702
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 632
+	}
+}
+#Riau Region (88000)
+#ruled by The Netherlands 1836
+#Pangkalpinang (70000/17500 POPS)
+1404 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 862
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 15927
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 28
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 143
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 2616
+	}
+}
+#Natuna (18000/4500 POPS)
+2576 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 69
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 46
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 3104
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 28
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 86
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 1563
+	}
+}
+#Siak Region (372000)
+#ruled by Siak 1836
+#Jambi (120000/30000 POPS)
+1398 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 575
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 26162
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1092
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1178
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 57
+	}
+	slaves = {
+		culture = malay
+		religion = animist
+		size = 4370
+	}
+}
+#Inderagiri (96000/24000 POPS)
+1400 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 459
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1322
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 13972
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 804
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1466
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 86
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 8711
+	}
+}
+#Siak (156000/39000 POPS)
+1401 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 402
+	}
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 316
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 833
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 32516
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1265
+	}
+	labourers = {
+		culture = yue
+		religion = mahayana
+		size = 1121
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 201
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 86
+	}
+	slaves = {
+		culture = malay
+		religion = animist
+		size = 7561
+	}
+}
+#Aceh Region (444000)
+#Ruled by Aceh 1836
+#Banda Aceh (128000/32000 POPS)
+1405 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 459
+	}
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	officers = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 316
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 2587
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 2300
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 46747
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 201
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 517
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 229
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 9746
+	}
+
+	slaves = {
+		culture = malay
+		religion = animist
+		size = 2300
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1150
+	}
+}
+#Medan (160000/40000 POPS)
+1406 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 29324
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 172
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 15323
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1265
+	}
+}
+#Tapaktuan (156000/39000 POPS)
+1407 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 316
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1437
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 23833
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 16588
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 575
+	}
+}
+#Minangkabau Region (956000)
+#ruled by The Netherlands 1836
+#Padang (240000/60000 POPS)
+1408 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 114
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 114
+	}
+
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 517
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 431
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 2415
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 459
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 42521
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 862
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 229
+	}
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 172
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 11988
+	}
+	slaves = {
+		culture = malay
+		religion = animist
+		size = 9200
+	}
+}
+#Sibolga (528000/132000 POPS)
+1409 = {
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 459
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 1437
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 402
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 38812
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2012
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 229
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 1437
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 1006
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 4312
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 92143
+	}
+
+	slaves = {
+		culture = malay
+		religion = animist
+		size = 11500
+	}
+}
+#Bencoolen (120000/30000 POPS)
+1410 = {
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 69
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 13466
+	}
+	bureaucrats = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 862
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1293
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 229
+	}
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 862
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 16818
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 11
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 23
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 23
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+}
+#Gunungsitoli (68000/17000 POPS)
+1411 = {
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 345
+	}
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 804
+	}
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 229
+	}
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 17997
+	}
+}
+#Java Region - 8236000
+#ruled by the Netherlands 1836
+#Batavia (2236000/559000 POPS)
+1413 = {
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 4600
+	}
+	bureaucrats = {
+		culture = javan
+		religion = sunni
+		size = 575
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 2875
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 18400
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 5462
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 504274
+	}
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 575
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 431
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 575
+	}
+	slaves = {
+		culture = javan
+		religion = animist
+		size = 59081
+	}
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 862
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 2012
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 86
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 1236
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 2587
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 258
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11500
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 5750
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 402
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 11988
+	}
+	slaves = {
+		culture = yue
+		religion = mahayana
+		size = 9200
+	}
+}
+#Bogor (748000/187000 POPS)
+1414 = {
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 345
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 1839
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 345
+	}
+	farmers = {
+		culture = javan
+		religion = animist
+		size = 31797
+	}
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 1724
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 1724
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 8625
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 1724
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 166750
+	}
+}
+#Cirebon (968000/242000 POPS)
+1415 = {
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 86
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 5433
+	}
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 1265
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 229
+	}
+	farmers = {
+		culture = javan
+		religion = animist
+		size = 20240
+	}
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 2300
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 2300
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 9200
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 2587
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 219362
+	}
+}
+#Yogyakarta (536000/134000 POPS)
+1416 = {
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 1724
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 1437
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 6899
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 1437
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 142887
+	}
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 862
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 143
+	}
+	farmers = {
+		culture = javan
+		religion = animist
+		size = 11471
+	}
+}
+#Semarang (1116000/279000 POPS)
+1417 = {
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 2875
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 2731
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 11500
+	}
+
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 2300
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 2587
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 250556
+	}
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 287
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 258
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 1724
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 345
+	}
+	farmers = {
+		culture = javan
+		religion = animist
+		size = 34183
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 86
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 575
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 10608
+	}
+}
+#Surabaya (1092000/273000 POPS)
+1418 = {
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 2875
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 2875
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 10350
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 2875
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 262775
+	}
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 862
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 229
+	}
+	farmers = {
+		culture = javan
+		religion = animist
+		size = 20470
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 86
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 3737
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 6468
+	}
+}
+#Surakarta (360000/90000 POPS)
+1419 = {
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 1265
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 718
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 4600
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 862
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 82368
+	}
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = javan
+		religion = animist
+		size = 12908
+	}
+}
+#Probolingo (708000/177000 POPS)
+1420 = {
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 862
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	slaves = {
+		culture = javan
+		religion = animist
+		size = 11471
+	}
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 2012
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 1868
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 9200
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 1724
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 176093
+	}
+}
+#Madura (496000/124000 POPS)
+1421 = {
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 1609
+	}
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 1265
+	}
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 4600
+	}
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 1265
+	}
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 112124
+	}
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 1150
+	}
+	farmers = {
+		culture = javan
+		religion = animist
+		size = 9573
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2300
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 7819
+	}
+}
+#Eastern Borneo Region (542000)
+#uncolonized in 1836
+#Banjarmasin (166000/44000 POPS)
+1423 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 114
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 575
+	}
+
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 350
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 2156
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 17710
+	}
+
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 2645
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 1322
+	}
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 1477
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 6209
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1494
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 43872
+	}
+}
+#Muraleve (96000/24000 POPS)
+1422 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 57
+	}
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 114
+	}
+
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 459
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 575
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 3449
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 13799
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 9200
+	}
+	slaves = {
+		culture = dayak
+		religion = animist
+		size = 3449
+	}
+}
+#Pasir (64000/16000 POPS)
+1424 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 575
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 459
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 1380
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 575
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 29324
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 776
+	}
+
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 494
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 690
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 2415
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 4600
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 34672
+	}
+	slaves = {
+		culture = dayak
+		religion = animist
+		size = 5750
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 229
+	}
+	farmers = {
+		culture = yue
+		religion = animist
+		size = 4024
+	}
+}
+#Tarakan (96000/24000 POPS)
+1425 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 178
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 206
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 1023
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 10810
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 517
+	}
+
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 155
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 281
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1782
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 13799
+	}
+
+	slaves = {
+		culture = dayak
+		religion = animist
+		size = 2300
+	}
+}
+#Samarinda (120000/30000 POPS)
+1429 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 345
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 919
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 25299
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 161
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 184
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1839
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	labourers = {
+		culture = malay
+		religion = sunni
+		size = 7589
+	}
+}
+#Kutai Timur (67100/16775 POPs)
+3276 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 287
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 345
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 517
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 8625
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 229
+	}
+
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 517
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 8625
+	}
+}
+#Western Borneo Region (368000)
+#uncolonized in 1836
+#Pontianak (148000/37000 POPS)
+1426 = {
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 57
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 345
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 17250
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 575
+	}
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 4600
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 2300
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 13799
+	}
+	bureaucrats = {
+		culture = hakka
+		religion = mahayana
+		size = 143
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 86
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 4772
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 11787
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1724
+	}
+}
+#Lanfang (95000/23750)
+10 = {
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 287
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 161
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 9200
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 92
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 575
+	}
+	bureaucrats = {
+		culture = hakka
+		religion = mahayana
+		size = 229
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 287
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 3449
+	}
+	officers = {
+		culture = hakka
+		religion = mahayana
+		size = 92
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 17250
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2357
+	}
+
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 1092
+	}
+}
+#Matan (25000/6250)
+2637 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 459
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 459
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 2070
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 17250
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 402
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 322
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1724
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1724
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 8049
+	}
+
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 114
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 2875
+	}
+
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 862
+	}
+}
+
+#Kota Waringin (152000/38000 POPS)
+1427 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 977
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 724
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 3334
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 34615
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 575
+	}
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 264
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 345
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 1724
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 575
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 33350
+	}
+
+	slaves = {
+		culture = dayak
+		religion = animist
+		size = 3449
+	}
+}
+#Sintang (68000/17000 POPS)
+1428 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 1023
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 977
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 4657
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 862
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 43815
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 327
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 264
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 977
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 862
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 5405
+	}
+
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 4255
+	}
+
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 264
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 977
+	}
+}
+
+#Sambas (34000/8500)
+2665 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 276
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 2300
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 3449
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 19550
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 505
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 345
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1839
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 8049
+	}
+
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 2300
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 6899
+	}
+}
+#Palangkaraya (43800/10950 POPs)
+3275 = {
+	aristocrats = {
+		culture = dayak
+		religion = animist
+		size = 563
+	}
+	clergymen = {
+		culture = dayak
+		religion = animist
+		size = 793
+	}
+	artisans = {
+		culture = dayak
+		religion = animist
+		size = 1058
+	}
+	soldiers = {
+		culture = dayak
+		religion = animist
+		size = 1954
+	}
+	farmers = {
+		culture = dayak
+		religion = animist
+		size = 49622
+	}
+}
+#Celebes Region (1040000)
+#uncolonized in 1836
+#Makassar (224000/56000 POPS)
+1430 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 919
+	}
+	bureaucrats = {
+		culture = moluccan
+		religion = sunni
+		size = 345
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 603
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 12362
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 690
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 65578
+	}
+
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 5750
+	}
+}
+#Bone (140000/35000 POPS)
+1431 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 1207
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 977
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 4657
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 5290
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 81535
+	}
+
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 3449
+	}
+}
+#Mamuju (128000/32000 POPS)
+1432 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 1724
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 1724
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 25012
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 86
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 7676
+	}
+}
+#Menado (256000/64000 POPS)
+1433 = {
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 575
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 575
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 1609
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 575
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 46115
+	}
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 9200
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 201
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 201
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 2070
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 201
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 15726
+	}
+}
+#Luwuk (100000/25000 POPS)
+1434 = {
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 1150
+	}
+
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 287
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 287
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 1437
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 287
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 21850
+	}
+
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 3449
+	}
+}
+#Palu (96000/24000 POPS)
+1435 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 1437
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 287
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 23000
+	}
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 3449
+	}
+}
+#Kendari (48000/12000 POPS)
+1436 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 690
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 632
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 2587
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 2328
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 23488
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 287
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 3478
+	}
+}
+#Bulon (48000/12000 POPS)
+1437 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 690
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 12678
+	}
+}
+#Sunda Region (1536400)
+#Ruled by Bali 1836
+#Bali (640000/160000 POPS)
+1438 = {
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 15007
+	}
+	aristocrats = {
+		culture = malay
+		religion = hindu
+		size = 1724
+	}
+	bureaucrats = {
+		culture = malay
+		religion = hindu
+		size = 143
+	}
+	officers = {
+		culture = malay
+		religion = hindu
+		size = 229
+	}
+	clergymen = {
+		culture = malay
+		religion = hindu
+		size = 1638
+	}
+	artisans = {
+		culture = malay
+		religion = hindu
+		size = 8049
+	}
+	soldiers = {
+		culture = malay
+		religion = hindu
+		size = 3449
+	}
+	soldiers = {
+		culture = malay
+		religion = hindu
+		size = 1150
+	}
+	farmers = {
+		culture = malay
+		religion = hindu
+		size = 126212
+	}
+
+	slaves = {
+		culture = malay
+		religion = hindu
+		size = 23000
+	}
+}
+#Lombok (200000/50000 POPS)
+1442 = {
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 15122
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 459
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 459
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 2300
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 37030
+	}
+}
+#ruled by the Netherlands 1836
+#Flores (176000/44000 POPS)
+1439 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 575
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 488
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 2530
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 517
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 44188
+	}
+	slaves = {
+		culture = moluccan
+		religion = sunni
+		size = 2300
+	}
+}
+#Sumbawa (244000/61000 POPS)
+1440 = {
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 201
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 862
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 172
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 18083
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 575
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 488
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 2530
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 517
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 46488
+	}
+}
+#Sumba (192000/48000 POPS)
+1441 = {
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 1839
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 345
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 48328
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 402
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 402
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 919
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 5002
+	}
+
+	farmers = {
+		culture = moluccan
+		religion = hindu
+		size = 575
+	}
+}
+#Roti (24000/6000 POPS)
+1443 = {
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 86
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 6353
+	}
+}
+#Alor (36000/9000 POPS)
+1444 = {
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 23
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 46
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 23
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 2093
+	}
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 86
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 86
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 7446
+	}
+}
+#Kaupeng (24400/6100 POPS)
+1445 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 23
+	}
+
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 23
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 40
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 11
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 1058
+	}
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 3449
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 17
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 28
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+}
+
+3401 = {
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 1839
+	}
+}
+#Ruled by Portugal 1836
+#Lifau (?/? POPS)
+2647 = {
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 17
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 28
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 345
+	}
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 862
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 11
+	}
+}
+
+#Dili (88000/22000 POPS)
+1446 = {
+	clergymen = {
+		culture = moluccan
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = moluccan
+		religion = catholic
+		size = 287
+	}
+	soldiers = {
+		culture = moluccan
+		religion = catholic
+		size = 17
+	}
+	farmers = {
+		culture = moluccan
+		religion = catholic
+		size = 816
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 4370
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 862
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 1351
+	}
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 16761
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 11
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 28
+	}
+}
+#Moluccas Region (280000)
+#ruled by The Netherlands 1836
+#Ambon (44400/11100 POPS)
+1449 = {
+	aristocrats = {
+		culture = moluccan
+		religion = protestant
+		size = 132
+	}
+	bureaucrats = {
+		culture = moluccan
+		religion = protestant
+		size = 11
+	}
+	clergymen = {
+		culture = moluccan
+		religion = protestant
+		size = 143
+	}
+	artisans = {
+		culture = moluccan
+		religion = protestant
+		size = 690
+	}
+	soldiers = {
+		culture = moluccan
+		religion = protestant
+		size = 172
+	}
+	farmers = {
+		culture = moluccan
+		religion = protestant
+		size = 1265
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 17
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 28
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+}
+#uncolonized in 1836
+#Ternate (120000/30000 POPS)
+1447 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 114
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 201
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 172
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 16531
+	}
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 2300
+	}
+	clergymen = {
+		culture = moluccan
+		religion = protestant
+		size = 57
+	}
+	artisans = {
+		culture = moluccan
+		religion = protestant
+		size = 459
+	}
+	soldiers = {
+		culture = moluccan
+		religion = protestant
+		size = 57
+	}
+	farmers = {
+		culture = moluccan
+		religion = protestant
+		size = 1724
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 143
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 143
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 11097
+	}
+}
+#Jilolo (36000/9000 POPS)
+1448 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 86
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 6899
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = sunni
+		size = 1926
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 23
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 28
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 402
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 28
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 781
+	}
+}
+#Ceram (56000/14000 POPS)
+1450 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 632
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 86
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 6037
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 86
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 8740
+	}
+}
+#Aru (24000/6000 POPS)
+1451 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 4197
+	}
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 28
+	}
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 2070
+	}
+}
+#Wests Papua (432000)
+#uncolonized in 1836
+#Sorong (88000/22000 POPS)
+1453 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 4427
+	}
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 402
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 172
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 18687
+	}
+}
+#Biak (32000/8000 POPS)
+1452 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 114
+	}
+
+	bureaucrats = {
+		culture = moluccan
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 86
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 8653
+	}
+}
+#Merah (172000/43000 POPS)
+1454 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 517
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 488
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 2300
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 459
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 41083
+	}
+	slaves = {
+		culture = melanesian
+		religion = animist
+		size = 4600
+	}
+}
+#Merauke (140000/35000 POPS)
+1560 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 459
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 402
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 1724
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 345
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 37317
+	}
+}

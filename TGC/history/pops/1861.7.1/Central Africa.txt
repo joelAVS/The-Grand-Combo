@@ -1,0 +1,360 @@
+#Ubangi-Shari Region (228000)
+#uncolonized in 1836
+#Bangui (104000/26000 POPS)
+1965 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 575
+	}
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 1494
+	}
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 316
+	}
+	tribals = {
+		culture = ubangian
+		religion = animist
+		size = 27226
+	}
+}
+#Nola (40000/10000 POPS)
+1966 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 86
+	}
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = ubangian
+		religion = animist
+		size = 10493
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 575
+	}
+
+}
+#uncolonized in 1836/under influence of Baguirmi
+#Bouar (28000/7000 POPS)
+1967 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 402
+	}
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = ubangian
+		religion = animist
+		size = 7331
+	}
+
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 1035
+	}
+}
+#Bossangoa (56000/14000 POPS)
+1968 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 86
+	}
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = ubangian
+		religion = animist
+		size = 10493
+	}
+	aristocrats = {
+		culture = baguirmi
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = baguirmi
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = baguirmi
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = baguirmi
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 1035
+	}
+	aristocrats = {
+		culture = sara
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = sara
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = sara
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = sara
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = sara
+		religion = animist
+		size = 3104
+	}
+}
+#Dar Banda Region (128000)
+#uncolonized in 1836/under influence of Azande
+#Zemio (44000/11000 POPS)
+1969 = {
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = azande
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = azande
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = azande
+		religion = animist
+		size = 6296
+	}
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 86
+	}
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = ubangian
+		religion = animist
+		size = 5261
+	}
+}
+#Bangassou (56000/14000 POPS)
+1970 = {
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = azande
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = azande
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = azande
+		religion = animist
+		size = 1035
+	}
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 258
+	}
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 747
+	}
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 172
+	}
+	tribals = {
+		culture = ubangian
+		religion = animist
+		size = 13656
+	}
+}
+#uncolonized in 1836/under influence of Wadai
+#Ndele (28000/7000 POPS)
+1971 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 1035
+	}
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = ubangian
+		religion = animist
+		size = 6296
+	}
+}

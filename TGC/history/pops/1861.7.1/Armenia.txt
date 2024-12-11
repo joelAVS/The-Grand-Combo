@@ -1,0 +1,456 @@
+#Armenia Region (30000)
+#under the rule of Russia in 1836
+#Erivan (128000/32000 POPS)
+1098 = {
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 86
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 11
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 86
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 451
+	}
+
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 63
+	}
+
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 128
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 451
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 451
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 33248
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 229
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 229
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 287
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 3507
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 143
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 143
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 3277
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = yazidi
+		size = 2300
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 345
+	}
+}
+#Gyumri (68000/17000 POPS)
+1099 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 517
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 301
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1380
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 301
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 25443
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = orthodox
+		size = 11
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = orthodox
+		size = 17
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = orthodox
+		size = 11
+	}
+
+	farmers = {
+		culture = georgian
+		religion = orthodox
+		size = 1063
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 373
+	}
+}
+#Kapan (44000/11000 POPS)
+1100 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 143
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 86
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 459
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 86
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 8423
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 28
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 28
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 258
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 2616
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 57
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 86
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 575
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 11
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 17
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 17
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+}
+#Nakhichevan (60000/15000 POPS) #now part of Azerbaijan
+1101 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 258
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 316
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 517
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 345
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 11787
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 114
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 86
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 57
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 5175
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 114
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 201
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 172
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 1724
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 11
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 17
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 17
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+}
+#Gyumri (68000/17000 POPS)
+3360 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 143
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 201
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 517
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 114
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 2817
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = orthodox
+		size = 11
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = orthodox
+		size = 17
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = orthodox
+		size = 11
+	}
+
+	farmers = {
+		culture = georgian
+		religion = orthodox
+		size = 4628
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 718
+	}
+}

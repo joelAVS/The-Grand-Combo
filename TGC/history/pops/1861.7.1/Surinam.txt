@@ -1,0 +1,109 @@
+#Surinam : 56640
+#Ruled by The Netherlands 1836
+#Paramaribo (48640/12500 POPS)
+2240 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 69
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 114
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+	clergymen = {
+		culture = mullato
+		religion = protestant
+		size = 57
+		militancy = 4
+	}
+	artisans = {
+		culture = mullato
+		religion = protestant
+		size = 1150
+		militancy = 4
+	}
+		soldiers = {
+		culture = mullato
+		religion = protestant
+		size = 103
+		militancy = 4
+	}
+	farmers = {
+		culture = mullato
+		religion = protestant
+		size = 1150
+		militancy = 4
+	}
+	slaves = {
+		culture = mullato
+		religion = protestant
+		size = 229
+		militancy = 2
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = animist
+		size = 6899
+		militancy = 2
+	}
+		clergymen = {
+		culture = arawak
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 1380
+	}
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 172
+	}
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 2875
+	}
+}
+#Stoelmanseiland (8000/2000 POPS)
+2245 = {
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 804
+	}
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 1150
+	}
+}

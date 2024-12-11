@@ -1,0 +1,2201 @@
+#Macedonia Region (564000) #see Macedonia.txt and Bulgaria.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Salonika (304000/76000 POPS) #now part of Greece
+805 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1803
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 338
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 732
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 563
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1127
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 15777
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 3380
+    }
+
+    farmers = {
+        culture = romanian
+        religion = orthodox
+        size = 3449
+    }
+
+    farmers = {
+        culture = romanian
+        religion = sunni
+        size = 919
+    }
+
+    officers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 161
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 402
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 402
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 644
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 26564
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 12799
+    }
+
+    farmers = {
+        culture = gypsy
+        religion = orthodox
+        size = 1150
+    }
+
+    farmers = {
+        culture = gypsy
+        religion = sunni
+        size = 862
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 2070
+    }
+}
+#Polygyros (100000/25000 POPS) #now part of Greece
+822 = {
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 172
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11500
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1265
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 5002
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 459
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 862
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 287
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 16675
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 345
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 229
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 287
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 1638
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 229
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 517
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 49794
+    }
+}
+#Arta (220000/55000 POPS)
+825 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 184
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 184
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 368
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 206
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 827
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 13500
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 345
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 502
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 143
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 143
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 143
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 718
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 575
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 17250
+    }
+}
+#Kavala (160000/40000 POPS) #now part of Greece
+820 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 402
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 57
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 86
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 69
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 459
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 229
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 7503
+    }
+
+    aristocrats = {
+        culture = bulgarian
+        religion = orthodox
+        size = 143
+    }
+
+    officers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 143
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 229
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 459
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 345
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 27197
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 4887
+    }
+}
+#Monastir Region (384000) #see Greece.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Florina (116000/29000 POPS) #now part of Greece
+819 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 402
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 747
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 36685
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 1150
+    }
+
+    farmers = {
+        culture = romanian
+        religion = orthodox
+        size = 1380
+    }
+
+    farmers = {
+        culture = albanian
+        religion = bektashi
+        size = 3449
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 919
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 546
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 919
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 345
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 3449
+    }
+
+    farmers = {
+        culture = pomak
+        religion = bektashi
+        size = 11500
+    }
+
+    farmers = {
+        culture = pomak
+        religion = sunni
+        size = 2300
+    }
+}
+823 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 345
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 977
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 345
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 24782
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 345
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 977
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 345
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 4082
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 9832
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 402
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1724
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 402
+    }
+}
+#Edessa (128000/32000 POPS) #now part of Greece
+821 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 439
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 258
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 931
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 37181
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1207
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 161
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1449
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 482
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 9619
+    }
+}
+#Epirus Region (724000) #see Albania.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Janina (504000/126000 POPS)
+824 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 293
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 143
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 287
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 143
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 891
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 575
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 575
+    }
+
+    aristocrats = {
+        culture = albanian
+        religion = sunni
+        size = 1494
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = sunni
+        size = 143
+    }
+
+    artisans = {
+        culture = albanian
+        religion = sunni
+        size = 919
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = sunni
+        size = 919
+    }
+
+    farmers = {
+        culture = albanian
+        religion = sunni
+        size = 4686
+    }
+
+    farmers = {
+        culture = albanian
+        religion = bektashi
+        size = 3691
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = orthodox
+        size = 172
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = bektashi
+        size = 57
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 229
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 9890
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 1006
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 2932
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 58937
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 2185
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 575
+    }
+}
+#Ionian Islands Region (188000)
+#under the rule of Britain/Ionian Islands in 1836
+#Corfu (112200/28000 POPS)
+826 = {
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 546
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 86
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 28
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 316
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 3449
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1265
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 25299
+    }
+
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 747
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 11
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 563
+    }
+}
+#Zante (76000/19000 POPS)
+827 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 345
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 201
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1092
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 20038
+    }
+}
+#Kirithia
+3500 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 345
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 201
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1092
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 8538
+    }
+}
+#Kavala2
+3453 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1221
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 287
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 2300
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 9126
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 165
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 96
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 524
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 82
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 9618
+    }
+}
+#Thrace Region (144000) #see Turkey.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Xanthe (72000/18000 POPS)
+829 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 488
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 919
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 3651
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 21763
+    }
+
+    clergymen = {
+        culture = pomak
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = pomak
+        religion = sunni
+        size = 229
+    }
+
+    soldiers = {
+        culture = pomak
+        religion = sunni
+        size = 114
+    }
+
+    farmers = {
+        culture = pomak
+        religion = sunni
+        size = 5750
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 804
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 229
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 517
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 14892
+    }
+}
+851 = {
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 345
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 172
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 345
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 1724
+    }
+
+    clergymen = {
+        culture = pomak
+        religion = sunni
+        size = 172
+    }
+
+    farmers = {
+        culture = pomak
+        religion = sunni
+        size = 1724
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 3363
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 862
+    }
+}
+#Dedeagatch (72000/18000 POPS)
+830 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 517
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 459
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 201
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 10235
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 229
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 517
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 14317
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 459
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 229
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 345
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 5318
+    }
+}
+#Thessaly Region (408000)
+#under the rule of Ottoman Empire in 1836
+#Larisa (140000/35000 POPS)
+831 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 690
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 172
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 862
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 402
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 5347
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 345
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 747
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 402
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 39100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 402
+    }
+}
+#Volos (224000/56000 POPS)
+832 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1322
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 86
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 575
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 632
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 8653
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 517
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 2645
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 65808
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 919
+    }
+}
+#Trikala (44000/11000 POPS)
+833 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 229
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 229
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 143
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 517
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 373
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 402
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 46287
+    }
+}
+#Hellas Region (510000)
+#under the rule of Greece in 1836
+#Athens (308000/77000 POPS)
+834 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 977
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 229
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 891
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1150
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 2415
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 46201
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 287
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 1236
+    }
+}
+#Amfissa (76000/19000 POPS)
+835 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 459
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 11557
+    }
+}
+#Lamia (44000/11000 POPS)
+836 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 459
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 10580
+    }
+}
+#Missolonghi (140000/35000 POPS)
+837 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 402
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 402
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1265
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 42550
+    }
+
+    farmers = {
+        culture = romanian
+        religion = orthodox
+        size = 4600
+    }
+}
+#Khalkis (68000/17000 POPS)
+838 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 402
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 10465
+    }
+}
+#Peloponnese Region (220000)
+#under the rule of Greece in 1836
+#Nafplion (72000/18000 POPS)
+839 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 195
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 345
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 690
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 11580
+    }
+}
+#Corinth (40000/10000 POPS)
+840 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 459
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 10465
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 57
+    }
+
+    farmers = {
+        culture = albanian
+        religion = orthodox
+        size = 287
+    }
+}
+#Kalamai (68000/17000 POPS)
+841 = {
+    clergymen = {
+        culture = romanian
+        religion = orthodox
+        size = 172
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 57
+    }
+
+    farmers = {
+        culture = romanian
+        religion = orthodox
+        size = 13799
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 3219
+    }
+
+    farmers = {
+        culture = albanian
+        religion = sunni
+        size = 229
+    }
+
+    farmers = {
+        culture = albanian
+        religion = bektashi
+        size = 459
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 2070
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = orthodox
+        size = 345
+    }
+}
+#Patrai (40000/10000 POPS)
+842 = {
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 1265
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 69
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1035
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1724
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 57499
+    }
+}
+#Aegean Islands Region (184000)
+#under the rule of Greece in 1836
+#Cyclades (40000/10000 POPS)
+845 = {
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 17
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 97
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1265
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 9660
+    }
+}
+#under the rule of Ottoman Empire in 1836
+#Chios (68000/17000 POPS)
+843 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 172
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 57
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 57
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 28
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 690
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 201
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 804
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 138
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 138
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 345
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 2760
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 14317
+    }
+}
+#Mytilene (44000/11000 POPS)
+844 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 28
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 287
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 143
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 575
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 229
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 138
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 575
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 10493
+    }
+}
+#Thasos
+3489 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 172
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 57
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 57
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 28
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 690
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 201
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 804
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 138
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 138
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 345
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 2300
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 7417
+    }
+}
+#Rhodes (32000/8000 POPS)
+846 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 86
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 57
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 1926
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 172
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 138
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 287
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 5750
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 575
+    }
+}
+#Crete Region (140000)
+#under the rule of Egypt in 1836
+#Hania or CHANIA (72000/18000 POPS)
+847 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 431
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 57
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 57
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 114
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1494
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 229
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 6842
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 229
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1380
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 10033
+    }
+
+    slaves = {
+        culture = greek
+        religion = orthodox
+        size = 1150
+    }
+}
+#Iraklion (68000/17000 POPS)
+848 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 287
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 86
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 632
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 201
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 6727
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 57
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 229
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 114
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 517
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 10896
+    }
+}
+#Athos (5000/1250 POPS)
+3350 = {
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 862
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 229
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 287
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 23
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 287
+    }
+}

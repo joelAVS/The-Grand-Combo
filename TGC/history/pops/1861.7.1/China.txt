@@ -1,0 +1,11519 @@
+#Anhui Region (35244000)
+#under the rule of China in 1836
+#Anqing (5472000/1368000 POPS)
+1470 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 25299
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 12362
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 8740
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 13081
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6209
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 7474
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1087583
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 114999
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4082
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2070
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10292
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1035
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 187335
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 488
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 258
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1207
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 258
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 21936
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 287
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 172
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 287
+	}
+}
+#Chizhou (5088000/1272000 POPS)
+1471 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 27312
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 13799
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6209
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1035
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1243092
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1897
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 977
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 4830
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 14777
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 87917
+	}
+}
+#Fengyang (2224000/556000 POPS)
+1472 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 12362
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6324
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 229
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 517
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 569365
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 229
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 690
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 143
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 12592
+	}
+}
+#Huizhou (4476000/1119000 POPS)
+1473 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 24149
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12391
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 57
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3219
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1127661
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 948
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 488
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 2903
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 488
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 43470
+	}
+}
+#Luzhou (4484000/1121000 POPS)
+1474 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 25414
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12793
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6209
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2415
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 814516
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 345000
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 747
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 143
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 13627
+	}
+}
+#Ningguo (4312000/1078000 POPS)
+1475 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 24724
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12419
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 4600
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 14719
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 553035
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 575000
+	}
+}
+#Sizhou (2688000/672000 POPS)
+1476 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 15438
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 7733
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 4140
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 833
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 703253
+	}
+}
+#Taiping (4180000/1045000 POPS)
+1477 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 24034
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 8049
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12074
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 40537
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = protestant
+		size = 23517
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 116034
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 919999
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 57499
+	}
+}
+#Yingzhou (2320000/580000 POPS)
+1478 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 12937
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6756
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5750
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 919
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 607286
+	}
+}
+#Fengtian Region (2888000)
+#under the rule of China in 1836
+#Mukden (2128000/532000 POPS)
+1479 = {
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 1150
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 862
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 1437
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 5750
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 14949
+	}
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 65262
+	}
+	aristocrats = {
+		culture = korean
+		religion = mahayana
+		size = 172
+	}
+	clergymen = {
+		culture = korean
+		religion = mahayana
+		size = 138
+	}
+	artisans = {
+		culture = korean
+		religion = mahayana
+		size = 229
+	}
+	soldiers = {
+		culture = korean
+		religion = mahayana
+		size = 229
+	}
+	farmers = {
+		culture = korean
+		religion = mahayana
+		size = 12304
+	}
+	slaves = {
+		culture = korean
+		religion = mahayana
+		size = 1839
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1178
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 155
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 258
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9890
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1523
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 74865
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 33493
+	}
+	slaves = {
+		culture = mongol
+		religion = gelugpa
+		size = 2558
+	}
+}
+#Jinzhou (680000/170000 POPS)
+1480 = {
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 2070
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 345
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 690
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 12908
+	}
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 22166
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 172
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 804
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 172
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 141162
+	}
+	slaves = {
+		culture = mongol
+		religion = gelugpa
+		size = 12327
+	}
+}
+#Port Arthur (80000/15000 POPS)
+1481 = {
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 287
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 172
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 862
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 172
+	}
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 15754
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 57
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 287
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 57
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 9832
+	}
+}
+#Fujian Region (20728000)
+#under the rule of China in 1836
+#Fuzhou (4208000/1052000 POPS)
+1482 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 7704
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5002
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 4600
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 3881
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7877
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2501
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 239314
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 690
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 345
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 1724
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 345
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 31394
+	}
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 15524
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 7819
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 4542
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 575
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 354487
+	}
+	serfs = {
+		culture = min
+		religion = mahayana
+		size = 229999
+	}
+	serfs = {
+		culture = min
+		religion = mahayana
+		size = 92000
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 172
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 287
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 229
+	}
+}
+#Jianning (2520000/630000POPS)
+1483 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4370
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2242
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 11155
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2242
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 201249
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 575
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 747
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 287
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 23000
+	}
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 9200
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 4600
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 632
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 2443
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 430128
+	}
+}
+#Quanzhou (2804000/701000 POPS)
+1484 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5405
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2731
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2185
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1380
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 134118
+	}
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 10005
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 5031
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 2070
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 2760
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 479233
+	}
+}
+#Tingzhou (6064000/1516000 POPS)
+1486 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4485
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2271
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 11270
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2242
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 205131
+	}
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 18400
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 9343
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 690
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 1265
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 965051
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 5865
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 6209
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 114
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 531760
+	}
+}
+#Zhangzhou (5132000/1283000 POPS)
+1487 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5462
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2760
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2300
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1380
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 109249
+	}
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 2357
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 1207
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 6008
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 1207
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 248917
+	}
+}
+#Gansu Region (16020000)
+#under the rule of China in 1836
+#Gansu Jiayuguan(6048000/1512000 POPS)
+1488 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 21850
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4887
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 4312
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 11068
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9142
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2415
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 993858
+	}
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 143
+	}
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 459
+	}
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 86
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni
+		size = 8423
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 1523
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 776
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 3852
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 776
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 70121
+	}
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 10925
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 5520
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 12649
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 12649
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 4600
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 3449
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 2070
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 385134
+	}
+	serfs = {
+		culture = mongol
+		religion = gelugpa
+		size = 114999
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 402
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 287
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 575
+	}
+}
+#Gongchang (2256000/554000 POPS)
+1489 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 12074
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6324
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8625
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 575
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 638825
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 804
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 14662
+	}
+}
+#Lanzhou (3592000/898000 POPS)
+1490 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 15524
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8049
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5635
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1150
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 730940
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 575
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1552
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 316
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 28289
+	}
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 229
+	}
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 28
+	}
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 4197
+	}
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 3852
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 1954
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 9717
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1954
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 176870
+	}
+}
+#Ningxia (956000/239000 POPS)
+1491 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1753
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8740
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1753
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 113102
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 28749
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 402
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 78487
+	}
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 1494
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 776
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 3852
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 776
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 70121
+	}
+}
+#Pingliang (3168000/792000 POPS)
+1492 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17595
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8797
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9545
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1926
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 456636
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 345000
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 575
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1494
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 316
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 27226
+	}
+}
+#Guangdong Region (21706000)
+#under the rule of China in 1836
+#Canton (4532000/1133000 POPS)
+1493 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4887
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4657
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 6037
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2587
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8337
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 25587
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 147660
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 57499
+	}
+	aristocrats = {
+		culture = hakka
+		religion = animist
+		size = 1207
+	}
+	clergymen = {
+		culture = hakka
+		religion = animist
+		size = 632
+	}
+	artisans = {
+		culture = hakka
+		religion = animist
+		size = 3104
+	}
+	soldiers = {
+		culture = hakka
+		religion = animist
+		size = 632
+	}
+	farmers = {
+		culture = hakka
+		religion = animist
+		size = 23000
+	}
+	serfs = {
+		culture = hakka
+		religion = animist
+		size = 56809
+	}
+	aristocrats = {
+		culture = hakka
+		religion = protestant
+		size = 833
+	}
+	clergymen = {
+		culture = hakka
+		religion = protestant
+		size = 431
+	}
+	artisans = {
+		culture = hakka
+		religion = protestant
+		size = 2127
+	}
+	soldiers = {
+		culture = hakka
+		religion = protestant
+		size = 431
+	}
+	serfs = {
+		culture = hakka
+		religion = protestant
+		size = 25731
+	}
+	farmers = {
+		culture = hakka
+		religion = protestant
+		size = 38726
+	}
+	aristocrats = {
+		culture = hakka
+		religion = animist
+		size = 3737
+	}
+	clergymen = {
+		culture = hakka
+		religion = animist
+		size = 1897
+	}
+	artisans = {
+		culture = hakka
+		religion = animist
+		size = 9430
+	}
+	soldiers = {
+		culture = hakka
+		religion = animist
+		size = 1897
+	}
+	farmers = {
+		culture = hakka
+		religion = animist
+		size = 102637
+	}
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 345
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 172
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 919
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 201
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 28261
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 14374
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 7331
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 45942
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 459
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 347041
+	}
+	serfs = {
+		culture = yue
+		religion = mahayana
+		size = 34500
+	}
+	serfs = {
+		culture = yue
+		religion = protestant
+		size = 10350
+	}
+	slaves = {
+		culture = yue
+		religion = mahayana
+		size = 92000
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 575
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 345
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 575
+	}
+}
+#Chaozhou (3600000/900000 POPS)
+1494 = {
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 8510
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 4283
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	farmers= {
+		culture = han_chinese
+		religion = confucian
+		size = 124947
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9947
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 862
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 736000
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 45396
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 575
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 316
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 1609
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 316
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 29382
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 11212
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 575
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 5750
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 3449
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 68712
+	}
+}
+#Gaozhou (3788000/947000 POPS)
+1495 = {
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 402
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 229
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 1092
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 229
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 111894
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 20700
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 10493
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 4600
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 4945
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 488692
+	}
+	serfs = {
+		culture = yue
+		religion = mahayana
+		size = 459999
+	}
+}
+#Kwangchowan (Former Augmagsalik and also called Isortoq) (23625 POPS)
+2632 = {
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 143
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2875
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 1150
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 23000
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 5750
+	}
+}
+#Hong Kong (6000/1500 POPS)
+1496 = {
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 28
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 86
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 287
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1581
+	}
+	farmers = {
+		culture = hakka
+		religion = protestant
+		size = 1581
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 172
+	}
+}
+#Waizao (2200000/550000 POPS)
+1497 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3679
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1839
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9257
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 948
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 168503
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 1063
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 546
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 5577
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 1121
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 103241
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 6698
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 3363
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 5290
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 2213
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 305583
+	}
+}
+#Hainan (3424000/856000 POPS)
+1499 = {
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 4255
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 2127
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 10695
+	}
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 1121
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 194666
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 14173
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 7101
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1092
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 229
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 302852
+	}
+	serfs = {
+		culture = yue
+		religion = mahayana
+		size = 345000
+	}
+	aristocrats = {
+		culture = min
+		religion = animist
+		size = 1265
+	}
+	clergymen = {
+		culture = min
+		religion = animist
+		size = 575
+	}
+	artisans = {
+		culture = min
+		religion = animist
+		size = 2932
+	}
+	soldiers = {
+		culture = min
+		religion = animist
+		size = 603
+	}
+	serfs = {
+		culture = min
+		religion = animist
+		size = 53388
+	}
+}
+#Shaozhou (2384000/596000 POPS)
+1500 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2673
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1351
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6784
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1380
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 123509
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 6324
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 3191
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 4370
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 2012
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 288851
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 4600
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 2328
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 1150
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 211456
+	}
+}
+#Zhaoqing (1772000/443000 POPS)
+1501 = {
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 10120
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 5117
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2472
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 2817
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 233622
+	}
+	serfs = {
+		culture = yue
+		religion = mahayana
+		size = 212749
+	}
+	serfs = {
+		culture = yue
+		religion = mahayana
+		size = 17250
+	}
+}
+#Ruled by Portugal in 1836
+#Macao (22000/5500 POPS)
+1498 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 114
+	}
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 114
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 114
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 114
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 114
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 126
+	}
+	aristocrats = {
+		culture = yue
+		religion = catholic
+		size = 114
+	}
+	officers = {
+		culture = yue
+		religion = catholic
+		size = 114
+	}
+	clergymen = {
+		culture = yue
+		religion = catholic
+		size = 114
+	}
+	artisans = {
+		culture = yue
+		religion = catholic
+		size = 500
+	}
+	soldiers = {
+		culture = yue
+		religion = catholic
+		size = 114
+	}
+	farmers = {
+		culture = yue
+		religion = catholic
+		size = 287
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	officers = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 804
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 114
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 6554
+	}
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 287
+	}
+	slaves = {
+		culture = hakka
+		religion = mahayana
+		size = 229
+	}
+}
+#Guangxi Region (8572000)
+#under the rule of China in 1836
+#Nanning (2480000/620000 POPS)
+1502 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2098
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1552
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2472
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1063
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5290
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1063
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 91827
+	}
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 9027
+	}
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 4542
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 12649
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 11155
+	}
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 3392
+	}
+	serfs = {
+		culture = zhuang
+		religion = animist
+		size = 297332
+	}
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 172500
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 2817
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 1437
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 3737
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 1437
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 72220
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 10465
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 172
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 86
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 172
+	}
+}
+#Guilin (4668000/1167000 POPS)
+1503 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5979
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2989
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3507
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3018
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 273153
+	}
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 12074
+	}
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 6094
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 12649
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 12649
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 7532
+	}
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 3823
+	}
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 429323
+	}
+	farmers = {
+		culture = zhuang
+		religion = protestant
+		size = 11500
+	}
+	serfs = {
+		culture = zhuang
+		religion = animist
+		size = 114999
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 7101
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 3593
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 6439
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 143
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 325421
+	}
+	farmers = {
+		culture = yue
+		religion = protestant
+		size = 1150
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 1351
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 718
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 3622
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 718
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 66958
+	}
+	farmers = {
+		culture = miao
+		religion = protestant
+		size = 1150
+	}
+}
+#Pangle (1424000/356000 POPS)
+1504 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1724
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 919
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 4600
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 919
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 83835
+	}
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 3564
+	}
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 1839
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 9085
+	}
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 919
+	}
+	farmers = {
+		culture = yue
+		religion = animist
+		size = 222869
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 2616
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 1351
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 6727
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 1351
+	}
+	farmers = {
+		culture = zhuang
+		religion = mahayana
+		size = 58103
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 23
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 23
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 57
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 11
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 1035
+	}
+}
+#Guizhou Region (5516000)
+#under the rule of China in 1836
+#Guiyang (1156000/289000 POPS)
+1505 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 6066
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 661
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1552
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 3076
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3852
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2961
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 277178
+	}
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 575
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 5232
+	}
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 2041
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 345
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 4312
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 10522
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 168647
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 57
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 28
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 114
+	}
+}
+#Anshun (1876000/469000 POPS)
+1506 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 6324
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5750
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 314525
+	}
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 2760
+	}
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 1408
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 7014
+	}
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 1408
+	}
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 70207
+	}
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 862
+	}
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 459
+	}
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 2242
+	}
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 459
+	}
+	serfs = {
+		culture = yi
+		religion = animist
+		size = 40825
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 16560
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 6986
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 215481
+	}
+}
+#Zhenyuan (2484000/621000 POPS)
+1507 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 10350
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2300
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 5232
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3162
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2932
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 246272
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 229999
+	}
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 2587
+	}
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 1322
+	}
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 6554
+	}
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 1322
+	}
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 119312
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 1265
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 603
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 14461
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 12103
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 180981
+	}
+}
+#Henan Region (28372000)
+#under the rule of China in 1836
+#Kaifeng (3872000/968000 POPS)
+1508 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 20987
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5750
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 7877
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 10551
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 57097
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 5922
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 411153
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 459999
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 69000
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 1207
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 632
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 3162
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 632
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 57039
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = jewish
+		size = 5
+	}
+	artisans = {
+		culture = han_chinese
+		religion = jewish
+		size = 569
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 287
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 172
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1265
+	}
+}
+#Guide (3248000/812000 POPS)
+1509 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17710
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8912
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10062
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2012
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 810002
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 862
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 2185
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 431
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 39761
+	}
+}
+#Henan (3304000/826000 POPS)
+1510 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17825
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9056
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10723
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2156
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 478888
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 345000
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 862
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 2242
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 40825
+	}
+}
+#Huaiqing (4524000/1131000 POPS)
+1511 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 24724
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12391
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 4398
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3191
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1127143
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 1207
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 632
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 3104
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 632
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 56407
+	}
+}
+#Chenzhou (3268000/817000 POPS)
+1512 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17537
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9056
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10350
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2070
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 816586
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 833
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 431
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 2127
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 431
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 38726
+	}
+}
+#Nanyang (3100000/775000 POPS)
+1513 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17250
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8912
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10062
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2012
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 351612
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 459999
+	}
+}
+#Runing (2936000/734000 POPS)
+1514 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 16790
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8481
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7704
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1552
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 768171
+	}
+}
+#Weihui (4120000/1030000 POPS)
+1515 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 23000
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 6899
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 11844
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1724
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2645
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1009584
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 69000
+	}
+}
+#Hubei Region (27740000)
+#under the rule of China in 1836
+#Hanyang (3352000/838000 POPS)
+1516 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17250
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 7589
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 7216
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9200
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1150
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 821847
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 459
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 229
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1207
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 258
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 24408
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 373
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 201
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 977
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 201
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 17796
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 402
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 143
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1265
+	}
+}
+#Dean (4128000/1032000 POPS)
+1517 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 23574
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 11873
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1811
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2673
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 976666
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 103499
+	}
+}
+#Huangzhou (3312000/828000 POPS)
+1518 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 18112
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9200
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10925
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2242
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 832369
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 373
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 201
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 977
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 201
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 17796
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 345
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 919
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 201
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 16761
+	}
+}
+#Anlu (3328000/832000 POPS)
+1519 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17250
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5520
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8912
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10062
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2012
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 808162
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 948
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 488
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2415
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 488
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 43958
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 373
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 201
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1035
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 18860
+	}
+}
+#Jingzhou (3264000/816000 POPS)
+1520 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17250
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9200
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1150
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 838349
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 345
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 919
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 201
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 16761
+	}
+}
+#Shinan (3244000/811000 POPS)
+1521 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17250
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8912
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10062
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2012
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 811612
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 747
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 402
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2012
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 402
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 36685
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 23
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 23
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 57
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 11
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 1035
+	}
+}
+#Wuchang (3324000/831000 POPS)
+1522 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 18400
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9775
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1724
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1494
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 524054
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 345000
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 23
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 23
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 57
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 11
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 1035
+	}
+}
+#Xiangyang (3788000/947000 POPS)
+1523 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17825
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9200
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1178
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 311046
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 459999
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 69000
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3219
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1667
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8337
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1667
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 150707
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 23
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 23
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 57
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 11
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 1035
+	}
+}
+#Hunan Region (20584000)
+#under the rule of China in 1836
+#Changsha (4120000/1030000 POPS)
+1524 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 23546
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4945
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 5807
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 11816
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1552
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2616
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 395858
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 287500
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 46000
+	}
+	farmers = {
+		culture = hakka
+		religion = confucian
+		size = 287500
+	}
+	serfs = {
+		culture = hakka
+		religion = confucian
+		size = 46000
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 28
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 3162
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 229
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 114
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 862
+	}
+}
+#Changde (1616000/404000 POPS)
+1525 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 8280
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 4197
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9487
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 747
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 423947
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 862
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 459
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 2242
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 459
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 40825
+	}
+}
+#Baoqing (3852000/963000 POPS)
+1526 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 18975
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4945
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9775
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2300
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1609
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 465289
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 345000
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 69000
+	}
+	aristocrats = {
+		culture = zhuang
+		religion = mahayana
+		size = 2760
+	}
+	clergymen = {
+		culture = zhuang
+		religion = mahayana
+		size = 1437
+	}
+	artisans = {
+		culture = zhuang
+		religion = mahayana
+		size = 7072
+	}
+	soldiers = {
+		culture = zhuang
+		religion = mahayana
+		size = 1437
+	}
+	farmers = {
+		culture = zhuang
+		religion = mahayana
+		size = 128742
+	}
+}
+#Hengzhou (3796000/949000 POPS)
+1527 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 19320
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9717
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 40250
+	}
+	artisans = {
+		culture = hakka
+		religion = confucian
+		size = 12649
+	}
+	soldiers = {
+		culture = hakka
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = hakka
+		religion = confucian
+		size = 1696
+	}
+	farmers = {
+		culture = hakka
+		religion = confucian
+		size = 885471
+	}
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 2300
+	}
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 1207
+	}
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 5922
+	}
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 1207
+	}
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 107812
+	}
+}
+#Yuezhou (1192000/298000 POPS)
+1528 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5577
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2817
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2530
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2817
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 255357
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 1207
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 632
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 3104
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 632
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 56522
+	}
+}
+#Yongshun (3028000/757000 POPS)
+1529 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17250
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8711
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9027
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1839
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 792321
+	}
+}
+#Yongzhou (2980000/745000 POPS)
+1530 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 14374
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 7244
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1609
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 345
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 59224
+	}
+	farmers = {
+		culture = yue
+		religion = confucian
+		size = 59224
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 2645
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 1351
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 6727
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 1351
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 575000
+	}
+	farmers = {
+		culture = zhuang
+		religion = mahayana
+		size = 82225
+	}
+}
+#Inner Mongolia Region (1176000)
+#under the rule of China in 1836
+#Guihua Tumed (436000/109000 POPS)
+1532 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 2300
+	}
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 258
+	}
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 258
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 1207
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 4830
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1207
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 98037
+	}
+	serfs = {
+		culture = mongol
+		religion = gelugpa
+		size = 11500
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 86
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 229
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 96168
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 28
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 86
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1265
+	}
+}
+#Jirim Chuulghan (152000/38000 POPS)
+1533 = {
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 373
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 1581
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 3449
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 104247
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 229
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1150
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1265
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 81247
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 12506
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 229
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 345
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1265
+	}
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 4197
+	}
+}
+#Ulaan Chab Chuulghan (132000/33000 POPS)
+1534 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 747
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 373
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 1897
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 4715
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 102781
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 80500
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 11500
+	}
+	clergymen = {
+		culture = mongol
+		religion = mahayana
+		size = 575
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = gelugpa
+		size = 10465
+	}
+}
+#Yeke Juu Chuulghan (456000/114000 POPS)
+1535 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 2558
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 1293
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 6439
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1293
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 117213
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 28
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 128656
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 5893
+	}
+}
+#Jiangsu Region (37612000)
+#under the rule of China in 1836
+#Nanjing (3432000/858000 POPS)
+2221 = {
+	aristocrats = {
+		culture = hakka
+		religion = protestant
+		size = 13224
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 7877
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 6842
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6037
+	}
+	artisans = {
+		culture = han_chinese
+		religion = protestant
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = protestant
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6899
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = protestant
+		size = 10350
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 10637
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 49219
+	}
+	farmers = {
+		culture = han_chinese
+		religion = catholic
+		size = 5750
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 459999
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 7762
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2731
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3507
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 3823
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10350
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 13799
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3852
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 211973
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 96973
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 229999
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 2300
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 316
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 287
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1265
+	}
+}
+#Huaian (3148000/787000 POPS)
+1536 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1207
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 661
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3162
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 632
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 57586
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 16790
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8423
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7589
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1523
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 766072
+	}
+}
+#Changzhou (6124000/1531000 POPS)
+1537 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 30733
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 15409
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7877
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 26449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 36081
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 645897
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 690000
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 5750
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4370
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2242
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 11212
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2242
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 201882
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 1150
+	}
+}
+#Shanghai (268000/71000 POPS)
+1538 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1494
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 776
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3852
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 776
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 75325
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 7474
+	}
+}
+#Suzhou (4968000/1242000 POPS)
+1539 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 24408
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12247
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3564
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 14518
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1111360
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4082
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2098
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10350
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2070
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 188398
+	}
+}
+#Taicangzhou (5528000/1382000 POPS)
+1540 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 25472
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 8510
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12736
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 69460
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 57586
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1028444
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 80500
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 6267
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 3162
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 4255
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3162
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 286752
+	}
+}
+#Tongzhou (5520000/1380000 POPS)
+1541 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 29612
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 14863
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5175
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 26449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 24034
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 729013
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 575000
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2012
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1063
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5175
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1035
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 94213
+	}
+}
+#Xuzhou (2156000/539000 POPS)
+1542 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2702
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1380
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6842
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1380
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 124487
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 9602
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 4858
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1265
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2530
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 439558
+	}
+}
+#Yangzhou (3348000/837000 POPS)
+1543 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2530
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1293
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6439
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1293
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 117242
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 16099
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8625
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7187
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1437
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 758999
+	}
+}
+#Zhenjiang (3120000/790000 POPS)
+1544 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 13397
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3909
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6756
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10637
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 14777
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 575431
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 2300
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 34500
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4657
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2386
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 287
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2357
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 207661
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 6899
+	}
+}
+#Jiangxi Region (25864000)
+#under the rule of China in 1836
+#Nanchang (2776000/694000 POPS)
+1545 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4973
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 5635
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 5750
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5807
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2328
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 518851
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3564
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1868
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1638
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1782
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8970
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1811
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 161086
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 28
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 2070
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 804
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 431
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 2012
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 402
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 36598
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 229
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 201
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 575
+	}
+}
+#Guangxin (2960000/740000 POPS)
+1546 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 12074
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6037
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7244
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 316
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 550476
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3478
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1753
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8740
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1753
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 159073
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 1408
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 718
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 3564
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 718
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 64888
+	}
+}
+#Jian (6692000/1673000 POPS)
+1547 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 36225
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 6439
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6669
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10235
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 8049
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 34500
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 35420
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 493349
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 25184
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 5462
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 3392
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 915859
+	}
+	serfs = {
+		culture = hakka
+		religion = mahayana
+		size = 114999
+	}
+}
+#Jianchang (1656000/414000 POPS)
+1548 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 6612
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 3334
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5060
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3334
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 301357
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 2875
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 1437
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 7244
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 1466
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 131876
+	}
+}
+#Jiujiang (3924000/981000 POPS)
+1549 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17365
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8682
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 46920
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 5261
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 239171
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 459999
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 92000
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 4398
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2213
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 11097
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2242
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 86997
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 114999
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 718
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 373
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 1839
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 373
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 34241
+	}
+}
+#Ganzhou (4940000/1235000 POPS)
+1550 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 27024
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 13512
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10120
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 891
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 391201
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 172500
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 1322
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 690
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 3392
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 690
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 61754
+	}
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 1868
+	}
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 1523
+	}
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 7589
+	}
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 16473
+	}
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 471241
+	}
+	serfs = {
+		culture = hakka
+		religion = mahayana
+		size = 229999
+	}
+}
+#Raozhou (2916000/729000 POPS)
+1551 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 13224
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6669
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10235
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 919
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 604900
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1724
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8682
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1753
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 158038
+	}
+}
+#Manchuria Region (6764000)
+#under the rule of China in 1836
+#Qiqihar (2784700/696175 POPS)
+1552 = {
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 4312
+	}
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 747
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 345
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 345
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 575
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 1150
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1265
+	}
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 96714
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 3449
+	}
+	labourers = {
+		culture = mongol
+		religion = gelugpa
+		size = 80500
+	}
+	slaves = {
+		culture = mongol
+		religion = gelugpa
+		size = 11500
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2012
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6324
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1265
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 88550
+	}
+}
+#Aigun (1524000/381000 POPS)
+1553 = {
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 345
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 2185
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1380
+	}
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 108042
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6324
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1265
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 88550
+	}
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 229
+	}
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 3104
+	}
+}
+#Ninguta (1068000/267000 POPS)
+1554 = {
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 862
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 459
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 1150
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 10695
+	}
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 46460
+	}
+	labourers = {
+		culture = han_chinese
+		religion = confucian
+		size = 23000
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	artisans = {
+		culture = korean
+		religion = mahayana
+		size = 2185
+	}
+	soldiers = {
+		culture = korean
+		religion = mahayana
+		size = 459
+	}
+	slaves = {
+		culture = korean
+		religion = mahayana
+		size = 6439
+	}
+}
+#Jilin (1136000/284000 POPS)
+1555 = {
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 977
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 804
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1380
+	}
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 100682
+	}
+	aristocrats = {
+		culture = korean
+		religion = mahayana
+		size = 747
+	}
+	clergymen = {
+		culture = korean
+		religion = mahayana
+		size = 402
+	}
+	artisans = {
+		culture = korean
+		religion = mahayana
+		size = 1954
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1265
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 69000
+	}
+	farmers = {
+		culture = korean
+		religion = mahayana
+		size = 12592
+	}
+}
+#Manzhouli (251300/62825 POPS)
+1002 = {
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 258
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 862
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1265
+	}
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 41170
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 86250
+	}
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 138
+	}
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 2875
+	}
+}
+#Qinghai Region (1248000)
+#under the rule of China in 1836
+#Makhai (452000/113000 POPS)
+1556 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1150
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 5232
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1063
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 31279
+	}
+	serfs = {
+		culture = tibetan
+		religion = gelugpa
+		size = 46000
+	}
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 28
+	}
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 28
+	}
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 2070
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 345
+	}
+	bureaucrats = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 7589
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 4370
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 1150
+	}
+	officers = {
+		culture = hanhui
+		religion = sunni
+		size = 575
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 1035
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 201
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 1035
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 201
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 18860
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 28
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 28
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 114
+	}
+	serfs = {
+		culture = tibetan
+		religion = gelugpa
+		size = 11500
+	}
+	serfs = {
+		culture = mongol
+		religion = gelugpa
+		size = 5750
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3564
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 40250
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 11500
+	}
+}
+#Balekungomi (364000/91000 POPS)
+1557 = {
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 1150
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 4341
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 28749
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 575
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 862
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 4370
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 891
+	}
+	labourers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 72651
+	}
+	aristocrats = {
+		culture = kazak
+		religion = animist
+		size = 287
+	}
+	clergymen = {
+		culture = kazak
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = kazak
+		religion = animist
+		size = 804
+	}
+	soldiers = {
+		culture = kazak
+		religion = animist
+		size = 172
+	}
+	labourers = {
+		culture = kazak
+		religion = animist
+		size = 14662
+	}
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 23
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 23
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 57
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 11
+	}
+	labourers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1035
+	}
+	serfs = {
+		culture = tibetan
+		religion = gelugpa
+		size = 8049
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 13799
+	}
+}
+#Kegudo (432000/108000 POPS)
+1558 = {
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 804
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 3449
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 13799
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 459
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 459
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2185
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 459
+	}
+	slaves = {
+		culture = tibetan
+		religion = gelugpa
+		size = 32890
+	}
+	farmers= {
+		culture = tibetan
+		religion = gelugpa
+		size = 14489
+	}
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 17
+	}
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 690
+	}
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 9200
+	}
+	aristocrats = {
+		culture = kazak
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = kazak
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = kazak
+		religion = animist
+		size = 632
+	}
+	soldiers = {
+		culture = kazak
+		religion = animist
+		size = 143
+	}
+	farmers = {
+		culture = kazak
+		religion = animist
+		size = 11528
+	}
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 1063
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 546
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 2702
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 546
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 29641
+	}
+	serfs = {
+		culture = mongol
+		religion = gelugpa
+		size = 6899
+	}
+	serfs = {
+		culture = tibetan
+		religion = gelugpa
+		size = 6899
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 5750
+	}
+}
+#Shaanxi Region (9100000)
+#under the rule of China in 1836
+#Xian (3168000/792000 POPS)
+1559 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17250
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2127
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2530
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8625
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1724
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 443094
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 345000
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 919
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 2415
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 488
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 43958
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 86
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 86
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 575
+	}
+}
+#Yenan (1088000/272000 POPS)
+1561 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5807
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 2932
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3104
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2932
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 265822
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 373
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 201
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1035
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 18860
+	}
+}
+#Hanzhong (3492000/873000 POPS)
+1562 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 8912
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 4485
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10810
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1035
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 406007
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 948
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 488
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 2472
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 517
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 45022
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 10148
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 5088
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2415
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2788
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 405058
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 57499
+	}
+}
+#Shangzhou (1352000/338000 POPS)
+2062 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 7273
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 3651
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6784
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 229
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 332810
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 431
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 20958
+	}
+}
+#Shandong Region (28572000)
+#under the rule of China in 1836
+#Jinan (5916000/1479000 POPS)
+1563 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 32314
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 7704
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 7934
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 16214
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 459
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1265
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1340440
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 114999
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 1609
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 804
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 4082
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 833
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 74318
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 345
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 345
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1724
+	}
+}
+#Caozhou (3704000/926000 POPS)
+1564 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 21275
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 10637
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7244
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2616
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 969390
+	}
+}
+#Laizhou (3636000/909000 POPS)
+1565 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 20872
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 5520
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 10465
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 56867
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 5865
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 460229
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 459999
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 34500
+	}
+}
+#Qingdao (24000/6000 POPS)
+1566 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 114
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 57
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 345
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 86
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 6296
+	}
+}
+#Qingzhou (3936000/984000 POPS)
+1567 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 22597
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 11327
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10580
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3277
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1029767
+	}
+}
+#Taian (3688000/922000 POPS)
+1568 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 21188
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 10608
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7014
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2558
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 389878
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 575000
+	}
+}
+#Weihaiwei (28000/7000 POPS)
+1569 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 143
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 86
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 402
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 86
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 7331
+	}
+}
+#Wuling (3696000/924000 POPS)
+1570 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 21217
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 10637
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7129
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2587
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 391977
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 575000
+	}
+}
+#Yizhou (3944000/986000 POPS)
+1571 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 22655
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 11327
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 10695
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3306
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 456866
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 575000
+	}
+}
+#Shanxi Region (15220000)
+#under the rule of China in 1836
+#Taiyuan (4436000/1109000 POPS)
+1572 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 25069
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3737
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 4255
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 68712
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 6842
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 470292
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 575000
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 92000
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 804
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 14662
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 114
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 143
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 431
+	}
+}
+#Fenzhou (3412000/853000 POPS)
+1573 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 19377
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9717
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2530
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2817
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 883257
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 517
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 9430
+	}
+}
+#Luan (3748000/937000 POPS)
+1574 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 21332
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 10695
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7417
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2645
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 972209
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 86
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 8395
+	}
+}
+#Pingyang (3392000/848000 POPS)
+1575 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 19320
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9660
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2357
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1638
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 880123
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 143
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 402
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 86
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 7331
+	}
+}
+#Datong (232000/58000 POPS)
+1576 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1265
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 632
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3219
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 661
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 58621
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 28
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 28
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 2070
+	}
+}
+#Sichuan Region (34604000)
+#under the rule of China in 1836
+#Chongqing (3836000/959000 POPS)
+1577 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 22022
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 11040
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9142
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2989
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1003604
+	}
+}
+#Chengdu (2312000/578000 POPS)
+1578 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 13282
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 7043
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 9832
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6669
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5750
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3219
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 545272
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 143
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 172
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 862
+	}
+}
+#Baotung (4268000/1067000 POPS)
+1579 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 24408
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 7704
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12276
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3852
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 34500
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 37576
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 595326
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 575000
+	}
+}
+#Jiading (4080000/1020000 POPS)
+1580 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 11385
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 5750
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5750
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2875
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 292215
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 229999
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 919
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 459
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2300
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 459
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 41860
+	}
+}
+#Kuizhou (4292000/1073000 POPS)
+1581 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 24609
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12362
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 4197
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3162
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1122917
+	}
+}
+#Longan (2796000/699000 POPS)
+1582 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6382
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8797
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2932
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 578737
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = animist
+		size = 28
+	}
+	clergymen = {
+		culture = tibetan
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = tibetan
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = tibetan
+		religion = animist
+		size = 28
+	}
+	farmers = {
+		culture = tibetan
+		religion = animist
+		size = 2070
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = animist
+		size = 2300
+	}
+	clergymen = {
+		culture = tibetan
+		religion = animist
+		size = 1207
+	}
+	artisans = {
+		culture = tibetan
+		religion = animist
+		size = 6037
+	}
+	soldiers = {
+		culture = tibetan
+		religion = animist
+		size = 1207
+	}
+	farmers = {
+		culture = tibetan
+		religion = animist
+		size = 109997
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 862
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 459
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2242
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 459
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 40825
+	}
+}
+#Shunqing (4580000/1145000 POPS)
+1583 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 26334
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 13224
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8337
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 517
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1039818
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 114999
+	}
+}
+#Tongchuan (3024000/756000 POPS)
+1584 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 17365
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 8711
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 8970
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1839
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 354113
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 436999
+	}
+}
+#Yibin (2888000/722000 POPS)
+1585 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 9832
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 4945
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1667
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1494
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 448959
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 2472
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 1265
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 6267
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 1265
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 114079
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 4197
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2127
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 10580
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2127
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 192509
+	}
+}
+#Yazhou (2528000/632000 POPS)
+1586 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 10378
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 5203
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2989
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2903
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 473023
+	}
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 86
+	}
+	serfs = {
+		culture = yi
+		religion = animist
+		size = 8423
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 3737
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1868
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 9372
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1868
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 170602
+	}
+}
+#Yunnan Region (5652000)
+#under the rule of China in 1836
+#Kunming (3016000/754000 POPS)
+1601 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 15524
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3076
+	}
+	officers = {
+		culture = hanhui
+		religion = sunni
+		size = 1581
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 6612
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 4370
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 3449
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 13799
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 891
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 244748
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 114999
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 229
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 1265
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 12649
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 575
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 217464
+	}
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 86
+	}
+	serfs = {
+		culture = yi
+		religion = animist
+		size = 6296
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 10350
+	}
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 1293
+	}
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 603
+	}
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 2989
+	}
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 603
+	}
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 157923
+	}
+	serfs = {
+		culture = yi
+		religion = animist
+		size = 11500
+	}
+	bureaucrats = {
+		culture = yi
+		religion = mahayana
+		size = 28
+	}
+	officers = {
+		culture = yi
+		religion = mahayana
+		size = 28
+	}
+	soldiers = {
+		culture = yi
+		religion = mahayana
+		size = 287
+	}
+}
+#Dali (1216000/304000 POPS)
+1602 = {
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 143
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 402
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 11011
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 30331
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 6209
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 3162
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 12649
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 4024
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 3104
+	}
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 253747
+	}
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 603
+	}
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 316
+	}
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 1552
+	}
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 316
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 28261
+	}
+	serfs = {
+		culture = yi
+		religion = animist
+		size = 28261
+	}
+}
+#Puer (1420000/355000 POPS)
+1603 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2530
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 919
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5175
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 7014
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 69115
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 57
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 402
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1380
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 50197
+	}
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 1954
+	}
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 1035
+	}
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 5060
+	}
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 1035
+	}
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 63364
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 4197
+	}
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 718
+	}
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 373
+	}
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 1839
+	}
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 373
+	}
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 33551
+	}
+	serfs = {
+		culture = yi
+		religion = animist
+		size = 28749
+	}
+	aristocrats = {
+		culture = yi
+		religion = mahayana
+		size = 2616
+	}
+	clergymen = {
+		culture = yi
+		religion = mahayana
+		size = 1351
+	}
+	artisans = {
+		culture = yi
+		religion = mahayana
+		size = 6727
+	}
+	soldiers = {
+		culture = yi
+		religion = mahayana
+		size = 1351
+	}
+	farmers = {
+		culture = yi
+		religion = mahayana
+		size = 122503
+	}
+}
+#Zhejiang Region (9948000)
+#under the rule of China in 1836
+#Hangzhou (1688000/422000 POPS)
+1604 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 6267
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1782
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2846
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 3162
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9200
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3162
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 229367
+	}
+	serfs = {
+		culture = hakka
+		religion = confucian
+		size = 11500
+	}
+	aristocrats = {
+		culture = hakka
+		religion = confucian
+		size = 3133
+	}
+	clergymen = {
+		culture = hakka
+		religion = confucian
+		size = 1581
+	}
+	artisans = {
+		culture = hakka
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = hakka
+		religion = confucian
+		size = 8567
+	}
+	soldiers = {
+		culture = hakka
+		religion = confucian
+		size = 1581
+	}
+	farmers = {
+		culture = hakka
+		religion = confucian
+		size = 119686
+	}
+	aristocrats = {
+		culture = hakka
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = hakka
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = hakka
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = hakka
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = hakka
+		religion = animist
+		size = 4197
+	}
+	aristocrats = {
+		culture = min
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = min
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = min
+		religion = animist
+		size = 402
+	}
+	soldiers = {
+		culture = min
+		religion = animist
+		size = 86
+	}
+	farmers = {
+		culture = min
+		religion = animist
+		size = 7331
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 57
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 86
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 575
+	}
+}
+#Huzhou (376000/94000 POPS)
+1605 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 833
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 431
+	}
+	artisans = {
+		culture = han_chinese
+		religion = mahayana
+		size = 2127
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 431
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 38726
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1293
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 661
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 3277
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 661
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 59426
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 229
+	}
+}
+#Jiaxing (344000/86000 POPS)
+1606 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1092
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 546
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2760
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 575
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 49651
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 575
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 833
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 431
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2185
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 431
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 39703
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 114
+	}
+}
+#Jinhua (2064000/516000 POPS)
+1607 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 9631
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3104
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 4830
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1207
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2587
+	}
+	labourers = {
+		culture = han_chinese
+		religion = confucian
+		size = 291093
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 114999
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 34500
+	}
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 287
+	}
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 804
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 172
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 14662
+	}
+	aristocrats = {
+		culture = min
+		religion = animist
+		size = 1839
+	}
+	clergymen = {
+		culture = min
+		religion = animist
+		size = 919
+	}
+	artisans = {
+		culture = min
+		religion = animist
+		size = 4657
+	}
+	soldiers = {
+		culture = min
+		religion = animist
+		size = 948
+	}
+	farmers = {
+		culture = min
+		religion = animist
+		size = 84783
+	}
+}
+#Ningbo (1156000/289000 POPS)
+1608 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 3823
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1926
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 9602
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1926
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 174196
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 575
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2788
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1408
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7014
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1408
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 125953
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 575
+	}
+}
+#Shaoxing (872000/218000 POPS)
+1609 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 1983
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1006
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 5060
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1035
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 92115
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2932
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 1523
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7474
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1494
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 74778
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 57499
+	}
+	farmers = {
+		culture = han_chinese
+		religion = protestant
+		size = 3449
+	}
+}
+#Taizhou (1684000/421000 POPS)
+1610 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 9660
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 4830
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 1207
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2558
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 440593
+	}
+}
+#San Mun (1684000/421000 POPS)
+3326 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 97
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 51
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 126
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 126
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 11
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 28
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 4410
+	}
+}
+#Wenzhou (1764000/ 441000 POPS)
+1611 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 9602
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 4858
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 140558
+	}
+	artisans = {
+		culture = min
+		religion = confucian
+		size = 1265
+	}
+	soldiers = {
+		culture = min
+		religion = confucian
+		size = 2530
+	}
+	farmers = {
+		culture = min
+		religion = confucian
+		size = 301558
+	}
+	aristocrats = {
+		culture = min
+		religion = animist
+		size = 459
+	}
+	clergymen = {
+		culture = min
+		religion = animist
+		size = 229
+	}
+	artisans = {
+		culture = min
+		religion = animist
+		size = 1207
+	}
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 258
+	}
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 21993
+	}
+}
+#Zhili Region (34868000)
+#under the rule of China in 1836
+#Beijing - Baoding (4956000/1239000 POPS)
+1612 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 27657
+	}
+	bureaucrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 10465
+	}
+	officers = {
+		culture = han_chinese
+		religion = confucian
+		size = 6899
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 13857
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 131100
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 7532
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1044947
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 103499
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 977
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 517
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 12649
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 517
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 35937
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 17250
+	}
+}
+#Chengde (6420000/1605000 POPS)
+1613 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 25012
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 14949
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 109824
+	}
+	farmers = {
+		culture = mongol
+		religion = confucian
+		size = 161092
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 287
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 804
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 14662
+	}
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 12649
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 632
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 12649
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 12649
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 34500
+	}
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 54049
+	}
+}
+#Daming (3364000/841000 POPS)
+1614 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 19320
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 9660
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 2357
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1638
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 420123
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 436999
+	}
+	slaves = {
+		culture = han_chinese
+		religion = confucian
+		size = 23000
+	}
+}
+#Jizhou (4496000/1124000 POPS)
+1615 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 25817
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12937
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 7129
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 287
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1176277
+	}
+}
+#Shuntian (4428000/1107000 POPS)
+1616 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 21936
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 12736
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6152
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 86
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 698538
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 459999
+	}
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 5750
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 11787
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 4024
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 575
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 12649
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3449
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 20700
+	}
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 12362
+	}
+}
+#Tianjin (5964000/1491000 POPS)
+1617 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 33378
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 16703
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 91540
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 8653
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1404523
+	}
+	serfs = {
+		culture = han_chinese
+		religion = confucian
+		size = 114999
+	}
+	aristocrats = {
+		culture = hanhui
+		religion = sunni
+		size = 862
+	}
+	clergymen = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	artisans = {
+		culture = hanhui
+		religion = sunni
+		size = 2242
+	}
+	soldiers = {
+		culture = hanhui
+		religion = sunni
+		size = 459
+	}
+	farmers = {
+		culture = hanhui
+		religion = sunni
+		size = 40825
+	}
+}
+#Zhongding (5240000/1310000 POPS)
+1618 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 30072
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 15093
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 12649
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6324
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 3449
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 690
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 1370943
+	}
+}
+#Old Tianjin (5964000/1491000 POPS)
+3249 = {
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 2328
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 603
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 2903
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 28749
+	}
+	aristocrats = {
+		culture = han_chinese
+		religion = confucian
+		size = 862
+	}
+	clergymen = {
+		culture = han_chinese
+		religion = confucian
+		size = 459
+	}
+	artisans = {
+		culture = han_chinese
+		religion = confucian
+		size = 6842
+	}
+	soldiers = {
+		culture = han_chinese
+		religion = confucian
+		size = 459
+	}
+	farmers = {
+		culture = han_chinese
+		religion = confucian
+		size = 10925
+	}
+}

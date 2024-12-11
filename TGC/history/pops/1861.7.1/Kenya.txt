@@ -1,0 +1,619 @@
+#Rift Highlands Region (620000)
+#uncolonized in 1836
+#Nairobi (260000/65000 POPS)
+2024 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 1063
+	}
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 546
+	}
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 2760
+	}
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 575
+	}
+	tribals = {
+		culture = kikuyu
+		religion = animist
+		size = 50254
+	}
+	aristocrats = {
+		culture = nilotic
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = nilotic
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = nilotic
+		religion = animist
+		size = 632
+	}
+	soldiers = {
+		culture = nilotic
+		religion = animist
+		size = 143
+	}
+	tribals = {
+		culture = nilotic
+		religion = animist
+		size = 11528
+	}
+	aristocrats = {
+		culture = maasai
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = maasai
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = maasai
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = maasai
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = maasai
+		religion = animist
+		size = 4197
+	}
+}
+#Lodwar (36000/9000 POPS)
+2026 = {
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = luo
+		religion = animist
+		size = 5318
+	}
+	aristocrats = {
+		culture = maasai
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = maasai
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = maasai
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = maasai
+		religion = animist
+		size = 28
+	}
+	tribals = {
+		culture = maasai
+		religion = animist
+		size = 3104
+	}
+	slaves = {
+		culture = nilotic
+		religion = animist
+		size = 1265
+	}
+}
+#Nakuru (128000/32000 POPS)
+2027 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = kikuyu
+		religion = animist
+		size = 8452
+	}
+	aristocrats = {
+		culture = maasai
+		religion = animist
+		size = 345
+	}
+	clergymen = {
+		culture = maasai
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = maasai
+		religion = animist
+		size = 747
+	}
+	soldiers = {
+		culture = maasai
+		religion = animist
+		size = 201
+	}
+	tribals = {
+		culture = maasai
+		religion = animist
+		size = 13483
+	}
+	aristocrats = {
+		culture = nilotic
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = nilotic
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = nilotic
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = nilotic
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = nilotic
+		religion = animist
+		size = 8395
+	}
+	slaves = {
+		culture = nilotic
+		religion = animist
+		size = 3449
+	}
+}
+#uncolonized in 1836/under influence of Buganda
+#Kisumu (196000/49000POPS)
+2028 = {
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 431
+	}
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 229
+	}
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 891
+	}
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 345
+	}
+	tribals = {
+		culture = luo
+		religion = animist
+		size = 23402
+	}
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 431
+	}
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 229
+	}
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1265
+	}
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 229
+	}
+	tribals = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 20958
+	}
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 8049
+	}
+}
+#Tana Region (324000)
+#uncolonized in 1836
+#Marsabit (52000/13000 POPS
+2025 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 287
+	}
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 747
+	}
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 143
+	}
+	tribals = {
+		culture = kikuyu
+		religion = animist
+		size = 13656
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = coptic
+		size = 114
+	}
+	clergymen = {
+		culture = oromo
+		religion = coptic
+		size = 114
+	}
+	artisans = {
+		culture = oromo
+		religion = coptic
+		size = 287
+	}
+	soldiers = {
+		culture = oromo
+		religion = coptic
+		size = 114
+	}
+	farmers = {
+		culture = oromo
+		religion = coptic
+		size = 5261
+	}
+}
+#Wajir (100000/25000 POPS)
+2031 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 459
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 977
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 258
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 20958
+	}
+	aristocrats = {
+		culture = cushitic
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = cushitic
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = cushitic
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = cushitic
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = cushitic
+		religion = animist
+		size = 4197
+	}
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 1265
+	}
+}
+#Garissa (172000/43000 POPS)
+2032 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 747
+	}
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 431
+	}
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 2012
+	}
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 402
+	}
+	tribals = {
+		culture = kikuyu
+		religion = animist
+		size = 36656
+	}
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 172
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 3104
+	}
+}
+#Upper Swahili Coast Region (304000)
+#ruled by kingdom of Oman in 1836
+#Mombasa (100000/25000 POPS)
+2029 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 229
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 632
+	}
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 1265
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 10522
+	}
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 345
+	}
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 575
+	}
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 201
+	}
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = kikuyu
+		religion = animist
+		size = 10493
+	}
+	slaves = {
+		culture = kikuyu
+		religion = animist
+		size = 3449
+	}
+}
+#Lamu (100000/25000 POPS)
+2030 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 258
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 143
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 575
+	}
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 143
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 11528
+	}
+	aristocrats = {
+		culture = cushitic
+		religion = animist
+		size = 258
+	}
+	clergymen = {
+		culture = cushitic
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = cushitic
+		religion = animist
+		size = 690
+	}
+	soldiers = {
+		culture = cushitic
+		religion = animist
+		size = 143
+	}
+	tribals = {
+		culture = cushitic
+		religion = animist
+		size = 12563
+	}
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 2300
+	}
+}
+#uncolonized in 1836
+#Voi (104000/26000 POPS)
+2033 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 546
+	}
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 1494
+	}
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 287
+	}
+	tribals = {
+		culture = kikuyu
+		religion = animist
+		size = 27283
+	}
+}

@@ -1,0 +1,102 @@
+#Belize Region (7500)
+#Ruled by Britain 1836
+#Belize Town (4000/1000 POPS)
+2187 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 28
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 28
+	}
+		farmers = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	artisans = {
+		culture = mullato
+		religion = protestant
+		size = 57
+	}
+	farmers = {
+		culture = mullato
+		religion = protestant
+		size = 172
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 345
+	}
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 459
+	}
+}
+#Rio Hondo (1500/500 POPS)
+3472 = {
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 459
+	}
+}
+#Ruled by Central America 1836
+#San Ignacio (2000/850 POPS)
+2190 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 57
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 143
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 114
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 57
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 459
+	}
+}

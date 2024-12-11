@@ -1,0 +1,231 @@
+#Uruguay Region (200000)
+#Under rule of Uruguay 1836
+#San Felipe y Santiago de Montevideo (112000/34000 POPS)
+2344 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 661
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 114
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	officers = {
+		culture = platinean
+		religion = catholic
+		size = 57
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 287
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 1127
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 6324
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 21384
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 287
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 575
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3622
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4600
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+}
+#Salto Oriental (36000/11000 POPS)
+2345 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 172
+	}
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 80
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 517
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 1782
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 1724
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 8314
+	}
+}
+#Santa Rosa del Cuarem (12000/3300 POPS)
+2346 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 57
+	}
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 57
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 114
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 114
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 2070
+	}
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 57
+	}
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 57
+	}
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 1150
+	}
+}
+#Melo (40000/10000 POPS)
+2347 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 172
+	}
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 69
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 402
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 459
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 6209
+	}
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 172
+	}
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 114
+	}
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 3783
+	}
+}

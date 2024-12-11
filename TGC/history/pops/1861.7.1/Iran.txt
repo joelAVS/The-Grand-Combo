@@ -1,0 +1,2843 @@
+#Slaves in Iran source http://m-hosseini.ir/safavid/articles-1/49.pdf
+#Southern Azerbaijan Region (1648000)
+#under the rule of Persia in 1836
+#Tabriz (808000/202000 POPS)
+1108 = {
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 2875
+	}
+
+	bureaucrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 575
+	}
+
+	officers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 459
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 1437
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 11500
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 6899
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 2300
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 110227
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 1724
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 603
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 9775
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 919
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 74951
+	}
+
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 114
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 11
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 563
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 28
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1696
+	}
+
+	slaves = {
+		culture = circassian
+		religion = orthodox
+		size = 13799
+	}
+
+	slaves = {
+		culture = georgian
+		religion = orthodox
+		size = 9200
+	}
+
+	slaves = {
+		culture = armenian
+		religion = coptic
+		size = 5750
+	}
+}
+#Khvoy (168000/42000 POPS)
+1109 = {
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 201
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 86
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 459
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 114
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 10608
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 287
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 747
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 143
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 17106
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = shiite
+		size = 172
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = shiite
+		size = 86
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = shiite
+		size = 459
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = shiite
+		size = 114
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = shiite
+		size = 7187
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 229
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 747
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 143
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 9113
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 1529
+	}
+
+	slaves = {
+		culture = armenian
+		religion = coptic
+		size = 5750
+	}
+}
+#Urumia (192000/48000 POPS)
+1110 = {
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 287
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 143
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 690
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 6784
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 316
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 172
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 977
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 172
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 4111
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = shiite
+		size = 258
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = shiite
+		size = 114
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = shiite
+		size = 690
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = shiite
+		size = 10292
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 114
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 51
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 362
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 77
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 16999
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = catholic
+		size = 114
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = catholic
+		size = 690
+	}
+
+	soldiers = {
+		culture = assyrian
+		religion = catholic
+		size = 345
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 23000
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 114
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 287
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 229
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 5750
+	}
+
+	farmers = {
+		culture = yazidis
+		religion = yazidi
+		size = 3449
+	}
+}
+#Mahabad (200000/50000 POPS)
+1111 = {
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 747
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 172
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 373
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 373
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 862
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 1265
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 28088
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = shiite
+		size = 345
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = shiite
+		size = 172
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 1035
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = shiite
+		size = 201
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = shiite
+		size = 12046
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 11500
+	}
+}
+#Ardabil (280000/70000 POPS)
+1112 = {
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 718
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 373
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 1782
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 31624
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 431
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 229
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 1265
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 229
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 23143
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 431
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 977
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 17738
+	}
+
+	slaves = {
+		culture = tatar
+		religion = orthodox
+		size = 5750
+	}
+}
+#Gilan-Maznadaran Region (448000)
+#under the rule of Persia in 1836
+#Rasht (168000/42000 POPS)
+1113 = {
+	aristocrats = {
+		culture = lurish
+		religion = shiite
+		size = 919
+	}
+
+	bureaucrats = {
+		culture = lurish
+		religion = shiite
+		size = 114
+	}
+
+	officers = {
+		culture = lurish
+		religion = shiite
+		size = 143
+	}
+
+	clergymen = {
+		culture = lurish
+		religion = shiite
+		size = 488
+	}
+
+	artisans = {
+		culture = lurish
+		religion = shiite
+		size = 1265
+	}
+
+	soldiers = {
+		culture = lurish
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = lurish
+		religion = shiite
+		size = 46575
+	}
+
+	slaves = {
+		culture = armenian
+		religion = coptic
+		size = 2300
+	}
+}
+#Noshehr (88000/22000 POPS)
+1114 = {
+	aristocrats = {
+		culture = lurish
+		religion = shiite
+		size = 459
+	}
+
+	clergymen = {
+		culture = lurish
+		religion = shiite
+		size = 258
+	}
+
+	artisans = {
+		culture = lurish
+		religion = shiite
+		size = 1265
+	}
+
+	soldiers = {
+		culture = lurish
+		religion = shiite
+		size = 258
+	}
+
+	farmers = {
+		culture = lurish
+		religion = shiite
+		size = 24207
+	}
+}
+#Sari (52000/13000 POPS)
+1115 = {
+	aristocrats = {
+		culture = lurish
+		religion = shiite
+		size = 287
+	}
+
+	clergymen = {
+		culture = lurish
+		religion = shiite
+		size = 143
+	}
+
+	artisans = {
+		culture = lurish
+		religion = shiite
+		size = 747
+	}
+
+	soldiers = {
+		culture = lurish
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = lurish
+		religion = shiite
+		size = 13627
+	}
+}
+#Gorgan (140000/35000 POPS)
+1116 = {
+	aristocrats = {
+		culture = lurish
+		religion = shiite
+		size = 575
+	}
+
+	clergymen = {
+		culture = lurish
+		religion = shiite
+		size = 287
+	}
+
+	artisans = {
+		culture = lurish
+		religion = shiite
+		size = 1494
+	}
+
+	soldiers = {
+		culture = lurish
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = lurish
+		religion = shiite
+		size = 26392
+	}
+
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 201
+	}
+
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 86
+	}
+
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 517
+	}
+
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 9430
+	}
+}
+#Luristan-Ardelan Region (476000)
+#under the rule of Persia in 1836
+#Kermanshah (236000/59000 POPS) #Lur POPs included in Persian
+1117 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 804
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 143
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 402
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 6497
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 7877
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 5
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 281
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = shiite
+		size = 258
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = shiite
+		size = 143
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = shiite
+		size = 747
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = shiite
+		size = 36656
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 172
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 172
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 258
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 86
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 9660
+	}
+
+	slaves = {
+		culture = georgian
+		religion = orthodox
+		size = 4600
+	}
+}
+#Sanandaj (92000/23000 POPS)
+1118 = {
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 488
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 258
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 1322
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 287
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 24092
+	}
+}
+#Ilam (84000/21000 POPS)
+1119 = {
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 373
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 172
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 977
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 201
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 17825
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 229
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 4168
+	}
+}
+#Khorramabad (64000/16000 POPS)
+1120 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 345
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 919
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 16042
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 1207
+	}
+}
+#Ajami Region (888000)
+#under the rule of Persia in 1836
+#Tehran (338000/84500 POPS)
+1121 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 2156
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 373
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 345
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 1006
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 11500
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 11500
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 46143
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 6899
+	}
+
+	slaves = {
+		culture = georgian
+		religion = orthodox
+		size = 2300
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 11
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 563
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 28
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1696
+	}
+}
+#Hamadan (118000/29500 POPS)
+1122 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 718
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 373
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 6899
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 23689
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 11
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 563
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 11
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 563
+	}
+}
+#Zanjan (44000/11000 POPS)
+1123 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 80
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 431
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 575
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 126
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 12563
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 114
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 3449
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 8711
+	}
+}
+#Qazvin (140000/35000 POPS)
+1124 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 804
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 431
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 5750
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 32113
+	}
+}
+#Qom (200000/50000 POPS)
+1125 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 718
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 4600
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 49766
+	}
+}
+#Semnan (48000/12000 POPS)
+1126 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 287
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 143
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 690
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 12534
+	}
+}
+#Isfahan Region (700000)
+#under the rule of Persia in 1836
+#Isfahan (388000/97500 POPS)
+1127 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 2300
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 229
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 1121
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 11500
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 4024
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 3449
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 84697
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 11
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 563
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 86
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 3363
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 10350
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 6899
+	}
+}
+#Arak (60000/15000 POPS)
+1128 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 287
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 862
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+
+	labourers = {
+		culture = persian
+		religion = shiite
+		size = 15754
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 114
+	}
+}
+#Kashan (112000/28000 POPS)
+1129 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 632
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 316
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 1609
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 229
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 28491
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 201
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 28
+	}
+}
+#Yazd (140000/35000 POPS)
+1130 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 804
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 402
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 7187
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 29842
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 5
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 281
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 11
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 563
+	}
+}
+#Khuzestan Region (164000)
+#under the rule of Persia in 1836
+#Ahvaz (56000/14000 POPS)
+1131 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = shiite
+		size = 229
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 114
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 488
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = shiite
+		size = 114
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 11413
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 28
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 2961
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 5
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 281
+	}
+}
+#Abadan (44000/11000 POPS)
+1132 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = shiite
+		size = 229
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 114
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 632
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = shiite
+		size = 114
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 11557
+	}
+}
+#Dezful (32000/8000 POPS)
+1133 = {
+	aristocrats = {
+		culture = kurdish
+		religion = shiite
+		size = 28
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = shiite
+		size = 57
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = shiite
+		size = 114
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = shiite
+		size = 28
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = shiite
+		size = 919
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 114
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 345
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 7446
+	}
+}
+#Shahr-e Kord (32000/8000 POPS)
+1134 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 459
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 8941
+	}
+}
+#Fars Region (468000)
+#under the rule of Persia in 1836
+#Shiraz (160000/40000 POPS)
+1135 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 891
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 143
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 459
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 7762
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 35218
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 57
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 804
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 3449
+	}
+
+	slaves = {
+		culture = panjabi
+		religion = sikh
+		size = 2300
+	}
+}
+#Bushehr (100000/25000 POPS)
+1136 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 517
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 287
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 1437
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 287
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 26219
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 229
+	}
+}
+#Yasuj (144000/36000 POPS)
+1137 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 804
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 402
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 2070
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 36972
+	}
+}
+#Kangan (48000/12000 POPS)
+1138 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 258
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 143
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 690
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 12563
+	}
+}
+#Sirjan (16000/4000 POPS)
+1139 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 229
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 28
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 4226
+	}
+}
+#Kerman Region (332000)
+#under the rule of Persia in 1836
+#Kerman (80000/20000 POPS)
+1140 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 402
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 229
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 229
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 20843
+	}
+}
+#Lengeh (76000/19000 POPS)
+1141 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 345
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 919
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 15812
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = shiite
+		size = 28
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 57
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 172
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = shiite
+		size = 28
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 3162
+	}
+}
+#Bandar Abbas (96000/24000 POPS)
+1142 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 373
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 977
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 14547
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = shiite
+		size = 114
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 86
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 402
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = shiite
+		size = 86
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 7359
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 2875
+	}
+
+	slaves = {
+		culture = pashtun
+		religion = shiite
+		size = 1150
+	}
+}
+#Bam (80000/20000 POPS)
+1143 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 229
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 114
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 632
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 11528
+	}
+
+	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 201
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 86
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 517
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 9430
+	}
+}
+#Sistan Region (260000)
+#under the rule of Persia in 1836
+#Zahedan (72000/18000 POPS)
+1144 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 229
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 28
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 86
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 114
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 632
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 143
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 11413
+	}
+
+	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 143
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 86
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 86
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 7331
+	}
+}
+#Jask (92000/23000 POPS)
+1145 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 316
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 977
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 16905
+	}
+
+	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 114
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 57
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 345
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 57
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 6986
+	}
+}
+#Chabahar (96000/24000 POPS)
+1146 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 316
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 977
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 17853
+	}
+
+	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 143
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 86
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 86
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 7331
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 2300
+	}
+
+	slaves = {
+		culture = panjabi
+		religion = hindu
+		size = 4600
+	}
+}
+#Khurasan Region (600000)
+#under the rule of Persia in 1836
+#Mashhad (380000/95000 POPS)
+1147 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 1782
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 172
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 948
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 11500
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 2875
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 70782
+	}
+
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 229
+	}
+
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 632
+	}
+
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 11557
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 5
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 281
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 9200
+	}
+
+	slaves = {
+		culture = pashtun
+		religion = shiite
+		size = 4600
+	}
+}
+#Birjand (92000/23000 POPS)
+1148 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 517
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 258
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 1322
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1265
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 23287
+	}
+}
+#Sabzevar (72000/18000 POPS)
+1149 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 402
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 1035
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 201
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 18860
+	}
+}
+#Bojnurd (56000/14000 POPS)
+1150 = {
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 229
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 747
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 948
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 9113
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 114
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 287
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 8682
+	}
+
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 229
+	}
+
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 86
+	}
+
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 488
+	}
+
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 86
+	}
+
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 7158
+	}
+}
+#Bytantaysk (2000/500 POPS)
+1071 = {
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 11
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 28
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 114
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 1178
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 258
+	}
+}
+#Hajjiabad
+2643 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 366
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 57
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 680
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 287
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 57
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 6899
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 4215
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 919
+	}
+
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 92
+	}
+}
+#Sistan
+2638 = {
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 575
+	}
+
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 402
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 28
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 114
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 10350
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 6842
+	}
+}

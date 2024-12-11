@@ -1,0 +1,189 @@
+#Leeward Islands Region - 61600
+#Ruled by Britain 1836
+#Antigua (25000/6250 POPS) #now independent
+2224 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 34
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 229
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 11
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 229
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 86
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 172
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 57
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 6290
+	}
+}
+#Montserrat (5300/1325 POPS) #still British Colony
+2225 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 11
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 34
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 34
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 17
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 51
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 11
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1586
+	}
+}
+#Tortola (4800/1200 POPS) #still British Colony
+2226 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 11
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 46
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 46
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 17
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 40
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 11
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1196
+	}
+}
+#Saint Kitts (26500/6625 POPS) #now independent
+2227 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 86
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 17
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 258
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 299
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 86
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 172
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 86
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 6784
+	}
+}

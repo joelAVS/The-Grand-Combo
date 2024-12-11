@@ -1,0 +1,338 @@
+#Quito Region (550000)
+#Ruled by Ecuador 1836
+#San Francisco de Quito (300000/56000 POPS)
+2279 = {
+	aristocrats = {
+		culture = ecuadorian
+		religion = catholic
+		size = 1782
+	}
+
+	bureaucrats = {
+		culture = ecuadorian
+		religion = catholic
+		size = 229
+	}
+
+	officers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 172
+	}
+
+	clergymen = {
+		culture = ecuadorian
+		religion = catholic
+		size = 690
+	}
+
+	artisans = {
+		culture = ecuadorian
+		religion = catholic
+		size = 345
+	}
+
+	soldiers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 5520
+	}
+
+	farmers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 18400
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 172
+	}
+
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 4715
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 1265
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 29899
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5750
+		militancy = 2
+	}
+}
+#Puerto Francisco de Orellana (150000/16000 POPS)
+2282 = {
+	aristocrats = {
+		culture = ecuadorian
+		religion = catholic
+		size = 919
+	}
+
+	clergymen = {
+		culture = ecuadorian
+		religion = catholic
+		size = 287
+	}
+
+	artisans = {
+		culture = ecuadorian
+		religion = catholic
+		size = 919
+	}
+
+	soldiers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 172
+	}
+
+	farmers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 5060
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 114
+	}
+
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 1437
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 287
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 9200
+	}
+}
+#Macas (100000/10000 POPS)
+2283 = {
+		clergymen = {
+		culture = quechua
+		religion = animist
+		size = 804
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 1494
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 8625
+	}
+}
+#Guayaquil Region (270300)
+#Ruled by Ecuador 1836
+#Santiago de Guayaquil (180000/25000 POPS)
+2280 = {
+	aristocrats = {
+		culture = ecuadorian
+		religion = catholic
+		size = 632
+	}
+
+	bureaucrats = {
+		culture = ecuadorian
+		religion = catholic
+		size = 114
+	}
+
+	clergymen = {
+		culture = ecuadorian
+		religion = catholic
+		size = 229
+	}
+
+	artisans = {
+		culture = ecuadorian
+		religion = catholic
+		size = 977
+	}
+
+	soldiers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 2472
+	}
+
+	farmers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 8049
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 57
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 172
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 57
+		militancy = 4
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2300
+		militancy = 4
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1150
+		militancy = 2
+	}
+
+		artisans = {
+		culture = quechua
+		religion = catholic
+		size = 2185
+	}
+
+		farmers = {
+		culture = quechua
+		religion = catholic
+		size = 10350
+	}
+}
+#San Gregoria de Portoviejo (90000/11000 POPS)
+2281 = {
+	aristocrats = {
+		culture = ecuadorian
+		religion = catholic
+		size = 517
+	}
+
+	clergymen = {
+		culture = ecuadorian
+		religion = catholic
+		size = 172
+	}
+
+	artisans = {
+		culture = ecuadorian
+		religion = catholic
+		size = 402
+	}
+
+	soldiers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 57
+	}
+
+	farmers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 2875
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 57
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 919
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 172
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4600
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2875
+	}
+}
+#Archipielago de Colon (300/75 POPS)
+2285 = {
+	bureaucrats = {
+		culture = ecuadorian
+		religion = catholic
+		size = 1
+	}
+
+	clergymen = {
+		culture = ecuadorian
+		religion = catholic
+		size = 1
+	}
+
+	artisans = {
+		culture = ecuadorian
+		religion = catholic
+		size = 3
+	}
+
+	soldiers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 28
+	}
+
+	farmers = {
+		culture = ecuadorian
+		religion = catholic
+		size = 51
+	}
+}

@@ -1,0 +1,233 @@
+#Guyana (100000)
+#Ruled by Britain 1836
+#Georgetown (58000/24000 POPS)
+2239 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 459
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 804
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 2760
+	}
+		clergymen = {
+		culture = kreol
+		religion = protestant
+		size = 229
+	}
+		soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 919
+		militancy = 4
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 4600
+		militancy = 2
+	}
+	artisans = {
+		culture = mullato
+		religion = protestant
+		size = 575
+				militancy = 4
+	}
+	soldiers = {
+		culture = mullato
+		religion = protestant
+		size = 575
+		militancy = 4
+	}
+	slaves = {
+		culture = mullato
+		religion = protestant
+		size = 5175
+		militancy = 2
+	}
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 4370
+	}
+		farmers = {
+		culture = carib
+		religion = animist
+		size = 6899
+	}
+}
+#Bartica (20000/9000 POPS)
+2242 = {
+	aristocrats = {
+		culture = venezuelan
+		religion = catholic
+		size = 229
+	}
+	farmers = {
+		culture = venezuelan
+		religion = catholic
+		size = 919
+	}
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 919
+	}
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 229
+	}
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 3449
+	}
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 3449
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1150
+	}
+}
+#Fort Zeelandia (6000/3000 POPS)
+2243 = {
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 114
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 345
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 575
+		militancy = 2
+	}
+
+	slaves = {
+		culture = mullato
+		religion = protestant
+		size = 575
+		militancy = 2
+	}
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 1035
+	}
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 690
+	}
+}
+#Upper Takutu River (5000/1000 POPS)
+1979 = {
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 575
+	}
+}
+#Upper Essequibo River (5000/1500 POPS)
+3413 = {
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1092
+	}
+}
+#Cashew Island (6000/2000 POPS)
+3414 = {
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 402
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 114
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1724
+	}
+}

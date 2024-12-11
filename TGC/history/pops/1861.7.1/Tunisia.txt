@@ -1,0 +1,253 @@
+#Tunisia Region (1392000)
+#under the rule of Tunisia in 1836
+#Tunis (488000/122000 POPS)
+1725 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 2702
+	}
+	bureaucrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 402
+	}
+	officers = {
+		culture = maghrebi
+		religion = sunni
+		size = 373
+	}
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 1380
+	}
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 11500
+	}
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 11500
+	}
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 8625
+	}
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 3449
+	}
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1150
+	}
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 87888
+	}
+	slaves = {
+		culture = berber
+		religion = sunni
+		size = 5750
+	}
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 86
+	}
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 4283
+	}
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 86
+	}
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 4283
+	}
+	artisans = {
+		culture = maltese
+		religion = catholic
+		size = 575
+	}
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 575
+	}
+}
+#Bizerte (268000/67000 POPS)
+1726 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 1437
+	}
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 776
+	}
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 3737
+	}
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1265
+	}
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 67361
+	}
+	slaves = {
+		culture = berber
+		religion = sunni
+		size = 2300
+	}
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 287
+	}
+}
+#Gafsa (112000/28000 POPS)
+1727 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 517
+	}
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 316
+	}
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 1437
+	}
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1265
+	}
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 25328
+	}
+	slaves = {
+		culture = berber
+		religion = sunni
+		size = 3449
+	}
+}
+#Kairouan (228000/57000 POPS)
+1728 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 1006
+	}
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 459
+	}
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 2587
+	}
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1265
+	}
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 46258
+	}
+	slaves = {
+		culture = berber
+		religion = sunni
+		size = 13799
+	}
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 5
+	}
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 281
+	}
+}
+#Tozeur (96000/24000 POPS)
+1729 = {
+	aristocrats	= {culture = libyan		religion = sunni	size = 402		}
+	clergymen 	= {culture = libyan		religion = sunni	size = 229		}
+	artisans 	= {culture = libyan		religion = sunni	size = 1092		}
+	farmers 	= {culture = libyan		religion = sunni	size = 5750		}
+	soldiers 	= {culture = berber		religion = sunni	size = 229		}
+	farmers 	= {culture = berber		religion = sunni	size = 14144	}
+	slaves 		= {culture = berber		religion = sunni	size = 5750		}}
+
+#Gabes (200000/50000 POPS)
+1730 = {
+	aristocrats = {
+		culture = libyan
+		religion = sunni
+		size = 1035
+	}
+	clergymen = {
+		culture = libyan
+		religion = sunni
+		size = 459
+	}
+	artisans = {
+		culture = libyan
+		religion = sunni
+		size = 2616
+	}
+	soldiers = {
+		culture = libyan
+		religion = sunni
+		size = 1265
+	}
+	farmers = {
+		culture = libyan
+		religion = sunni
+		size = 46948
+	}
+	slaves = {
+		culture = berber
+		religion = sunni
+		size = 4600
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 575
+	}
+}

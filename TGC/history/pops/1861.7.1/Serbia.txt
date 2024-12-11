@@ -1,0 +1,2094 @@
+#Banat-Bacska Region (760000) #See Romania.txt and Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Mitrovica (108000/27000 POPS) #part of Serbia today
+791 = {
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 172
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 862
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 287
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 17652
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 575
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 86
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 229
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 57
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 4226
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 345
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 57
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 402
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 86
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 6008
+	}
+}
+#Pancevo (268000/67000 POPS) #part of Serbia today
+792 = {
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 172
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 919
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 229
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 18773
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 1150
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 114
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 28
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 114
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 114
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 114
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 575
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 229
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 575
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 229
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 2989
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 114
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 575
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 114
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 8625
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 57
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 114
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 28
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 2300
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 114
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 114
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 1724
+	}
+}
+#Kikinda #part of Serbia today
+3319 = {
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 114
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 345
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 114
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 8049
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 690
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 114
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 575
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 114
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 10005
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 690
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 229
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 690
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 114
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 17250
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 345
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 11
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 23
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 229
+	}
+}
+#Novi Sad (384000/96000 POPS) #part of Serbia today
+2538 = {
+	officers = {
+		culture = serb
+		religion = orthodox
+		size = 86
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 287
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1150
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 345
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 23000
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 1150
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 459
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 57
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 459
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 114
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 8625
+	}
+
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 862
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 57
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 229
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 57
+	}
+
+	serfs = {
+		culture = croat
+		religion = catholic
+		size = 4600
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 86
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 517
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 114
+	}
+
+	serfs = {
+		culture = slovak
+		religion = catholic
+		size = 10781
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 919
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 172
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 862
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 172
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 15524
+	}
+}
+#Maria-Theresiopel (384000/96000 POPS) #part of Serbia today
+3309 = {
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 28
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 287
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 28
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 5750
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 1150
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 287
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 1265
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 345
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 20700
+	}
+
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 862
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 17
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 57
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 5
+	}
+
+	serfs = {
+		culture = croat
+		religion = catholic
+		size = 1150
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 229
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 345
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 86
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 459
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 114
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 8049
+	}
+}
+#Serbia Region (180310) - 721.240 people
+#under the rule of Serbia in 1836
+#Belgrade (328000/82000 POPS)
+794 = {
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 2530
+	}
+
+	bureaucrats = {
+		culture = serb
+		religion = orthodox
+		size = 114
+	}
+
+	officers = {
+		culture = serb
+		religion = orthodox
+		size = 287
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 1035
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 4600
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 2328
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 64313
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 5175
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 229
+	}
+}
+#Bor (220400/55000 POPS)
+795 = {
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 575
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 172
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 2989
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1839
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 29163
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 114
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 575
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 459
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 27599
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 287
+	}
+}
+#Kragujevac (188000/47000 POPS)
+796 = {
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 459
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 172
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1380
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1724
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 31279
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 114
+	}
+}
+#Uzice (72000/18000 POPS)
+797 = {
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 172
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 229
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 517
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1724
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 33350
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 172
+	}
+}
+#under the rule of Ottoman Empire in 1836
+#Nis (260000/65000 POPS)
+798 = {
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1552
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 402
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 2300
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 55544
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 402
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = sunni
+		size = 229
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 1322
+	}
+
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 172
+	}
+
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 172
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 3449
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1265
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 3967
+	}
+
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 11500
+	}
+}
+#Leskovac (220000/55000 POPS)
+799 = {
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1265
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 143
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1724
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 40250
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 114
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 114
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 287
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 287
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = sunni
+		size = 114
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 114
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 114
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 172
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 28749
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 517
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2875
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 5261
+	}
+}
+#Kosovo-Sanjak Region (466000)
+#under the rule of Ottoman Empire in 1836
+#Pristina (208000/52000 POPS)
+802 = {
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1265
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 114
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1035
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 20033
+	}
+
+	aristocrats = {
+		culture = bulgarian
+		religion = orthodox
+		size = 46
+	}
+
+	officers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 23
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 114
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 80
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 114
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 690
+	}
+
+	aristocrats = {
+		culture = pomak
+		religion = sunni
+		size = 28
+	}
+
+	officers = {
+		culture = pomak
+		religion = sunni
+		size = 17
+	}
+
+	soldiers = {
+		culture = pomak
+		religion = sunni
+		size = 46
+	}
+
+	clergymen = {
+		culture = pomak
+		religion = sunni
+		size = 34
+	}
+
+	artisans = {
+		culture = pomak
+		religion = sunni
+		size = 69
+	}
+
+	farmers = {
+		culture = pomak
+		religion = sunni
+		size = 459
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = sunni
+		size = 345
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 114
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 977
+	}
+
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 172
+	}
+
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 172
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1150
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 2070
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 103
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 103
+	}
+
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 1150
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 1150
+	}
+
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 20355
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 126
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 126
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 2955
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = orthodox
+		size = 11
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 126
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 126
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 2840
+	}
+}
+#Prizren (186000/46000 POPS)
+803 = {
+	aristocrats = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	officers = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	soldiers = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	clergymen = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = serb
+		religion = sunni
+		size = 3449
+	}
+
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 57
+	}
+
+	officers = {
+		culture = serb
+		religion = orthodox
+		size = 92
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1265
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 206
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 287
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 5750
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = sunni
+		size = 459
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 459
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 862
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2012
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 5922
+	}
+
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 114
+	}
+
+	aristocrats = {
+		culture = albanian
+		religion = sunni
+		size = 103
+	}
+
+	officers = {
+		culture = albanian
+		religion = sunni
+		size = 103
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 103
+	}
+
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 919
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 103
+	}
+
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 36282
+	}
+
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	officers = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 103
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 3973
+	}
+}
+#Kosovska Mitrovica
+3321 = {
+	aristocrats = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	officers = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	soldiers = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	clergymen = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = serb
+		religion = sunni
+		size = 3449
+	}
+
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 46
+	}
+
+	officers = {
+		culture = serb
+		religion = orthodox
+		size = 80
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1150
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 229
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 287
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 16099
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = sunni
+		size = 459
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 459
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 862
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 575
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 2300
+	}
+
+	aristocrats = {
+		culture = albanian
+		religion = sunni
+		size = 92
+	}
+
+	officers = {
+		culture = albanian
+		religion = sunni
+		size = 92
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 92
+	}
+
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 459
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 92
+	}
+
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 9200
+	}
+
+	aristocrats = {
+		culture = albanian
+		religion = orthodox
+		size = 11
+	}
+
+	officers = {
+		culture = albanian
+		religion = orthodox
+		size = 11
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 11
+	}
+
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 57
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = orthodox
+		size = 11
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 1150
+	}
+
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	officers = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 57
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 11
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 1150
+	}
+}
+#Dragash
+3487 = {
+	aristocrats = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	officers = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	soldiers = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	clergymen = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = serb
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = serb
+		religion = sunni
+		size = 2300
+	}
+
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 11
+	}
+
+	officers = {
+		culture = serb
+		religion = orthodox
+		size = 11
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 11
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 23
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 11
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 229
+	}
+
+	aristocrats = {
+		culture = albanian
+		religion = sunni
+		size = 11
+	}
+
+	officers = {
+		culture = albanian
+		religion = sunni
+		size = 11
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 11
+	}
+
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 46
+	}
+
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 11
+	}
+
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 575
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 17
+	}
+
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 5
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 69
+	}
+}
+#Novi Pazar (72000/18000 POPS)
+804 = {
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 229
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 459
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 29037
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1265
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = sunni
+		size = 459
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 114
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 229
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 517
+	}
+
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 1265
+	}
+
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 17767
+	}
+}
+347 = {
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1092
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 229
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1724
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 26794
+	}
+
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 517
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 172
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 575
+	}
+
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 17595
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 1322
+	}
+
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 172
+	}
+
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 172
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2300
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 575
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 1437
+	}
+}
+#Bosilegrad
+3290 = {
+	soldiers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 517
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 57
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 575
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 25874
+	}
+
+	soldiers = {
+		culture = pomak
+		religion = sunni
+		size = 57
+	}
+
+	clergymen = {
+		culture = pomak
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = pomak
+		religion = sunni
+		size = 63
+	}
+
+	farmers = {
+		culture = pomak
+		religion = sunni
+		size = 2875
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 1150
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 57
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 57
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 114
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 2875
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 229
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 57
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1437
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 57
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 2587
+	}
+}

@@ -1,0 +1,342 @@
+#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
+#under the rule of Austria in 1836
+#Maribor (204000/51000 POPS) #Part of Slovenia Today
+767 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 862
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 287
+	}
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 3564
+	}
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 57
+	}
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 11672
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 517
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 1839
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 517
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 14374
+	}
+
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 1150
+	}
+
+	serfs = {
+		culture = slovene
+		religion = catholic
+		size = 23000
+	}
+
+}
+#Carniola Region (460000)
+#under the rule of Austria in 1836
+#Ljubljana (280000/70000 POPS)
+768 = {
+	aristocrats = {
+		culture = slovene
+		religion = catholic
+		size = 948
+	}
+	bureaucrats = {
+		culture = slovene
+		religion = catholic
+		size = 258
+	}
+	officers = {
+		culture = slovene
+		religion = catholic
+		size = 114
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 804
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 4600
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 1265
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 61122
+	}
+
+	serfs = {
+		culture = slovene
+		religion = catholic
+		size = 23000
+	}
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 28
+	}
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 114
+	}
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 172
+	}
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 114
+	}
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 7474
+	}
+
+}
+#Postojna (180000/45000 POPS)
+769 = {
+	aristocrats = {
+		culture = slovene
+		religion = catholic
+		size = 575
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 488
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 2415
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 488
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 44936
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = catholic
+		size = 575
+	}
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 2271
+	}
+}
+#Koper (61633/15408 POPS)
+3485 = {
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 28
+	}
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 11
+	}
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 229
+	}
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 17
+	}
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 1150
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 138
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 57
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 517
+	}
+}
+#Murska Sobota
+3282 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 287
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 114
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 1150
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 114
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 10350
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 172
+	}
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 11
+	}
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 3449
+	}
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1150
+	}
+}
+#Gutenstein/Ravne
+3312 = {
+	aristocrats = {
+		culture = slovene
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 114
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 23
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 2875
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 5
+	}
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 804
+	}
+
+}

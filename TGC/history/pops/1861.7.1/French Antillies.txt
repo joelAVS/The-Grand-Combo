@@ -1,0 +1,144 @@
+#French Antilles (319200)
+#Ruled by France 1836
+#Martinique (190800/27450 POPS)
+2228 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 862
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 114
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1035
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 287
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 459
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 143
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1437
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 287
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 3909
+	}
+	slaves = {
+		culture = afro_antillean
+		religion = catholic
+		size = 23000
+	}
+}
+#Guadeloupe (128400/32100 POPS)
+2230 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 977
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1494
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 345
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 690
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 172
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1724
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 345
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 3507
+	}
+	slaves = {
+		culture = afro_antillean
+		religion = catholic
+		size = 27599
+	}
+}
+#Marigot - Former Baffin Island (4000/1000 POPS)
+45 = {
+	
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 11
+	}
+	
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 63
+	}
+	
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 575
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 138
+	}
+}

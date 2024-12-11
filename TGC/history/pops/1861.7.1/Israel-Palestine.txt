@@ -1,0 +1,454 @@
+#Bayrut Region (52000) #see Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Acre (52000/13000 POPS) #now part of Israel-Palestine mashriqi-animist = druze
+916 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 86
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 57
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 287
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 57
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 5261
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = orthodox
+		size = 28
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 114
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 2156
+	}
+
+	clergymen = {
+		culture = druzes
+		religion = druze
+		size = 57
+	}
+
+	artisans = {
+		culture = druzes
+		religion = druze
+		size = 229
+	}
+
+	farmers = {
+		culture = druzes
+		religion = druze
+		size = 4312
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 57
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 114
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 2127
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 28
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 57
+	}
+
+	farmers = {
+		culture = mizrahi
+		religion = jewish
+		size = 1063
+	}
+}
+#Palestine Region (236000) #see Jordan.txt for balance of region
+#under the rule of Egypt in 1836
+#Jerusalem (68000/17000 POPS)
+917 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 229
+	}
+
+	bureaucrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 57
+	}
+
+	officers = {
+		culture = mashriqi
+		religion = sunni
+		size = 86
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 2645
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 201
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 9315
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = orthodox
+		size = 86
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 948
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 3564
+	}
+
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 114
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 57
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 1006
+	}
+
+	farmers = {
+		culture = mizrahi
+		religion = jewish
+		size = 1351
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 358
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 2765
+	}
+}
+#Nablus (44000/11000 POPS)
+918 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 143
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 1178
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 143
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 8768
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = orthodox
+		size = 28
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 143
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 977
+	}
+
+	clergymen = {
+		culture = druzes
+		religion = druze
+		size = 28
+	}
+
+	artisans = {
+		culture = druzes
+		religion = druze
+		size = 114
+	}
+
+	farmers = {
+		culture = druzes
+		religion = druze
+		size = 1006
+	}
+}
+#Jaffa (48000/12000 POPS)
+919 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 143
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 1265
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 143
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 8682
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = orthodox
+		size = 28
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 114
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 1006
+	}
+
+	clergymen = {
+		culture = mizrahi
+		religion = jewish
+		size = 28
+	}
+
+	artisans = {
+		culture = mizrahi
+		religion = jewish
+		size = 345
+	}
+
+	farmers = {
+		culture = mizrahi
+		religion = jewish
+		size = 1926
+	}
+}
+#Gaza (44000/11000 POPS)
+920 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 143
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 114
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 1437
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 143
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 8510
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = orthodox
+		size = 28
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 287
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 1983
+	}
+}
+#Beersheba (36000/9000 POPS)
+921 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 86
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 57
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 114
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 7388
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 28
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 28
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 86
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 28
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2127
+	}
+}

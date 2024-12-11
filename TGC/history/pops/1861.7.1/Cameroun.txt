@@ -1,0 +1,517 @@
+#Cameroun Region (728000)
+#uncolonized in 1836/ruled by the Kings of Duala
+#Douala (328000/82000 POPS)
+1956 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 1926
+	}
+	officers = {
+		culture = forest_bantu
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 948
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 3794
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 948
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 70408
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 16099
+	}
+}
+#Buea (224000/56000 POPS)
+1957 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 1236
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 632
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 2587
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 632
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 45511
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 13799
+	}
+}
+#Kribi (176000/44000 POPS)
+1958 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 575
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 287
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 1207
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 316
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 24063
+	}
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 3449
+	}
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 373
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 201
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 833
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 201
+	}
+	tribals = {
+		culture = fang
+		religion = animist
+		size = 13339
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 5750
+	}
+}
+#Sanaga-Kadei Region (940000)
+#uncolonized in 1836
+#Yaounde (344000/86000 POPS)
+1959 = {
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 603
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 316
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 1293
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 316
+	}
+	tribals = {
+		culture = fang
+		religion = animist
+		size = 19320
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 10350
+	}
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 1322
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 661
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 2673
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 690
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 45252
+	}
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 16099
+	}
+}
+#Bafoussam (276000/69000 POPS)
+1960 = {
+	aristocrats = {
+		culture = tiv
+		religion = sunni
+		size = 1581
+	}
+	clergymen = {
+		culture = tiv
+		religion = sunni
+		size = 804
+	}
+	artisans = {
+		culture = tiv
+		religion = sunni
+		size = 3191
+	}
+	soldiers = {
+		culture = tiv
+		religion = sunni
+		size = 804
+	}
+	farmers = {
+		culture = tiv
+		religion = sunni
+		size = 51117
+	}
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 21850
+	}
+}
+#Bertoua (320000/80000 POPS)
+1962 = {
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 1408
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 718
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 2875
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 718
+	}
+	tribals = {
+		culture = fang
+		religion = animist
+		size = 39128
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 19550
+	}
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 373
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 201
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 833
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 201
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 12189
+	}
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 6899
+	}
+}
+#Kwararafa Region (372000) #see Nigeria.txt for balance of region
+#uncolonized in 1836
+#Bamenda (372000/93000 POPS) #now part of Cameroun
+1961 = {
+	aristocrats = {
+		culture = tiv
+		religion = animist
+		size = 2127
+	}
+	clergymen = {
+		culture = tiv
+		religion = animist
+		size = 1092
+	}
+	artisans = {
+		culture = tiv
+		religion = animist
+		size = 4283
+	}
+	soldiers = {
+		culture = tiv
+		religion = animist
+		size = 1092
+	}
+	tribals = {
+		culture = tiv
+		religion = animist
+		size = 86911
+	}
+	slaves = {
+		culture = ibibio
+		religion = animist
+		size = 11500
+	}
+}
+#Adamawa Region (268000) #see Nigeria.txt for balance of region
+#under the rule of Sokoto 1836
+#Ngaoundere (160000/40000 POPS) #now part of Cameroun
+1963 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 575
+	}
+	bureaucrats = {
+		culture = fulbe
+		religion = sunni
+		size = 28
+	}
+	officers = {
+		culture = fulbe
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 287
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 1207
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 316
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 22798
+	}
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 316
+	}
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 661
+	}
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 172
+	}
+	tribals = {
+		culture = ubangian
+		religion = animist
+		size = 14777
+	}
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 4600
+	}
+}
+#under rule of Kanem-Borno in 1836
+#Maroua (433600/108400 POPS) #now part of Cameroun
+1964 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 804
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 919
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 804
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 459
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 31509
+	}
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 229
+	}
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 919
+	}
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 23689
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 345
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 229
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 229
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 21045
+	}
+	aristocrats = {
+		culture = baguirmi
+		religion = animist
+		size = 804
+	}
+	clergymen = {
+		culture = baguirmi
+		religion = animist
+		size = 459
+	}
+	artisans = {
+		culture = baguirmi
+		religion = animist
+		size = 2070
+	}
+	soldiers = {
+		culture = baguirmi
+		religion = animist
+		size = 459
+	}
+	tribals = {
+		culture = baguirmi
+		religion = animist
+		size = 26564
+	}
+	slaves = {
+		culture = kanuri
+		religion = sunni
+		size = 6899
+	}
+
+	slaves = {
+		culture = sara
+		religion = sunni
+		size = 6899
+	}
+}

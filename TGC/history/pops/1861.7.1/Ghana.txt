@@ -1,0 +1,453 @@
+#Gold Coast Region (268000)
+#uncolonized in 1836
+#Accra (132000/33000 POPS) #Danish Tradepost in 1836
+1907 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 747
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 373
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 1523
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 3449
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 1552
+	}
+	tribals = {
+		culture = akan
+		religion = animist
+		size = 23402
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 6899
+	}
+}
+#Cape Coast (48000/12000 POPS) #British Tradepost in 1836
+1908 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 258
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 143
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 690
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 143
+	}
+	tribals = {
+		culture = akan
+		religion = animist
+		size = 10263
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 2300
+	}
+}
+#Sekondi (88000/22000 POPS) #Dutch Tradepost in 1836
+1909 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 57
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 23
+	}
+
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 488
+	}
+
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 258
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 1265
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 258
+	}
+	tribals = {
+		culture = akan
+		religion = animist
+		size = 18428
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 4600
+	}
+}
+#Asante Region (2404000)
+#under the rule of Ashanti in 1836
+#Kumasi (1108000/277000 POPS)
+1910 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 6037
+	}
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 304
+	}
+	officers = {
+		culture = akan
+		religion = animist
+		size = 638
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 3122
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 11500
+	}
+
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 1081
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 3449
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 1150
+	}
+	tribals = {
+		culture = akan
+		religion = animist
+		size = 246991
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 44275
+	}
+}
+#Kintampo (520000/130000 POPS)
+1911 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 2921
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 1506
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 6037
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 2300
+	}
+	tribals = {
+		culture = akan
+		religion = animist
+		size = 108559
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 28174
+	}
+}
+#Wa (564000/141000 POPS)
+1912 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 1092
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 603
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 2415
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 2300
+	}
+	tribals = {
+		culture = akan
+		religion = animist
+		size = 51059
+	}
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 1311
+	}
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 707
+	}
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 3421
+	}
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 707
+	}
+	tribals = {
+		culture = gur
+		religion = animist
+		size = 62283
+	}
+	slaves = {
+		culture = dyula
+		religion = sunni
+		size = 12074
+	}
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 505
+	}
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 304
+	}
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 1207
+	}
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 304
+	}
+	tribals = {
+		culture = mossi
+		religion = animist
+		size = 21850
+	}
+}
+#Tamale (212000/53000 POPS)
+1913 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 402
+	}
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 201
+	}
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 1207
+	}
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 873
+	}
+	tribals = {
+		culture = gur
+		religion = animist
+		size = 43884
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 4024
+	}
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 707
+	}
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 402
+	}
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 1512
+	}
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 402
+	}
+	tribals = {
+		culture = mossi
+		religion = animist
+		size = 21131
+	}
+}
+#Togo Region (548000) #see Togo.txt for balance of region
+#uncolonized in 1836
+#Ho (420000/105000 POPS)
+1915 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 908
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 505
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 2012
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 505
+	}
+	tribals = {
+		culture = akan
+		religion = animist
+		size = 36340
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 8049
+	}
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 1380
+	}
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 707
+	}
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 2921
+	}
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 804
+	}
+	tribals = {
+		culture = ewe
+		religion = animist
+		size = 46488
+	}
+	slaves = {
+		culture = gur
+		religion = animist
+		size = 20125
+	}
+}
+#under the rule of Ashanti in 1836
+#Yendi (128000/32000 POPS)
+1916 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 505
+	}
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 304
+	}
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 1512
+	}
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 965
+	}
+	tribals = {
+		culture = gur
+		religion = animist
+		size = 25460
+	}
+	slaves = {
+		culture = ewe
+		religion = animist
+		size = 8049
+	}
+}

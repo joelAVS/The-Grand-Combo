@@ -1,0 +1,170 @@
+#Middle Congo Region (148000)
+#under the rule of Loango in 1836
+#Nkuna (400000/100000 POPS)
+1977 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 2012
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 1265
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 4600
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 1150
+	}
+	tribals = {
+		culture = bakongo
+		religion = animist
+		size = 83087
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 23000
+	}
+}
+#Madingou (160000/40000 POPS)
+1978 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 862
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 575
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 2012
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 575
+	}
+	tribals = {
+		culture = bakongo
+		religion = animist
+		size = 30474
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 11500
+	}
+}
+#Loango (320000/80000 POPS)
+2624 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 1724
+	}
+
+	bureaucrats = {
+		culture = bakongo
+		religion = animist
+		size = 459
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 862
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 3737
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 1150
+	}
+	tribals = {
+		culture = bakongo
+		religion = animist
+		size = 61524
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 23000
+	}
+}
+#uncolonized in 1836
+#Djambala (28000/7000 POPS)
+1980 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 143
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 402
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 86
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 7331
+	}
+}
+#Impfondo (32000/8000 POPS)
+1981 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 172
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 8395
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 575
+	}
+}

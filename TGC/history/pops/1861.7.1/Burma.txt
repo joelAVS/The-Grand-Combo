@@ -1,0 +1,158 @@
+#Shan Region (680000)
+#Under Burma rule 1836
+#Taunggye (416000/104000 POPS)
+1338 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 1035
+	}
+	bureaucrats = {
+		culture = shan
+		religion = theravada
+		size = 258
+	}
+	officers = {
+		culture = shan
+		religion = theravada
+		size = 201
+	}
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 977
+	}
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 4887
+	}
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 977
+	}
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 71012
+	}
+	aristocrats = {
+		culture = burmese
+		religion = theravada
+		size = 172
+	}
+	bureaucrats = {
+		culture = burmese
+		religion = theravada
+		size = 114
+	}
+	officers = {
+		culture = burmese
+		religion = theravada
+		size = 28
+	}
+	clergymen = {
+		culture = burmese
+		religion = theravada
+		size = 229
+	}
+	artisans = {
+		culture = burmese
+		religion = theravada
+		size = 1265
+	}
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 258
+	}
+	farmers = {
+		culture = burmese
+		religion = theravada
+		size = 21045
+	}
+	slaves = {
+		culture = thai
+		religion = theravada
+		size = 17250
+	}
+}
+#Lashio (264000/66000 POPS)
+1340 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 575
+	}
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 575
+	}
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 2875
+	}
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 575
+	}
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 52899
+	}
+	aristocrats = {
+		culture = kachin
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = kachin
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = kachin
+		religion = animist
+		size = 632
+	}
+	soldiers = {
+		culture = kachin
+		religion = animist
+		size = 172
+	}
+	farmers = {
+		culture = kachin
+		religion = animist
+		size = 11615
+	}
+	clergymen = {
+		culture = burmese
+		religion = theravada
+		size = 86
+	}
+	artisans = {
+		culture = burmese
+		religion = theravada
+		size = 402
+	}
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 114
+	}
+	farmers = {
+		culture = burmese
+		religion = theravada
+		size = 7446
+	}
+	slaves = {
+		culture = lao
+		religion = theravada
+		size = 8049
+	}
+}

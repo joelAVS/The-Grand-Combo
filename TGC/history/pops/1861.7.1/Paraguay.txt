@@ -1,0 +1,250 @@
+#Oriental Region (270000)
+#Santa Maria de la Asuncion (135000/64000 POPS)
+2340 = {
+	aristocrats = {
+		culture = paraguayan
+		religion = catholic
+		size = 1150
+	}
+	bureaucrats = {
+		culture = paraguayan
+		religion = catholic
+		size = 345
+	}
+	officers = {
+		culture = paraguayan
+		religion = catholic
+		size = 229
+	}
+	clergymen = {
+		culture = paraguayan
+		religion = catholic
+		size = 575
+	}
+	artisans = {
+		culture = paraguayan
+		religion = catholic
+		size = 5175
+	}
+	soldiers = {
+		culture = paraguayan
+		religion = catholic
+		size = 17250
+	}
+	farmers = {
+		culture = paraguayan
+		religion = catholic
+		size = 23000
+	}
+	artisans = {
+		culture = guarani
+		religion = catholic
+		size = 1724
+	}
+	soldiers = {
+		culture = guarani
+		religion = catholic
+		size = 9200
+	}
+	farmers = {
+		culture = guarani
+		religion = catholic
+		size = 10350
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 690
+		militancy = 4
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 459
+		militancy = 4
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1150
+		militancy = 4
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2300
+		militancy = 2
+	}
+}
+#Villarica del Espiritu Santo (70000/24000 POPS)
+2339 = {
+	aristocrats = {
+		culture = paraguayan
+		religion = catholic
+		size = 575
+	}
+	clergymen = {
+		culture = paraguayan
+		religion = catholic
+		size = 114
+	}
+	artisans = {
+		culture = paraguayan
+		religion = catholic
+		size = 2185
+	}
+	soldiers = {
+		culture = paraguayan
+		religion = catholic
+		size = 1724
+	}
+	farmers = {
+		culture = paraguayan
+		religion = catholic
+		size = 18400
+	}
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 1150
+	}
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 3449
+	}
+}
+#Villa Real de la Concepcion (65000/21000 POPS)
+2342 = {
+	aristocrats = {
+		culture = paraguayan
+		religion = catholic
+		size = 517
+	}
+	clergymen = {
+		culture = paraguayan
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = paraguayan
+		religion = catholic
+		size = 1150
+	}
+	soldiers = {
+		culture = paraguayan
+		religion = catholic
+		size = 1724
+	}
+	farmers = {
+		culture = paraguayan
+		religion = catholic
+		size = 9200
+	}
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 1150
+	}
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 6899
+	}
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 575
+	}
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 2875
+	}
+}
+#Occidental Region (30000)
+#Rio Verde (15000/8000 POPS)
+2337 = {
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 517
+	}
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 1150
+	}
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 5175
+	}
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 575
+	}
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 1724
+	}
+}
+#Fuerte Olimpo (6500/2500 POPS)
+2338 = {
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 345
+	}
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 632
+	}
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 1265
+	}
+
+}
+#Reduccion Melodia (8500/3500 POPS)
+2343 = {
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 57
+	}
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 575
+	}
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 517
+	}
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 2875
+	}
+}

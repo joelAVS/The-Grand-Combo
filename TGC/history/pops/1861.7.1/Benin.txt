@@ -1,0 +1,316 @@
+#Dahomey Region (512000)
+#under the rule of Dahomey in 1836
+#Cotonou (544000/136000 POPS)
+1919 = {
+	aristocrats = {
+		culture = fon
+		religion = animist
+		size = 2242
+	}
+	clergymen = {
+		culture = fon
+		religion = animist
+		size = 1265
+	}
+	artisans = {
+		culture = fon
+		religion = animist
+		size = 4715
+	}
+	soldiers = {
+		culture = fon
+		religion = animist
+		size = 1150
+	}
+	tribals = {
+		culture = fon
+		religion = animist
+		size = 68942
+	}
+	slaves = {
+		culture = fon
+		religion = animist
+		size = 4600
+	}
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 632
+	}
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 345
+	}
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 1724
+	}
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 345
+	}
+	tribals = {
+		culture = east_kwa
+		religion = animist
+		size = 31452
+	}
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 29899
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 229
+	}
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = yoruba
+		religion = animist
+		size = 4140
+	}
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 4600
+	}
+}
+#Abomey (480000/120000 POPS)
+1920 = {
+	aristocrats = {
+		culture = fon
+		religion = animist
+		size = 2415
+	}
+	bureaucrats = {
+		culture = fon
+		religion = animist
+		size = 114
+	}
+	officers = {
+		culture = fon
+		religion = animist
+		size = 229
+	}
+	clergymen = {
+		culture = fon
+		religion = animist
+		size = 1265
+	}
+	artisans = {
+		culture = fon
+		religion = animist
+		size = 4887
+	}
+	soldiers = {
+		culture = fon
+		religion = animist
+		size = 3449
+	}
+	soldiers = {
+		culture = fon
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = fon
+		religion = animist
+		size = 95737
+	}
+	slaves = {
+		culture = fon
+		religion = animist
+		size = 9200
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 459
+	}
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = yoruba
+		religion = animist
+		size = 8395
+	}
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 2300
+	}
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 172
+	}
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 345
+	}
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = east_kwa
+		religion = animist
+		size = 6209
+	}
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 2300
+	}
+}
+#Borgu Region (76000) #see Nigeria.txt for balance of region
+#ruled by Sokoto in 1836
+#Nikki (48000/12000 POPS)
+1921 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 57
+	}
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 86
+	}
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 172
+	}
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = gur
+		religion = animist
+		size = 3104
+	}
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 1265
+	}
+	aristocrats = {
+		culture = east_kwa
+		religion = sunni
+		size = 201
+	}
+	clergymen = {
+		culture = east_kwa
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = east_kwa
+		religion = sunni
+		size = 431
+	}
+	soldiers = {
+		culture = east_kwa
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = east_kwa
+		religion = sunni
+		size = 8337
+	}
+}
+#Jugu (28000/7000 POPS)
+1922 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 287
+	}
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = gur
+		religion = animist
+		size = 5261
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 114
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 2070
+	}
+}

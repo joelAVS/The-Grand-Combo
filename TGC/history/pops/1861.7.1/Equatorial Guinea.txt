@@ -1,0 +1,134 @@
+#Equatorial Guinea (143000)
+#Ruled By Spain in 1836
+#Fernando Po (11000/2750 POPS)
+1955 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 11
+	}
+
+	officers = {
+		culture = forest_bantu
+		religion = animist
+		size = 23
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 23
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 138
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 609
+	}
+
+	aristocrats = {
+		culture = ibo
+		religion = animist
+		size = 11
+	}
+
+	officers = {
+		culture = ibo
+		religion = animist
+		size = 23
+	}
+	clergymen = {
+		culture = ibo
+		religion = animist
+		size = 23
+	}
+	artisans = {
+		culture = ibo
+		religion = animist
+		size = 138
+	}
+	soldiers = {
+		culture = ibo
+		religion = animist
+		size = 57
+	}
+	tribals = {
+		culture = ibo
+		religion = animist
+		size = 804
+	}
+	slaves = {
+		culture = kru
+		religion = animist
+		size = 724
+	}
+}
+#uncolonized in 1836
+#Bata (132000/33000 POPS)
+1973 = {
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 402
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 345
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 1724
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 402
+	}
+	tribals = {
+		culture = fang
+		religion = animist
+		size = 36225
+	}
+
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 114
+	}
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 114
+	}
+	tribals = {
+		culture = forest_bantu
+		religion = animist
+		size = 1150
+	}
+
+	slaves = {
+		culture = ibo
+		religion = animist
+		size = 575
+	}
+}
