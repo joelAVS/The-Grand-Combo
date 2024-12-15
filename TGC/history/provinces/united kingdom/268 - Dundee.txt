@@ -1,5 +1,3 @@
-owner = ENG
-controller = ENG
 add_core = ENG
 add_core = SCO
 trade_goods = fish
@@ -15,4 +13,8 @@ party_loyalty = {
 party_loyalty = {
 	ideology = conservative
 	loyalty_value = 5
+}
+1815.8.1 = {
+    owner = ENG
+    controller = ENG
 }

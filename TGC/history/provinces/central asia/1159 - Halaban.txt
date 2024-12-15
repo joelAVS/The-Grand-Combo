@@ -1,7 +1,10 @@
-owner = NEJ
-controller = NEJ
 add_core = NEJ
 trade_goods = wool
 life_rating = 10
+
+1815.8.1 = {
+    owner = NEJ
+    controller = NEJ
+}
 1836.1.1 = { owner = HDJ controller = HDJ add_core = HAL }
 1861.7.1 = { owner = HDJ controller = HDJ add_core = HAL } 

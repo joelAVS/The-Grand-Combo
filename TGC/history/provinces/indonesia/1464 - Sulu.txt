@@ -1,7 +1,9 @@
-owner = SUL
-controller = SUL
 add_core = PHL
 add_core = SUL
 trade_goods = fish
 life_rating = 35
 #terrain = jungle_farmland
+1815.8.1 = {
+    owner = SUL
+    controller = SUL
+}

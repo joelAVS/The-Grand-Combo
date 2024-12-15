@@ -1,6 +1,8 @@
-owner = SUA
-controller = SUA
 add_core = SUA
 trade_goods = grain
 life_rating = 35
 #terrain = savanna
+1815.8.1 = {
+    owner = SUA
+    controller = SUA
+}

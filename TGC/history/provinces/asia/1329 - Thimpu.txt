@@ -1,7 +1,9 @@
-owner = BHU
-controller = BHU
 add_core = BHU
 trade_goods = tropical_wood
 life_rating = 25
 terrain = urban_thimpu
 #terrain = small_island
+1815.8.1 = {
+    owner = BHU
+    controller = BHU
+}

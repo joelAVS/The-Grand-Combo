@@ -1,5 +1,3 @@
-owner = KAL
-controller = KAL
 add_core = KAL
 add_core = BLC
 add_core = HND
@@ -7,3 +5,7 @@ trade_goods = wool
 life_rating = 32
 terrain = urban_kalat
 #terrain = montane_forest
+1815.8.1 = {
+    owner = KAL
+    controller = KAL
+}

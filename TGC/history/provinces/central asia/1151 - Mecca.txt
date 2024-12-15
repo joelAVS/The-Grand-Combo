@@ -1,9 +1,12 @@
-owner = NEJ
-controller = NEJ
 add_core = NEJ 
 add_core = HDJ
 trade_goods = grain
 life_rating = 35
 terrain = urban_mecca
+
+1815.8.1 = {
+    owner = NEJ
+    controller = NEJ
+}
 1836.1.1 = { owner = HDJ controller = HDJ }
 1861.7.1 = { owner = HDJ controller = HDJ } 

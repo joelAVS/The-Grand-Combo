@@ -1,5 +1,3 @@
-owner = PRU
-controller = PRU
 add_core = PRU
 add_core = RHI
 add_core = GER
@@ -27,4 +25,8 @@ state_building = {
 	level = 2
 	building = cement_factory
 	upgrade = yes
+}
+1815.8.1 = {
+    owner = PRU
+    controller = PRU
 }

@@ -1,6 +1,8 @@
-owner = BAL
-controller = BAL
 add_core = BAL
 trade_goods = fish
 life_rating = 35
 #terrain = jungle_mountains
+1815.8.1 = {
+    owner = BAL
+    controller = BAL
+}

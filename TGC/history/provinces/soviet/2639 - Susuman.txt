@@ -1,7 +1,9 @@
-owner = AZH
-controller = AZH
 add_core = AZH
 add_core = HAL
 trade_goods = wool
 life_rating = 10
 #terrain = desert
+1815.8.1 = {
+    owner = AZH
+    controller = AZH
+}

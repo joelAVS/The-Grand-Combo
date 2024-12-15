@@ -1,5 +1,3 @@
-owner = GON
-controller = GON
 add_core = GON
 add_core = TIG
 add_core = ETH
@@ -7,3 +5,7 @@ trade_goods = cattle
 life_rating = 35
 terrain = urban_gonder
 #terrain = desert
+1815.8.1 = {
+    owner = GON
+    controller = GON
+}

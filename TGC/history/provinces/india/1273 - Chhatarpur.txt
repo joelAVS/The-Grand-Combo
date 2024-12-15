@@ -1,5 +1,3 @@
-owner = CHH
-controller = CHH
 add_core = CHH
 add_core = BUN
 add_core = HND
@@ -7,3 +5,7 @@ add_core = MUG
 trade_goods = dye
 life_rating = 32
 #terrain = steppe
+1815.8.1 = {
+    owner = CHH
+    controller = CHH
+}

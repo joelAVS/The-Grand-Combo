@@ -1,5 +1,3 @@
-owner = FRA
-controller = FRA
 add_core = FRA
 add_core = WLL
 trade_goods = iron
@@ -13,4 +11,8 @@ state_building = {
 	level = 1
 	building = cement_factory
 	upgrade = yes
+}
+1815.8.1 = {
+    owner = FRA
+    controller = FRA
 }

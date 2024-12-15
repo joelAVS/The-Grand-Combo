@@ -1,5 +1,3 @@
-owner = KHR
-controller = KHR
 add_core = PER
 add_core = KHR
 add_core = TKM
@@ -7,3 +5,8 @@ trade_goods = coal
 life_rating = 35
 terrain = urban_nishapur
 #terrain = montane_forest
+
+1815.8.1 = {
+    owner = KHR
+    controller = KHR
+}

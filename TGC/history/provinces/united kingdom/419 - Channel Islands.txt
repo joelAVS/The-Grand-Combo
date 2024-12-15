@@ -1,6 +1,8 @@
-owner = ENG
-controller = ENG
 add_core = ENG
 trade_goods = fish
 life_rating = 35
 #terrain = small_island
+1815.8.1 = {
+    owner = ENG
+    controller = ENG
+}

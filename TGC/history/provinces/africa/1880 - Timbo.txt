@@ -1,6 +1,8 @@
-owner = JAL
-controller = JAL
 add_core = JAL
 trade_goods = fruit
 life_rating = 35
 #terrain = 
+1815.8.1 = {
+    owner = JAL
+    controller = JAL
+}

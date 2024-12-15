@@ -1,7 +1,9 @@
-owner = FRA
-controller = FRA
 add_core = ALD
 trade_goods = grain
 life_rating = 35
 #terrain = semidesert
 colonial = 2
+1815.8.1 = {
+    owner = FRA
+    controller = FRA
+}

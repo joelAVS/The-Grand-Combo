@@ -1,7 +1,9 @@
-owner = MEW
-controller = MEW
 add_core = MEW
 add_core = HND
 trade_goods = opium
 life_rating = 32
 #terrain = semidesert
+1815.8.1 = {
+    owner = MEW
+    controller = MEW
+}

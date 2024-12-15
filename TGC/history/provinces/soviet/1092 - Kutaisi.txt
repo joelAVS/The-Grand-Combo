@@ -1,7 +1,9 @@
-owner = MIG
-controller = MIG
 add_core = MIG
 add_core = GEO
 trade_goods = fruit
 life_rating = 35
 #terrain =
+1815.8.1 = {
+    owner = MIG
+    controller = MIG
+}

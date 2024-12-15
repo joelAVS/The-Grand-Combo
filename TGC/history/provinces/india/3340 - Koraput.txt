@@ -1,8 +1,10 @@
-owner = JEY
-controller = JEY
 add_core = HND
 add_core = JEY
 add_core = ORI
 trade_goods = tropical_wood
 life_rating = 32
 #terrain = floodplain_farmland
+1815.8.1 = {
+    owner = JEY
+    controller = JEY
+}

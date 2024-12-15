@@ -1,8 +1,10 @@
-owner = SAX
-controller = SAX
 add_core = SAX
 add_core = GER
 trade_goods = coal
 life_rating = 40
 terrain = urban_dresden
 #terrain = farmland
+1815.8.1 = {
+    owner = SAX
+    controller = SAX
+}

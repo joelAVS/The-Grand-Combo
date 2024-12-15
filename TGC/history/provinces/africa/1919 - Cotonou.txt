@@ -1,6 +1,8 @@
-owner = DAH
-controller = DAH
 add_core = DAH
 trade_goods = fish
 life_rating = 35
 #terrain = semidesert
+1815.8.1 = {
+    owner = DAH
+    controller = DAH
+}

@@ -1,6 +1,8 @@
-owner = LOA
-controller = LOA
 add_core = LOA
 trade_goods = iron
 life_rating = 30
 #terrain = small_island
+1815.8.1 = {
+    owner = LOA
+    controller = LOA
+}

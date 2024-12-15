@@ -1,7 +1,9 @@
-owner = MOD
-controller = MOD
 add_core = MOD
 add_core = ITA
 trade_goods = fruit
 life_rating = 35
 #terrain = small_island
+1815.8.1 = {
+    owner = MOD
+    controller = MOD
+}

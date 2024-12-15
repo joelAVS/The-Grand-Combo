@@ -1,5 +1,3 @@
-owner = EIC
-controller = EIC
 add_core = BER
 add_core = HND
 trade_goods = tobacco
@@ -9,3 +7,7 @@ terrain = urban_ahmedabad
 colonial = 2
 
 naval_base = 2
+1815.8.1 = {
+    owner = EIC
+    controller = EIC
+}

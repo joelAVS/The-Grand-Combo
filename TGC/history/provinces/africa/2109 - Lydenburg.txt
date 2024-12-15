@@ -1,5 +1,3 @@
-owner = MAT
-controller = MAT
 add_core = MAT
 add_core = BSH
 #add_core = GAZ
@@ -8,3 +6,7 @@ trade_goods = coal
 #life_rating = 15  # look at country_event id = 95519 The Mfecane
 life_rating = 35
 #terrain = savanna
+1815.8.1 = {
+    owner = MAT
+    controller = MAT
+}

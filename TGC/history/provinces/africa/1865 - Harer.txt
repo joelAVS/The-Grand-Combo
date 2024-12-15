@@ -1,8 +1,10 @@
-owner = AWS
-controller = AWS
 add_core = AWS
 add_core = WRL
 add_core = ETH
 trade_goods = coffee
 life_rating = 35
 #terrain = desert
+1815.8.1 = {
+    owner = AWS
+    controller = AWS
+}

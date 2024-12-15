@@ -1,5 +1,3 @@
-owner = DAI
-controller = DAI
 add_core = DAI
 trade_goods = cattle
 life_rating = 40
@@ -7,3 +5,7 @@ terrain = urban_saigon
 #terrain = jungle_hills
 
 naval_base = 1
+1815.8.1 = {
+    owner = DAI
+    controller = DAI
+}

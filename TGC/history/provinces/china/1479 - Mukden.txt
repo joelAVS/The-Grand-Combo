@@ -1,8 +1,10 @@
-owner = MCK
-controller = MCK
 add_core = CHI
 add_core = MCK
 trade_goods = grain
 life_rating = 32
 terrain = urban_mukden
 #terrain = floodplain_farmland
+1815.8.1 = {
+    owner = MCK
+    controller = MCK
+}

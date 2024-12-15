@@ -1,5 +1,3 @@
-owner = SPA
-controller = SPA
 add_core = PRI
 trade_goods = coffee
 life_rating = 35
@@ -7,3 +5,7 @@ terrain = urban_san_juan
 #terrain = small_island
 colonial = 2
 is_slave = yes
+1815.8.1 = {
+    owner = SPA
+    controller = SPA
+}

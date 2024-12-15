@@ -1,7 +1,9 @@
-owner = ENG
-controller = ENG
 add_core = QUE
 trade_goods = iron
 life_rating = 30
 terrain = boreal
 colonial = 2
+1815.8.1 = {
+    owner = ENG
+    controller = ENG
+}

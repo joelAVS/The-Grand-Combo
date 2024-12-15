@@ -1,6 +1,9 @@
-owner = WAN
-controller = WAN
 add_core = WAN
 trade_goods = fish
 life_rating = 10
 #terrain = montane_forest
+
+1815.8.1 = {
+    owner = WAN
+    controller = WAN
+}

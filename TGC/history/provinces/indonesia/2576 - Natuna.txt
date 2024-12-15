@@ -1,6 +1,8 @@
-owner = RIA
-controller = RIA
 add_core = RIA
 trade_goods = fish
 life_rating = 31
 #terrain = small_island
+1815.8.1 = {
+    owner = RIA
+    controller = RIA
+}

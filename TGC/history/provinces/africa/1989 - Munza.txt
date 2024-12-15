@@ -1,5 +1,7 @@
-owner = LBA
-controller = LBA
 add_core = LBA
 trade_goods = tropical_wood
 life_rating = 10 
+1815.8.1 = {
+    owner = LBA
+    controller = LBA
+}

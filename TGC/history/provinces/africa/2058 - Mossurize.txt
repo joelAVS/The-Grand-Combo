@@ -1,7 +1,9 @@
-owner = GAZ
-controller = GAZ
 add_core = GAZ
 add_core = SHO
 trade_goods = grain
 life_rating = 35
 #terrain = savanna
+1815.8.1 = {
+    owner = GAZ
+    controller = GAZ
+}

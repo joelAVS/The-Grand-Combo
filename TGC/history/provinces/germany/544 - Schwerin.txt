@@ -1,5 +1,3 @@
-owner = MEC
-controller = MEC
 add_core = MEC
 add_core = GER
 trade_goods = grain
@@ -7,3 +5,7 @@ life_rating = 40
 #terrain = farmland
 
 university = 1
+1815.8.1 = {
+    owner = MEC
+    controller = MEC
+}

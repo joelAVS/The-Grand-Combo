@@ -1,8 +1,10 @@
-owner = HYD
-controller = HYD
 add_core = HYD
 add_core = HND
 trade_goods = grain
 life_rating = 32
 terrain = urban_hyderabad
 #terrain = dryhills
+1815.8.1 = {
+    owner = HYD
+    controller = HYD
+}

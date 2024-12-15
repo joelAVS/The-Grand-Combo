@@ -1,8 +1,10 @@
-owner = RUS
-controller = RUS
 add_core = RUS
 add_core = DON
 trade_goods = coal
 life_rating = 40
 terrain = urban_novocherkassk
 #terrain =
+1815.8.1 = {
+    owner = RUS
+    controller = RUS
+}

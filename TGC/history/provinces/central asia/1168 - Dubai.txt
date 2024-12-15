@@ -1,6 +1,9 @@
-owner = NEJ
-controller = NEJ 
 add_core = ABU
+
+1815.8.1 = {
+    owner = NEJ
+    controller = NEJ
+}
 1836.1.1 = { owner = ABU controller = ABU }
 1861.7.1 = { owner = ABU controller = ABU }
 trade_goods = fruit

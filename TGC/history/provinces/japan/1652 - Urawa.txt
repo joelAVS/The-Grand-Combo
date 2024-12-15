@@ -1,6 +1,8 @@
-owner = TKG
-controller = TKG
 add_core = TKG
 trade_goods = silk
 life_rating = 35
 #terrain =
+1815.8.1 = {
+    owner = TKG
+    controller = TKG
+}

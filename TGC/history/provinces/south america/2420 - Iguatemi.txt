@@ -1,9 +1,12 @@
-owner = PRG
-controller = PRG 
 add_core = PRG
 trade_goods = fruit
 life_rating = 25
 # terrain = savanna
 colonial = 2
+
+1815.8.1 = {
+    owner = PRG
+    controller = PRG
+}
 1836.1.1 = { owner = PRG controller = PRG }
 1861.7.1 = { owner = PRG controller = PRG } 

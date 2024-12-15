@@ -1,5 +1,3 @@
-owner = ABK
-controller = ABK
 add_core = ABK
 add_core = CIR
 add_core = GEO
@@ -7,3 +5,7 @@ trade_goods = wool
 life_rating = 35
 terrain = urban_sochi
 #terrain = boreal
+1815.8.1 = {
+    owner = ABK
+    controller = ABK
+}

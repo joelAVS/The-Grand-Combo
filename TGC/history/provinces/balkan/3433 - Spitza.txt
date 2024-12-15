@@ -1,5 +1,3 @@
-owner = TUR
-controller = TUR
 add_core = TUR
 #add_core = CRO
 #add_core = DLM
@@ -7,3 +5,7 @@ add_core = MON
 trade_goods = fish
 life_rating = 35
 #terrain = hills
+1815.8.1 = {
+    owner = TUR
+    controller = TUR
+}

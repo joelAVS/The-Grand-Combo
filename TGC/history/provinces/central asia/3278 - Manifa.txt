@@ -1,7 +1,10 @@
-owner = NEJ
-controller = NEJ 
 add_core = KWT
 add_core = NEJ
+
+1815.8.1 = {
+    owner = NEJ
+    controller = NEJ
+}
 1836.1.1 = { owner = KWT controller = KWT }
 1861.7.1 = { owner = KWT controller = KWT }
 trade_goods = fish

@@ -1,7 +1,10 @@
-owner = EGY
-controller = EGY
 add_core = EGY
 trade_goods = fish
 life_rating = 40
 terrain = urban_alexandria
 naval_base = 1
+
+1815.8.1 = {
+    owner = EGY
+    controller = EGY
+}

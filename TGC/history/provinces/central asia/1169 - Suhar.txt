@@ -1,6 +1,8 @@
-owner = OMA
-controller = OMA
 add_core = OMA
 trade_goods = grain
 life_rating = 20
 #terrain = semi_desert_mountains
+1815.8.1 = {
+    owner = OMA
+    controller = OMA
+}

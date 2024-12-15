@@ -1,8 +1,10 @@
-owner = HEK
-controller = HEK
 add_core = HEK
 add_core = GER
 trade_goods = coal
 life_rating = 40
 terrain = urban_kassel
 #terrain = farmland
+1815.8.1 = {
+    owner = HEK
+    controller = HEK
+}

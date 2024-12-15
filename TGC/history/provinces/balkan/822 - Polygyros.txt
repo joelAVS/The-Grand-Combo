@@ -1,5 +1,3 @@
-owner = TUR
-controller = TUR
 add_core = TUR
 add_core = GRE
 add_core = MCD
@@ -7,3 +5,7 @@ trade_goods = tobacco
 life_rating = 35
 terrain = urban_salonika
 #terrain = old_world_grassland_hills_medium
+1815.8.1 = {
+    owner = TUR
+    controller = TUR
+}

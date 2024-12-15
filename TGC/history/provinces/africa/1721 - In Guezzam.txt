@@ -1,7 +1,9 @@
-owner = RGA
-controller = RGA
 add_core = RGA
 add_core = ALD
 trade_goods = grain
 life_rating = 5
 #terrain = desert
+1815.8.1 = {
+    owner = RGA
+    controller = RGA
+}

@@ -1,6 +1,8 @@
-owner = NET
-controller = NET
 add_core = NET
 trade_goods = coal
 life_rating = 35
 #terrain = 
+1815.8.1 = {
+    owner = NET
+    controller = NET
+}

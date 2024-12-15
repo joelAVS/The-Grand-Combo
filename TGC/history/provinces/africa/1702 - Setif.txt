@@ -1,9 +1,12 @@
-owner = RGA
-controller = RGA 
 add_core = ALD
 trade_goods = iron
 life_rating = 20
 
+
+1815.8.1 = {
+    owner = RGA
+    controller = RGA
+}
 1836.1.1 = {
     owner = ALD
     controller = ALD

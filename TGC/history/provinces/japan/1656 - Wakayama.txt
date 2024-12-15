@@ -1,7 +1,9 @@
-owner = JAP
-controller = JAP
 add_core = JAP
 add_core = TKG
 trade_goods = fish
 life_rating = 35
 #terrain = small_island
+1815.8.1 = {
+    owner = JAP
+    controller = JAP
+}

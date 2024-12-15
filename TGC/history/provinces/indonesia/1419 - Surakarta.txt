@@ -1,8 +1,10 @@
-owner = JAV
-controller = JAV
 add_core = JAV
 trade_goods = fruit
 life_rating = 35
 #terrain = jungle_hills
 
 bank = 1
+1815.8.1 = {
+    owner = JAV
+    controller = JAV
+}

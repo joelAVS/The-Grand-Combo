@@ -1,7 +1,9 @@
-owner = CHK
-controller = CHK
 add_core = SIA
 add_core = CHK
 trade_goods = grain
 life_rating = 33
 #terrain = jungle_hills
+1815.8.1 = {
+    owner = CHK
+    controller = CHK
+}

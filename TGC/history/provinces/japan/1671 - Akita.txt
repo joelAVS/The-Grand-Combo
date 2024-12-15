@@ -1,7 +1,9 @@
-owner = YZW
-controller = YZW
 add_core = YZW
 add_core = TKG
 trade_goods = grain
 life_rating = 35
 #terrain = small_island
+1815.8.1 = {
+    owner = YZW
+    controller = YZW
+}

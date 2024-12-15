@@ -1,5 +1,3 @@
-owner = LIV
-controller = LIV
 add_core = LIV
 add_core = LAT
 add_core = RUS
@@ -9,3 +7,7 @@ terrain = urban_riga
 #terrain =
 
 naval_base = 2
+1815.8.1 = {
+    owner = LIV
+    controller = LIV
+}

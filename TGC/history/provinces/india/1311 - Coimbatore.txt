@@ -1,5 +1,3 @@
-owner = EIC
-controller = EIC
 add_core = HND
 add_core = HYD
 add_core = KRN
@@ -7,3 +5,7 @@ add_core = MYS
 trade_goods = cattle
 life_rating = 32
 #terrain = floodplain_farmland
+1815.8.1 = {
+    owner = EIC
+    controller = EIC
+}

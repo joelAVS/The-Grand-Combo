@@ -1,5 +1,3 @@
-owner = HAM
-controller = HAM
 add_core = HAM
 add_core = GER
 trade_goods = fruit
@@ -9,3 +7,7 @@ terrain = urban_hamburg
 
 fort = 1
 bank = 1
+1815.8.1 = {
+    owner = HAM
+    controller = HAM
+}

@@ -1,7 +1,10 @@
-owner = ENG
-controller = ENG
 add_core = ZUL
 trade_goods = fruit
 life_rating = 20
 #terrain = semidesert
 colonial = 2
+
+1815.8.1 = {
+    owner = ENG
+    controller = ENG
+}

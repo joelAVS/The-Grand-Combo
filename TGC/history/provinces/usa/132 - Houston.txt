@@ -1,5 +1,3 @@
-owner = VNS
-controller = VNS 
 add_core = TEX
 add_core = MEX
 trade_goods = cattle
@@ -7,6 +5,11 @@ life_rating = 35
 # terrain = marsh
 is_slave = yes
 
+
+1815.8.1 = {
+    owner = VNS
+    controller = VNS
+}
 1836.1.1 = {
     owner = TEX
     controller = TEX

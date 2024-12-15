@@ -1,6 +1,9 @@
-owner = NEJ
-controller = NEJ
 add_core = NEJ
+
+1815.8.1 = {
+    owner = NEJ
+    controller = NEJ
+}
 1836.1.1 = {
     owner = HAL
     controller = HAL

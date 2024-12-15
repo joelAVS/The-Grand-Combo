@@ -1,5 +1,3 @@
-owner = OLD
-controller = OLD
 add_core = OLD
 add_core = GER
 trade_goods = fish
@@ -8,3 +6,7 @@ terrain = urban_wilhelmshaven
 #terrain = farmland
 
 naval_base = 1
+1815.8.1 = {
+    owner = OLD
+    controller = OLD
+}

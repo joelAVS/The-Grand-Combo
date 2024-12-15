@@ -1,10 +1,13 @@
-owner = POR
-controller = POR 
 add_core = BRZ
 trade_goods = coffee
 life_rating = 40
 terrain = urban_sao_paulo
 
+
+1815.8.1 = {
+    owner = POR
+    controller = POR
+}
 1836.1.1 = {
     owner = BRZ
     controller = BRZ

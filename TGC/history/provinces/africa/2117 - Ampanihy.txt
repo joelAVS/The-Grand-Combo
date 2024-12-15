@@ -1,6 +1,8 @@
-owner = MAD
-controller = MAD
 add_core = MAD
 trade_goods = grain
 life_rating = 10
 #terrain = semidesert
+1815.8.1 = {
+    owner = MAD
+    controller = MAD
+}

@@ -1,6 +1,8 @@
-owner = SEG
-controller = SEG
 add_core = SEG
 trade_goods = wool
 life_rating = 15
 #terrain = small_island
+1815.8.1 = {
+    owner = SEG
+    controller = SEG
+}

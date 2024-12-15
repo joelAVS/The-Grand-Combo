@@ -1,8 +1,10 @@
-owner = AWA
-controller = AWA
 add_core = AWA
 add_core = HND
 add_core = MUG
 trade_goods = opium
 life_rating = 32
 #terrain = floodplain_farmland
+1815.8.1 = {
+    owner = AWA
+    controller = AWA
+}

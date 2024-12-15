@@ -1,5 +1,3 @@
-owner = MIZ
-controller = MIZ
 add_core = MIZ
 add_core = ASM
 add_core = BNG
@@ -7,3 +5,7 @@ add_core = HND
 trade_goods = grain
 life_rating = 35
 #terrain = jungle_mountains
+1815.8.1 = {
+    owner = MIZ
+    controller = MIZ
+}

@@ -1,5 +1,3 @@
-owner = REW
-controller = REW
 add_core = REW
 add_core = BUN
 add_core = HND
@@ -7,3 +5,7 @@ add_core = MUG
 trade_goods = cattle
 life_rating = 32
 #terrain =
+1815.8.1 = {
+    owner = REW
+    controller = REW
+}

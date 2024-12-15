@@ -1,7 +1,9 @@
-owner = NEJ
-controller = NEJ
 add_core = NEJ
 trade_goods = wool
 life_rating = 35
 terrain = urban_riyadh
 #terrain = semidesert
+1815.8.1 = {
+    owner = NEJ
+    controller = NEJ
+}

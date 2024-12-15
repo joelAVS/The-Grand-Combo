@@ -1,7 +1,9 @@
-owner = BRU
-controller = BRU
 add_core = BRU
 add_core = SUL
 trade_goods = grain
 life_rating = 32
 #terrain = jungle_mountains
+1815.8.1 = {
+    owner = BRU
+    controller = BRU
+}

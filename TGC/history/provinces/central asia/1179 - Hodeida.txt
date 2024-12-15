@@ -1,6 +1,8 @@
-owner = NYE
-controller = NYE
 add_core = NYE
 trade_goods = grain
 life_rating = 35
 #terrain = semi_desert_mountains
+1815.8.1 = {
+    owner = NYE
+    controller = NYE
+}

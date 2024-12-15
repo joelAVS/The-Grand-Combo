@@ -1,6 +1,8 @@
-owner = BUR
-controller = BUR
 add_core = BUR
 trade_goods = fish
 life_rating = 35
 #terrain = floodplain_farmland
+1815.8.1 = {
+    owner = BUR
+    controller = BUR
+}

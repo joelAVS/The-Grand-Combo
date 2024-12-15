@@ -1,11 +1,14 @@
-owner = USA
-controller = USA
 add_core = USA
 trade_goods = grain
 life_rating = 30
 #terrain = steppe
 colonial = 2
 
+
+1815.8.1 = {
+    owner = USA
+    controller = USA
+}
 1836.1.1 = {     
     owner = RPL     
     controller = RPL

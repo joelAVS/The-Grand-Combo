@@ -1,5 +1,3 @@
-owner = VNS
-controller = VNS 
 add_core = TEX
 add_core = MEX
 trade_goods = cattle
@@ -8,6 +6,11 @@ life_rating = 35
 is_slave = yes
 fort = 1 # Remember the Alamo!
 
+
+1815.8.1 = {
+    owner = VNS
+    controller = VNS
+}
 1836.1.1 = {
     owner = TEX
     controller = TEX

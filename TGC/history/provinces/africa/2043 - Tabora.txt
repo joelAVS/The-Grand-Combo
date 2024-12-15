@@ -1,6 +1,9 @@
-owner = BHY
-controller = BHY
 add_core = BHY
 trade_goods = tobacco
 #terrain = savanna
 life_rating = 10
+
+1815.8.1 = {
+    owner = BHY
+    controller = BHY
+}

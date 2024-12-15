@@ -1,6 +1,8 @@
-owner = KBO
-controller = KBO
 add_core = KBO
 trade_goods = cattle
 life_rating = 5
 #terrain = semidesert
+1815.8.1 = {
+    owner = KBO
+    controller = KBO
+}

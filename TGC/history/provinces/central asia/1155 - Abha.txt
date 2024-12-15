@@ -1,7 +1,10 @@
-owner = NEJ
-controller = NEJ 
 add_core = NYE
 add_core = HDJ
+
+1815.8.1 = {
+    owner = NEJ
+    controller = NEJ
+}
 1836.1.1 = {
 owner = NYE
 controller = NYE

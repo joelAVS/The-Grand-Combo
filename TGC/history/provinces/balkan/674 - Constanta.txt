@@ -1,5 +1,3 @@
-owner = TUR
-controller = TUR
 add_core = TUR
 add_core = WAL
 add_core = ROM
@@ -7,3 +5,7 @@ trade_goods = grain
 life_rating = 35
 terrain = urban_constanta
 #terrain = farmlands
+1815.8.1 = {
+    owner = TUR
+    controller = TUR
+}

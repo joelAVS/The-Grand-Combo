@@ -1,10 +1,13 @@
-owner = SER
-controller = SER 
 add_core = SER
 trade_goods = grain
 life_rating = 35
 terrain = urban_belgrade
 # terrain = farmlands
 university = 1
+
+1815.8.1 = {
+    owner = SER
+    controller = SER
+}
 1836.1.1 = { owner = SER controller = SER }
 1861.7.1 = { owner = SER controller = SER } 

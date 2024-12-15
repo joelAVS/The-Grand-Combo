@@ -1,8 +1,11 @@
-owner = TKM
-controller = TKM
 add_core = PER
 add_core = KHR
 add_core = TKM
 trade_goods = fruit
 life_rating = 15
 terrain = desert
+
+1815.8.1 = {
+    owner = TKM
+    controller = TKM
+}

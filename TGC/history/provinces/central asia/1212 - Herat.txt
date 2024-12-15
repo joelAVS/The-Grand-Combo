@@ -1,5 +1,3 @@
-owner = HRT
-controller = HRT
 add_core = AFG
 add_core = HRT
 add_core = KHR
@@ -7,3 +5,7 @@ trade_goods = opium
 life_rating = 35
 terrain = urban_herat
 #terrain = dryhills
+1815.8.1 = {
+    owner = HRT
+    controller = HRT
+}

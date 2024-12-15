@@ -1,9 +1,12 @@
-owner = VOP
-controller = VOP 
 add_core = CHL
 trade_goods = iron
 life_rating = 35
 
+
+1815.8.1 = {
+    owner = VOP
+    controller = VOP
+}
 1836.1.1 = {
     owner = CHL
     controller = CHL

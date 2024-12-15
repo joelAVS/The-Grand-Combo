@@ -1,7 +1,9 @@
-owner = SAT
-controller = SAT
 add_core = SAT
 add_core = TKG
 trade_goods = tobacco
 life_rating = 35
 #terrain = small_island
+1815.8.1 = {
+    owner = SAT
+    controller = SAT
+}

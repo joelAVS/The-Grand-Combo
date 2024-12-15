@@ -1,5 +1,3 @@
-owner = PZN
-controller = PZN
 add_core = PRU
 add_core = GER
 add_core = PZN
@@ -7,3 +5,8 @@ add_core = POL
 trade_goods = fruit
 life_rating = 40
 #terrain = farmland
+
+1815.8.1 = {
+    owner = PZN
+    controller = PZN
+}

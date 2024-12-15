@@ -1,7 +1,9 @@
-owner = HAW
-controller = HAW
 add_core = HAW
 trade_goods = fish
 life_rating = 35
 terrain = urban_hawaii
 #terrain = small_island
+1815.8.1 = {
+    owner = HAW
+    controller = HAW
+}

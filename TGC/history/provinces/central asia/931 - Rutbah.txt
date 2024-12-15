@@ -1,7 +1,10 @@
-owner = NEJ
-controller = NEJ
 add_core = NEJ
 add_core = IRQ
+
+1815.8.1 = {
+    owner = NEJ
+    controller = NEJ
+}
 1836.1.1 = {
     owner = AZH
     controller = AZH

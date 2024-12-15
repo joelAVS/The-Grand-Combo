@@ -1,5 +1,3 @@
-owner = FRA
-controller = FRA
 add_core = FRA
 trade_goods = coal
 life_rating = 41
@@ -27,4 +25,8 @@ state_building = {
 	level = 4
 	building = luxury_clothes_factory
 	upgrade = yes
+}
+1815.8.1 = {
+    owner = FRA
+    controller = FRA
 }

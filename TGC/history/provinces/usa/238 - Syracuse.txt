@@ -1,5 +1,3 @@
-owner = USA
-controller = USA
 add_core = USA
 trade_goods = fruit
 life_rating = 35
@@ -12,4 +10,8 @@ party_loyalty = {
 party_loyalty = {
 	ideology = liberal
 	loyalty_value = 12
+}
+1815.8.1 = {
+    owner = USA
+    controller = USA
 }

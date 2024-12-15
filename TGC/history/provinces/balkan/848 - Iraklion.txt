@@ -1,5 +1,3 @@
-owner = TUR
-controller = TUR 
 add_core = TUR
 add_core = CRE
 add_core = GRE
@@ -7,6 +5,11 @@ trade_goods = fruit
 life_rating = 35
 terrain = urban_iraklion
 
+
+1815.8.1 = {
+    owner = TUR
+    controller = TUR
+}
 1836.1.1 = {
     owner = EGY
     controller = EGY

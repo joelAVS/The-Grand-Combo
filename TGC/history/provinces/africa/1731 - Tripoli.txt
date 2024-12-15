@@ -1,5 +1,3 @@
-owner = TRI
-controller = TRI 
 add_core = TRI
 trade_goods = fruit
 life_rating = 35
@@ -7,6 +5,11 @@ terrain = urban_tripoli
 # terrain = small_island
 naval_base = 1
 
+
+1815.8.1 = {
+    owner = TRI
+    controller = TRI
+}
 1836.1.1 = {
     controller = TRI
 }

@@ -1,6 +1,8 @@
-owner = KTI
-controller = KTI
 add_core = KTI
 trade_goods = sulphur
 life_rating = 38
 #terrain = jungle_hills
+1815.8.1 = {
+    owner = KTI
+    controller = KTI
+}

@@ -1,5 +1,3 @@
-owner = USA
-controller = USA
 add_core = USA
 trade_goods = coal
 life_rating = 35
@@ -19,4 +17,8 @@ state_building = {
 	level = 1
 	building = cement_factory
 	upgrade = yes
+}
+1815.8.1 = {
+    owner = USA
+    controller = USA
 }

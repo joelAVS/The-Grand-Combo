@@ -1,5 +1,3 @@
-owner = SIC
-controller = SIC
 add_core = SIC
 add_core = ITA
 add_core = SYC
@@ -7,3 +5,7 @@ trade_goods = sulphur
 life_rating = 35
 terrain = urban_palermo
 #terrain = small_island
+1815.8.1 = {
+    owner = SIC
+    controller = SIC
+}

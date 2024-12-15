@@ -1,5 +1,3 @@
-owner = RGA
-controller = RGA 
 add_core = RGA
 add_core = ALD
 trade_goods = grain
@@ -7,6 +5,11 @@ life_rating = 35
 # terrain = semidesert
 colonial = 2
 
+
+1815.8.1 = {
+    owner = RGA
+    controller = RGA
+}
 1836.1.1 = {
     owner = FRA
     controller = FRA

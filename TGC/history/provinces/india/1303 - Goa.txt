@@ -1,5 +1,3 @@
-owner = POR
-controller = POR
 add_core = MAH
 add_core = HND
 trade_goods = fish
@@ -7,3 +5,7 @@ life_rating = 32
 terrain = urban_goa
 #terrain = dryhills
 colonial = 2
+1815.8.1 = {
+    owner = POR
+    controller = POR
+}

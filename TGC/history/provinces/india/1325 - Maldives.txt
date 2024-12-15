@@ -1,7 +1,9 @@
-owner = MLD
-controller = MLD
 add_core = MLD
 trade_goods = fish
 life_rating = 32
 terrain = small_island
 colonial = 2
+1815.8.1 = {
+    owner = MLD
+    controller = MLD
+}

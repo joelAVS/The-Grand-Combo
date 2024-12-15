@@ -1,5 +1,3 @@
-owner = FRA
-controller = FRA
 add_core = FRA
 add_core = FLA
 trade_goods = fish
@@ -8,3 +6,7 @@ terrain = urban_dunkirk
 #terrain = farmlands
 
 fort = 2
+1815.8.1 = {
+    owner = FRA
+    controller = FRA
+}

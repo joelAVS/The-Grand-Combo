@@ -1,5 +1,3 @@
-owner = ENG
-controller = ENG
 add_core = ENG
 trade_goods = iron
 life_rating = 35
@@ -24,4 +22,8 @@ state_building = {
 	level = 6
 	building = canned_food_factory
 	upgrade = yes
+}
+1815.8.1 = {
+    owner = ENG
+    controller = ENG
 }

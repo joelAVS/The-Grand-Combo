@@ -1,5 +1,3 @@
-owner = JAI
-controller = JAI
 add_core = JAI
 add_core = HND
 add_core = MUG
@@ -7,3 +5,7 @@ trade_goods = cattle
 life_rating = 32
 terrain = urban_jaipur
 #terrain = semidesert
+1815.8.1 = {
+    owner = JAI
+    controller = JAI
+}

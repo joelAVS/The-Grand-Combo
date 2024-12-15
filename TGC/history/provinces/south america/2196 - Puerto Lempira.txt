@@ -1,8 +1,10 @@
-owner = ENG
-controller = ENG
 add_core = HON
 add_core = JAM
 trade_goods = fish
 life_rating = 31
 terrain = caribbean_island
 colonial = 2
+1815.8.1 = {
+    owner = ENG
+    controller = ENG
+}

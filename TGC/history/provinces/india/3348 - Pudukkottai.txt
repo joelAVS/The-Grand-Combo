@@ -1,7 +1,9 @@
-owner = MYS
-controller = MYS
 add_core = MYS
 add_core = HND
 trade_goods = wool
 life_rating = 32
 #terrain = montane_forest
+1815.8.1 = {
+    owner = MYS
+    controller = MYS
+}

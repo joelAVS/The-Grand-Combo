@@ -1,5 +1,3 @@
-owner = AUS
-controller = AUS
 add_core = AUS
 add_core = CRO
 add_core = FIU
@@ -7,3 +5,7 @@ add_core = HUN
 trade_goods = fruit
 life_rating = 35
 #terrain =
+1815.8.1 = {
+    owner = AUS
+    controller = AUS
+}

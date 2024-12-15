@@ -1,7 +1,9 @@
-owner = RUS
-controller = RUS
 add_core = LSK
 trade_goods = fish
 life_rating = 30
 terrain = polar_island
 colonial = 2
+1815.8.1 = {
+    owner = RUS
+    controller = RUS
+}

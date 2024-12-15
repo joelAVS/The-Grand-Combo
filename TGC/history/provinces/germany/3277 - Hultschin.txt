@@ -1,5 +1,3 @@
-owner = PRU
-controller = PRU
 add_core = PRU
 add_core = GER
 add_core = CZH
@@ -7,3 +5,7 @@ add_core = SLS
 trade_goods = coal
 life_rating = 35
 #terrain = farmlands
+1815.8.1 = {
+    owner = PRU
+    controller = PRU
+}

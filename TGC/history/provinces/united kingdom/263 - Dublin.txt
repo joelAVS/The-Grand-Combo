@@ -1,5 +1,3 @@
-owner = ENG
-controller = ENG
 add_core = ENG
 add_core = IRE
 trade_goods = grain
@@ -14,4 +12,8 @@ university = 1
 party_loyalty = {
 	ideology = liberal
 	loyalty_value = 20
+}
+1815.8.1 = {
+    owner = ENG
+    controller = ENG
 }

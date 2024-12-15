@@ -1,8 +1,10 @@
-owner = DEN
-controller = DEN
 add_core = DEN
 add_core = ICL
 trade_goods = fish
 life_rating = 32
 #terrain = forest
 colonial = 2
+1815.8.1 = {
+    owner = DEN
+    controller = DEN
+}

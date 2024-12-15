@@ -1,7 +1,10 @@
-owner = SER
-controller = SER 
 add_core = SER
 trade_goods = coal
 life_rating = 35
+
+1815.8.1 = {
+    owner = SER
+    controller = SER
+}
 1836.1.1 = { owner = SER controller = SER }
 1861.7.1 = { owner = SER controller = SER } 

@@ -1,5 +1,3 @@
-owner = BHT
-controller = BHT
 add_core = TUR
 add_core = HTY
 add_core = IRQ
@@ -9,3 +7,8 @@ add_core = BHT
 trade_goods = wool
 life_rating = 35
 #terrain = montane_forest
+
+1815.8.1 = {
+    owner = BHT
+    controller = BHT
+}

@@ -1,8 +1,10 @@
-owner = GON
-controller = GON
 add_core = GON
 add_core = SHK
 add_core = ETH
 trade_goods = grain
 life_rating = 35
 #terrain = desert
+1815.8.1 = {
+    owner = GON
+    controller = GON
+}

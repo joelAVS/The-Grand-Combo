@@ -1,7 +1,9 @@
-owner = SPA
-controller = SPA
 add_core = PHL
 trade_goods = grain
 life_rating = 35
 #terrain = jungle_hills
 colonial = 2
+1815.8.1 = {
+    owner = SPA
+    controller = SPA
+}

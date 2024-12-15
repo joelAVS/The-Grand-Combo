@@ -1,7 +1,10 @@
-owner = PNJ
-controller = PNJ
 add_core = PNJ
 add_core = HND
 trade_goods = opium
 life_rating = 35
 #terrain = floodplain_farmland
+
+1815.8.1 = {
+    owner = PNJ
+    controller = PNJ
+}

@@ -1,7 +1,9 @@
-owner = RUS
-controller = RUS
 add_core = KAM
 add_core = RUS
 trade_goods = fish
 life_rating = 10
 #terrain = boreal
+1815.8.1 = {
+    owner = RUS
+    controller = RUS
+}

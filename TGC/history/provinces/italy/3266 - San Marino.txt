@@ -1,7 +1,9 @@
-owner = SMR
-controller = SMR
 add_core = SMR
 trade_goods = wool
 life_rating = 35
 terrain = urban_san_marino
 #terrain = small_island
+1815.8.1 = {
+    owner = SMR
+    controller = SMR
+}

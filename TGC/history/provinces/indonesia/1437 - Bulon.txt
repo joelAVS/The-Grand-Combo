@@ -1,6 +1,8 @@
-owner = BTN
-controller = BTN
 add_core = BTN
 trade_goods = sulphur
 life_rating = 30
 #terrain = jungle_hills
+1815.8.1 = {
+    owner = BTN
+    controller = BTN
+}

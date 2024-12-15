@@ -1,8 +1,10 @@
-owner = OMA
-controller = OMA
 add_core = ZAN
 add_core = OMA
 trade_goods = cattle
 life_rating = 10
 #terrain = montane_forest
 colonial = 1
+1815.8.1 = {
+    owner = OMA
+    controller = OMA
+}

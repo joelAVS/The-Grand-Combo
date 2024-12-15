@@ -1,6 +1,8 @@
-owner = TIB
-controller = TIB
 add_core = TIB
 trade_goods = cattle
 life_rating = 30
 #terrain = montane_forest
+1815.8.1 = {
+    owner = TIB
+    controller = TIB
+}

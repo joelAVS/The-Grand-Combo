@@ -1,5 +1,3 @@
-owner = PAP
-controller = PAP
 add_core = PAP
 add_core = RMG
 add_core = ITA
@@ -8,3 +6,7 @@ life_rating = 35
 #terrain = small_island
 
 university = 3
+1815.8.1 = {
+    owner = PAP
+    controller = PAP
+}

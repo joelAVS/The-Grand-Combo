@@ -1,8 +1,10 @@
-owner = SAR
-controller = SAR
 add_core = SAR
 add_core = ITA
 trade_goods = coal
 life_rating = 30
 terrain = urban_annecy
 #terrain = farmlands
+1815.8.1 = {
+    owner = SAR
+    controller = SAR
+}

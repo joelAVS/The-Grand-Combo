@@ -1,5 +1,3 @@
-owner = AUS
-controller = AUS
 add_core = AUS
 add_core = BOH
 add_core = CZH
@@ -24,4 +22,8 @@ state_building = {
 	level = 1
 	building = cement_factory
 	upgrade = yes
+}
+1815.8.1 = {
+    owner = AUS
+    controller = AUS
 }

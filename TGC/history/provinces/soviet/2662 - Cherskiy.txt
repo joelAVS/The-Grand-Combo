@@ -1,11 +1,14 @@
-owner = VNS
-controller = VNS 
 add_core = MEX
 trade_goods = grain
 life_rating = 30
 terrain = desert
 colonial = 2
 
+
+1815.8.1 = {
+    owner = VNS
+    controller = VNS
+}
 1836.1.1 = {
     owner = MEX
     controller = MEX

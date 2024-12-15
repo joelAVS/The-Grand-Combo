@@ -1,7 +1,9 @@
-owner = TOS
-controller = TOS
 add_core = TOS
 add_core = TKG
 trade_goods = timber
 life_rating = 35
 #terrain = small_island
+1815.8.1 = {
+    owner = TOS
+    controller = TOS
+}

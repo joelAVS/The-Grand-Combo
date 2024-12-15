@@ -1,5 +1,3 @@
-owner = VNS
-controller = VNS
 add_core = VNS
 add_core = VNS
 add_core = ULA
@@ -17,6 +15,11 @@ party_loyalty = {
 	loyalty_value = 12
 }
 
+
+1815.8.1 = {
+    owner = VNS
+    controller = VNS
+}
 1836.01.01 = {
 	owner = USA
 	controller = USA

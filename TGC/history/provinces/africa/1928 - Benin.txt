@@ -1,6 +1,8 @@
-owner = BEN
-controller = BEN
 add_core = BEN
 trade_goods = cattle
 life_rating = 10
 #terrain = semidesert
+1815.8.1 = {
+    owner = BEN
+    controller = BEN
+}

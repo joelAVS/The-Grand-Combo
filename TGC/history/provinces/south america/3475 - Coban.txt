@@ -1,5 +1,3 @@
-owner = VNS
-controller = VNS 
 add_core = UCA
 add_core = GUA
 trade_goods = tropical_wood
@@ -7,6 +5,11 @@ life_rating = 25
 # terrain = jungle
 colonial = 2
 
+
+1815.8.1 = {
+    owner = VNS
+    controller = VNS
+}
 1836.1.1 = {
     owner = UCA
     controller = UCA

@@ -1,8 +1,10 @@
-owner = HAR
-controller = HAR
 add_core = HAR
 add_core = TIG
 add_core = ETH
 trade_goods = cattle
 life_rating = 35
 #terrain = desert
+1815.8.1 = {
+    owner = HAR
+    controller = HAR
+}

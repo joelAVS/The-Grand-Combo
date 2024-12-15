@@ -1,5 +1,7 @@
-owner = KZB
-controller = KZB
 add_core = KZB
 trade_goods = grain
 life_rating = 10
+1815.8.1 = {
+    owner = KZB
+    controller = KZB
+}

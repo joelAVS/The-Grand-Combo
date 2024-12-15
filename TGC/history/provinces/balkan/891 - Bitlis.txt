@@ -1,5 +1,3 @@
-owner = BTL
-controller = BTL
 add_core = TUR
 add_core = ARM
 add_core = BTL
@@ -7,3 +5,8 @@ add_core = KDS
 trade_goods = grain
 life_rating = 35
 #terrain =
+
+1815.8.1 = {
+    owner = BTL
+    controller = BTL
+}

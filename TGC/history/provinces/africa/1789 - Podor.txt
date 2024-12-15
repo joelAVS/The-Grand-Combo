@@ -1,6 +1,8 @@
-owner = TOO
-controller = TOO
 add_core = TOO
 trade_goods = fruit
 life_rating = 31
 #terrain = semidesert
+1815.8.1 = {
+    owner = TOO
+    controller = TOO
+}

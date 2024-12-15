@@ -1,8 +1,10 @@
-owner = QNG
-controller = QNG
 add_core = CHI
 trade_goods = tea
 life_rating = 32
 #terrain = floodplain_farmland
 
 university = 1
+1815.8.1 = {
+    owner = QNG
+    controller = QNG
+}

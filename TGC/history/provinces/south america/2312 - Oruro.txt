@@ -1,7 +1,10 @@
-owner = VOP
-controller = VOP 
 add_core = BOL
 trade_goods = iron
 life_rating = 10
+
+1815.8.1 = {
+    owner = VOP
+    controller = VOP
+}
 1836.1.1 = { owner = BOL controller = BOL }
 1861.7.1 = { owner = BOL controller = BOL } 

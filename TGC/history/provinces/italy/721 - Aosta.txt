@@ -1,7 +1,9 @@
-owner = SAR
-controller = SAR
 add_core = SAR
 add_core = ITA
 trade_goods = iron
 life_rating = 35
 #terrain = small_island
+1815.8.1 = {
+    owner = SAR
+    controller = SAR
+}

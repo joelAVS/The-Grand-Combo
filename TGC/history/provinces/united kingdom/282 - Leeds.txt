@@ -1,5 +1,3 @@
-owner = ENG
-controller = ENG
 add_core = ENG
 trade_goods = coal
 life_rating = 35
@@ -9,4 +7,8 @@ terrain = urban_leeds
 party_loyalty = {
 	ideology = liberal
 	loyalty_value = 20
+}
+1815.8.1 = {
+    owner = ENG
+    controller = ENG
 }

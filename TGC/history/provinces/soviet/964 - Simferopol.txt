@@ -1,5 +1,3 @@
-owner = RUS
-controller = RUS
 add_core = RUS
 add_core = CRI
 add_core = UKR
@@ -8,3 +6,7 @@ life_rating = 35
 terrain = urban_simferopol
 #terrain =
 colonial = 2
+1815.8.1 = {
+    owner = RUS
+    controller = RUS
+}

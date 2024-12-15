@@ -1,7 +1,9 @@
-owner = AWS
-controller = AWS
 add_core = AWS
 add_core = WRL
 trade_goods = fish
 life_rating = 10
 #terrain = semidesert
+1815.8.1 = {
+    owner = AWS
+    controller = AWS
+}

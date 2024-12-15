@@ -1,7 +1,9 @@
-owner = SEN
-controller = SEN
 add_core = SEN
 add_core = TKG
 trade_goods = fish
 life_rating = 35
 #terrain = small_island
+1815.8.1 = {
+    owner = SEN
+    controller = SEN
+}

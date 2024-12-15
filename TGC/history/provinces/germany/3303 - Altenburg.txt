@@ -1,7 +1,9 @@
-owner = ATB
-controller = ATB
 add_core = ATB
 add_core = GER
 trade_goods = timber
 life_rating = 40
 #terrain = farmlands
+1815.8.1 = {
+    owner = ATB
+    controller = ATB
+}

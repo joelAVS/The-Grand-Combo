@@ -1,5 +1,7 @@
-owner = KON
-controller = KON
 add_core = KON
 trade_goods = fruit
 life_rating = 10 
+1815.8.1 = {
+    owner = KON
+    controller = KON
+}

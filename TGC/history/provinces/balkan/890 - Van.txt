@@ -1,5 +1,3 @@
-owner = BDN
-controller = BDN
 add_core = TUR
 add_core = PER
 add_core = BDN
@@ -8,3 +6,8 @@ add_core = KDS
 trade_goods = iron
 life_rating = 35
 #terrain =
+
+1815.8.1 = {
+    owner = BDN
+    controller = BDN
+}

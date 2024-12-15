@@ -1,6 +1,8 @@
-owner = EGY
-controller = EGY
 add_core = EGY
 trade_goods = fish
 life_rating = 10
 #terrain = desert
+1815.8.1 = {
+    owner = EGY
+    controller = EGY
+}

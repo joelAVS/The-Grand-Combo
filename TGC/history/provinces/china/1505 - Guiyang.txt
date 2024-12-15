@@ -1,7 +1,9 @@
-owner = GIZ
-controller = GIZ
 add_core = CHI
 add_core = GIZ
 trade_goods = tea
 life_rating = 32
 #terrain = montane_forest
+1815.8.1 = {
+    owner = GIZ
+    controller = GIZ
+}

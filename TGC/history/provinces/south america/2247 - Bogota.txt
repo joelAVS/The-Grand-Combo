@@ -1,5 +1,3 @@
-owner = VNG
-controller = VNG 
 add_core = CLM
 trade_goods = cattle
 life_rating = 35
@@ -7,6 +5,11 @@ terrain = urban_bogota
 # terrain = jungle
 university = 2
 
+
+1815.8.1 = {
+    owner = VNG
+    controller = VNG
+}
 1836.1.1 = {
     owner = CLM
     controller = CLM

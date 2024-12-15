@@ -1,8 +1,10 @@
-owner = SPA
-controller = SPA
 add_core = SPA
 trade_goods = fish
 life_rating = 35
 #terrain =
 
 naval_base = 1
+1815.8.1 = {
+    owner = SPA
+    controller = SPA
+}

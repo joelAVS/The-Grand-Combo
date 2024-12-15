@@ -1,5 +1,3 @@
-owner = TUR
-controller = TUR
 add_core = TUR
 add_core = HTY
 add_core = SYR
@@ -9,3 +7,7 @@ trade_goods = grain
 life_rating = 20
 #terrain = semidesert
 colonial = 2
+1815.8.1 = {
+    owner = TUR
+    controller = TUR
+}

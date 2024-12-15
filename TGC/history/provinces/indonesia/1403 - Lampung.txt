@@ -1,6 +1,8 @@
-owner = DJA
-controller = DJA
 add_core = DJA
 trade_goods = tropical_wood
 life_rating = 35
 #terrain = jungle_mountains
+1815.8.1 = {
+    owner = DJA
+    controller = DJA
+}

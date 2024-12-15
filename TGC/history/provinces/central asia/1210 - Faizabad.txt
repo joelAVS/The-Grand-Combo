@@ -1,8 +1,10 @@
-owner = BDK
-controller = BDK
 add_core = BDK
 add_core = KUN
 add_core = AFG
 trade_goods = opium
 life_rating = 35
 #terrain = himalayan_mountains
+1815.8.1 = {
+    owner = BDK
+    controller = BDK
+}

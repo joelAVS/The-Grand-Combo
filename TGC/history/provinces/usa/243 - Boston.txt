@@ -1,5 +1,3 @@
-owner = USA
-controller = USA
 add_core = USA
 add_core = NEN
 trade_goods = grain
@@ -35,4 +33,8 @@ state_building = {
 	level = 2
 	building = artillery_factory
 	upgrade = yes
+}
+1815.8.1 = {
+    owner = USA
+    controller = USA
 }

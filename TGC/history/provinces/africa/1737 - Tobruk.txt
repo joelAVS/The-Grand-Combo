@@ -1,11 +1,14 @@
-owner = TRI
-controller = TRI 
 add_core = CYR
 trade_goods = wool
 life_rating = 32
 # terrain = semidesert
 colonial = 2
 
+
+1815.8.1 = {
+    owner = TRI
+    controller = TRI
+}
 1836.1.1 = {
     owner = TUR
     controller = TUR

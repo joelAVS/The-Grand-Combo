@@ -1,9 +1,12 @@
-owner = POR
-controller = POR 
 add_core = BRZ
 add_core = RGS
 trade_goods = cattle
 life_rating = 35
 terrain = urban_porto_alegre
+
+1815.8.1 = {
+    owner = POR
+    controller = POR
+}
 1836.1.1 = { owner = RGS controller = RGS }
 1861.7.1 = { owner = RGS controller = RGS } 

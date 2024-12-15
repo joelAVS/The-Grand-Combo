@@ -1,8 +1,10 @@
-owner = FRA
-controller = FRA
 add_core = GDL
 trade_goods = fruit
 life_rating = 35
 terrain = caribbean_island
 colonial = 2
 is_slave = yes
+1815.8.1 = {
+    owner = FRA
+    controller = FRA
+}
