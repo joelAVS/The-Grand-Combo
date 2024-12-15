@@ -1,5 +1,3 @@
-add_core = VNS
-add_core = VNS
 add_core = ULA
 trade_goods = sulphur
 life_rating = 35
@@ -17,6 +15,7 @@ party_loyalty = {
 1815.8.1 = {
     owner = VNS
     controller = VNS
+	add_core = VNS
 }
 1836.01.01 = {
 	owner = USA
@@ -24,7 +23,7 @@ party_loyalty = {
 	add_core = USA
 }
 1861.7.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
+    owner = CSA
+    controller = CSA
+    add_core = CSA
 }

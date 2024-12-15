@@ -9,25 +9,29 @@ def update_slave_entries(file_path):
     if not any("is_slave = yes" in line for line in lines):
         return  # Skip this file if "is_slave = yes" is not found
 
-    # Regex to match the 1861.7.1 entry for USA
-    pattern = re.compile(r"^(1861\.7\.1 = \{\s*)owner = USA\s*controller = USA\s*add_core = USA\s*\}", re.DOTALL)
+    # Regex to match the 1861.7.1 entry with varying properties
+    pattern = re.compile(
+        r"(1861\.7\.1\s*=\s*\{\s*(?:owner\s*=\s*USA\s*)?(?:controller\s*=\s*USA\s*)?(?:add_core\s*=\s*USA\s*)?\s*\})",
+        re.DOTALL
+    )
 
     # Join lines for easier regex matching
     content = "".join(lines)
 
-    # Replace 1861.7.1 entry for USA with CSA
-    new_entry = (
+    # Replace the 1861.7.1 entry for USA with CSA
+    replacement = (
         "1861.7.1 = {\n"
         "    owner = CSA\n"
         "    controller = CSA\n"
         "    add_core = CSA\n"
         "}"
     )
-    updated_content = pattern.sub(new_entry, content)
+    updated_content = pattern.sub(replacement, content)
 
-    # Write the updated content back to the file
-    with open(file_path, 'w', encoding='utf-8') as file:
-        file.write(updated_content)
+    # Write the updated content back to the file if changes were made
+    if content != updated_content:
+        with open(file_path, 'w', encoding='utf-8') as file:
+            file.write(updated_content)
 
 
 def process_folder(folder_path):
@@ -38,5 +42,5 @@ def process_folder(folder_path):
 
 
 # Specify the folder path containing the files
-folder_path = "provinces"
+folder_path = "provinces"  # Replace with your folder path
 process_folder(folder_path)
