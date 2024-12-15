@@ -2,7 +2,6 @@ add_core = CLM
 trade_goods = fish
 life_rating = 33
 
-
 1815.8.1 = {
     owner = VNG
     controller = VNG

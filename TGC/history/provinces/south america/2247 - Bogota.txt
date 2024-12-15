@@ -5,7 +5,6 @@ terrain = urban_bogota
 # terrain = jungle
 university = 2
 
-
 1815.8.1 = {
     owner = VNG
     controller = VNG

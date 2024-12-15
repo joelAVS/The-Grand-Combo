@@ -3,7 +3,6 @@ add_core = MAR
 trade_goods = fruit
 life_rating = 35
 
-
 1815.8.1 = {
     owner = POR
     controller = POR

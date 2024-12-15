@@ -6,7 +6,6 @@ is_slave = yes
 
 naval_base = 1
 #coreless_province
-
 1815.8.1 = {
     owner = DEN
     controller = DEN

@@ -4,7 +4,6 @@ trade_goods = wool
 life_rating = 35
 terrain = urban_adana
 
-
 1815.8.1 = {
     owner = TUR
     controller = TUR

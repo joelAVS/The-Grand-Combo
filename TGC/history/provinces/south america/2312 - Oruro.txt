@@ -1,7 +1,6 @@
 add_core = BOL
 trade_goods = iron
 life_rating = 10
-
 1815.8.1 = {
     owner = VOP
     controller = VOP

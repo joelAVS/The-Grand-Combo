@@ -5,7 +5,6 @@ add_core = LOS
 trade_goods = cotton
 life_rating = 30
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

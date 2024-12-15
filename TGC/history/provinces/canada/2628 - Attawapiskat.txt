@@ -6,7 +6,6 @@ life_rating = 31
 # terrain = jungle_mountains
 colonial = 0
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

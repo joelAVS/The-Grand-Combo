@@ -5,7 +5,6 @@ life_rating = 20
 # terrain = semidesert
 university = 1
 
-
 1815.8.1 = {
     owner = VOP
     controller = VOP

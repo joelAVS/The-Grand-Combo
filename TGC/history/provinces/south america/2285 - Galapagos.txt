@@ -3,7 +3,6 @@ trade_goods = fish
 life_rating = 30
 terrain = small_island
 
-
 1815.8.1 = {
     owner = VNG
     controller = VNG

@@ -4,7 +4,6 @@ trade_goods = tea
 life_rating = 31
 colonial = 2
 
-
 1815.8.1 = {
     owner = PRG
     controller = PRG

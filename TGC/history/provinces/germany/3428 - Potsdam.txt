@@ -6,7 +6,6 @@ life_rating = 42
 
 fort = 1
 railroad = 1
-
 1815.8.1 = {
     owner = PRU
     controller = PRU

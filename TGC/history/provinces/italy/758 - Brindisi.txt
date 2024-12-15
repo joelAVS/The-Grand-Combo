@@ -5,7 +5,6 @@ life_rating = 40
 # terrain = small_island
 naval_base = 1
 
-
 1815.8.1 = {
     owner = NPL
     controller = NPL

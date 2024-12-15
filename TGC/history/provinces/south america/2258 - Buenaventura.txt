@@ -3,7 +3,6 @@ add_core = ECU
 trade_goods = fish
 life_rating = 32
 
-
 1815.8.1 = {
     owner = VNG
     controller = VNG

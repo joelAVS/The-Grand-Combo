@@ -4,7 +4,6 @@ life_rating = 32
 # terrain = montane_forest
 university = 1
 
-
 1815.8.1 = {
     owner = VNG
     controller = VNG

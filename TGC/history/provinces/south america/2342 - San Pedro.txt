@@ -1,7 +1,6 @@
 add_core = PRG
 trade_goods = wool
 life_rating = 31
-
 1815.8.1 = {
     owner = PRG
     controller = PRG

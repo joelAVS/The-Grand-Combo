@@ -13,7 +13,6 @@ party_loyalty = {
 	loyalty_value = 20
 }
 
-
 1815.8.1 = {
     owner = USA
     controller = USA

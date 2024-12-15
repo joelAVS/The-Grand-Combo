@@ -23,7 +23,6 @@ state_building = {
 	building = clipper_shipyard
 	upgrade = yes
 }
-
 1815.8.1 = {
     owner = USA
     controller = USA

@@ -3,7 +3,6 @@ trade_goods = fruit
 life_rating = 31
 #terrain = jungle_mountains
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

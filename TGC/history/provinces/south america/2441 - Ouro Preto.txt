@@ -4,7 +4,6 @@ trade_goods = coffee
 life_rating = 35
 terrain = urban_ouro_preto
 
-
 1815.8.1 = {
     owner = POR
     controller = POR

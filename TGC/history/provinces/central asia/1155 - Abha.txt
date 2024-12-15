@@ -1,6 +1,5 @@
 add_core = NYE
 add_core = HDJ
-
 1815.8.1 = {
     owner = NEJ
     controller = NEJ

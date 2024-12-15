@@ -13,7 +13,6 @@ state_building = { level = 2 building = small_arms_factory upgrade = yes }
 state_building = { level = 6 building = liquor_distillery upgrade = yes } 
 state_building = { level = 2 building = glass_factory upgrade = yes } 
 
-
 1815.8.1 = {
     owner = NET
     controller = NET

@@ -6,7 +6,6 @@ terrain = urban_luxembourg
 # terrain =
 fort = 2
 
-
 1815.8.1 = {
     owner = NET
     controller = NET

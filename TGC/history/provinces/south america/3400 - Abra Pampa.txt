@@ -3,7 +3,6 @@ add_core = BOL
 trade_goods = wool
 life_rating = 31
 
-
 1815.8.1 = {
     owner = VLP
     controller = VLP

@@ -6,7 +6,6 @@ trade_goods = grain
 life_rating = 40
 terrain = urban_poznan
 #terrain = farmland
-
 1815.8.1 = {
     owner = PZN
     controller = PZN

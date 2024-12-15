@@ -4,7 +4,6 @@ add_core = IRQ
 trade_goods = grain
 life_rating = 35
 #terrain = montane_forest
-
 1815.8.1 = {
     owner = KHZ
     controller = KHZ

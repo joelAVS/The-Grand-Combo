@@ -2,7 +2,6 @@ add_core = COS
 trade_goods = fruit
 life_rating = 31 # ?
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

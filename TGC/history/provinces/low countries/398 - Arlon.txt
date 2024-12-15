@@ -5,7 +5,6 @@ add_core = WLL
 trade_goods = timber
 life_rating = 35
 
-
 1815.8.1 = {
     owner = NET
     controller = NET

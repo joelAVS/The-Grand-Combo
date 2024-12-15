@@ -6,7 +6,6 @@ terrain = urban_mexico_city
 fort = 1
 university = 2
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

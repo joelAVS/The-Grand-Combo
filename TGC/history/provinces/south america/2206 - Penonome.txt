@@ -4,7 +4,6 @@ add_core = COS
 trade_goods = fish
 life_rating = 30
 
-
 1815.8.1 = {
     owner = VNG
     controller = VNG

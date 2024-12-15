@@ -3,7 +3,6 @@ add_core = DOM
 trade_goods = fruit
 life_rating = 35
 
-
 1815.8.1 = {
     owner = SPA
     controller = SPA

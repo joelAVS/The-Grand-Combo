@@ -5,7 +5,6 @@ terrain = urban_guadalajara
 # terrain = jungle_hills
 university = 1
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

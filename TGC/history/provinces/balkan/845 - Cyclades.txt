@@ -2,7 +2,6 @@ add_core = GRE
 trade_goods = fish
 life_rating = 30
 
-
 1815.8.1 = {
     owner = TUR
     controller = TUR

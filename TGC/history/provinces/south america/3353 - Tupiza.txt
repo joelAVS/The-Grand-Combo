@@ -2,7 +2,6 @@ add_core = BOL
 trade_goods = grain
 life_rating = 15
 
-
 1815.8.1 = {
     owner = VLP
     controller = VLP

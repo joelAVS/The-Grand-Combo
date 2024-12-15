@@ -2,7 +2,6 @@ add_core = SAR
 add_core = ITA
 trade_goods = cattle
 life_rating = 35
-
 1815.8.1 = {
     owner = SAR
     controller = SAR

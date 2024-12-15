@@ -4,7 +4,6 @@ life_rating = 35
 # terrain = farmlands
 university = 1
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

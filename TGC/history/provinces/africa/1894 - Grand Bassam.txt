@@ -4,7 +4,6 @@ life_rating = 35
 terrain = jungle
 colonial = 2
 #coreless_province
-
 1815.8.1 = {
     owner = FRA
     controller = FRA

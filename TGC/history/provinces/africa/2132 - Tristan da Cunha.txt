@@ -3,7 +3,6 @@ life_rating = 20
 terrain = dry_island
 colonial = 2
 #coreless_province
-
 1815.8.1 = {
     owner = ENG
     controller = ENG

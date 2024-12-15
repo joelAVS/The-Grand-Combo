@@ -1,7 +1,6 @@
 add_core = NEJ
 trade_goods = wool
 life_rating = 10
-
 1815.8.1 = {
     owner = NEJ
     controller = NEJ

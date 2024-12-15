@@ -3,7 +3,6 @@ add_core = SUD
 trade_goods = grain
 life_rating = 34
 
-
 1815.8.1 = {
     owner = SUD
     controller = SUD

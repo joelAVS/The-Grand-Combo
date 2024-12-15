@@ -13,17 +13,15 @@ party_loyalty = {
 	loyalty_value = 12
 }
 
-
 1815.8.1 = {
     owner = USA
     controller = USA
 }
-1861.7.1 = {
-    owner = CSA
-    controller = CSA
-    add_core = CSA
-}
 1836.1.1 = {
+    owner = USA
+    controller = USA
+}
+1861.7.1 = {
     owner = CSA
     controller = CSA
     add_core = CSA

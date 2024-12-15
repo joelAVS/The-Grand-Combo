@@ -3,7 +3,6 @@ trade_goods = wool
 life_rating = 35
 terrain = urban_valencia_vnz
 
-
 1815.8.1 = {
     owner = VNG
     controller = VNG

@@ -4,7 +4,6 @@ add_core = JOR
 trade_goods = wool
 life_rating = 20
 terrain = urban_aqaba
-
 1815.8.1 = {
     owner = NEJ
     controller = NEJ

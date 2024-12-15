@@ -4,7 +4,6 @@ add_core = MKN
 trade_goods = tobacco
 life_rating = 35
 #terrain = montane_forest
-
 1815.8.1 = {
     owner = MKN
     controller = MKN

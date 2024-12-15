@@ -2,7 +2,6 @@ add_core = TOR
 trade_goods = cotton
 life_rating = 10
 #terrain = savanna
-
 1815.8.1 = {
     owner = TOR
     controller = TOR

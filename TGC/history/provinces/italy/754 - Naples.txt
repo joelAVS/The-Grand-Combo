@@ -7,7 +7,6 @@ terrain = urban_naples
 naval_base = 1
 university = 1
 
-
 1815.8.1 = {
     owner = NPL
     controller = NPL

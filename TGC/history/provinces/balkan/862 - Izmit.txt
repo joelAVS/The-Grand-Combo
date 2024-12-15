@@ -3,7 +3,6 @@ add_core = ANT
 trade_goods = fruit
 life_rating = 40
 #terrain = old_world_farmlands_medium
-
 1815.8.1 = {
     owner = TUR
     controller = TUR

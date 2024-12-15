@@ -3,7 +3,6 @@ add_core = SPU
 trade_goods = cattle
 life_rating = 15
 
-
 1815.8.1 = {
     owner = VOP
     controller = VOP

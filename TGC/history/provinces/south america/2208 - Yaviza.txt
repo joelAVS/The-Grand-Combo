@@ -3,7 +3,6 @@ add_core = PNM
 trade_goods = fruit
 life_rating = 31
 
-
 1815.8.1 = {
     owner = VNG
     controller = VNG

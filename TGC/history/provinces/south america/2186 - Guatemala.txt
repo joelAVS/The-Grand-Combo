@@ -6,7 +6,6 @@ terrain = urban_guatemala_city
 # terrain =
 colonial = 0
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

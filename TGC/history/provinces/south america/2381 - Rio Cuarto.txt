@@ -2,7 +2,6 @@ add_core = ARC
 trade_goods = cattle
 life_rating = 35
 
-
 1815.8.1 = {
     owner = VLP
     controller = VLP

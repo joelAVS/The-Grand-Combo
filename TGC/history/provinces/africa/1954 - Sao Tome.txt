@@ -3,7 +3,6 @@ life_rating = 35
 terrain = mangrove_island
 colonial = 2
 #coreless_province
-
 1815.8.1 = {
     owner = POR
     controller = POR

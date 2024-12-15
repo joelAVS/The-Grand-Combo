@@ -3,7 +3,6 @@ add_core = SAK
 trade_goods = tobacco
 life_rating = 32
 #terrain = jungle_mountains
-
 1815.8.1 = {
     owner = ATJ
     controller = NET

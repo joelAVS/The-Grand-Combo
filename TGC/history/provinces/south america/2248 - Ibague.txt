@@ -1,7 +1,6 @@
 add_core = CLM
 trade_goods = wool
 life_rating = 32
-
 1815.8.1 = {
     owner = GCO
     controller = GCO

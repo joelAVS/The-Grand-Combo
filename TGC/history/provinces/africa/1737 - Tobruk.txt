@@ -4,7 +4,6 @@ life_rating = 32
 # terrain = semidesert
 colonial = 2
 
-
 1815.8.1 = {
     owner = TRI
     controller = TRI

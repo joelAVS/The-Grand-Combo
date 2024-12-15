@@ -3,7 +3,6 @@ trade_goods = wool
 life_rating = 31
 # terrain = savanna
 colonial = 2
-
 1815.8.1 = {
     owner = VOP
     controller = VOP

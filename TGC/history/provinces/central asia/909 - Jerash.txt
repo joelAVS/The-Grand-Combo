@@ -5,7 +5,6 @@ trade_goods = grain
 life_rating = 31
 terrain = urban_amman
 
-
 1815.8.1 = {
     owner = TUR
     controller = TUR

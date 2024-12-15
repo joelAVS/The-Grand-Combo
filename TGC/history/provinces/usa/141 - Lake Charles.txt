@@ -14,8 +14,6 @@ party_loyalty = {
 	ideology = liberal
 	loyalty_value = 12
 }
-
-
 1815.8.1 = {
     owner = VNS
     controller = VNS
@@ -25,11 +23,7 @@ party_loyalty = {
 	controller = USA
 	add_core = USA
 }
-1836.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-}1861.7.1 = {
+1861.7.1 = {
 	owner = USA
 	controller = USA
 	add_core = USA

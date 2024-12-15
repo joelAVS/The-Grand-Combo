@@ -3,7 +3,6 @@ add_core = ANT
 trade_goods = fish
 life_rating = 35
 #terrain = old_world_grassland_hills_medium
-
 1815.8.1 = {
     owner = TUR
     controller = TUR

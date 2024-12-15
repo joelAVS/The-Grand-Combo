@@ -6,7 +6,6 @@ terrain = urban_fort_william
 colonial = 2
 
 fort = 1
-
 1815.8.1 = {
     owner = ENG
     controller = ENG

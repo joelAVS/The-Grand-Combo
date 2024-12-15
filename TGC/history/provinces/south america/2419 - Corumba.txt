@@ -4,7 +4,6 @@ life_rating = 25
 # terrain = savanna
 colonial = 2
 
-
 1815.8.1 = {
     owner = POR
     controller = POR

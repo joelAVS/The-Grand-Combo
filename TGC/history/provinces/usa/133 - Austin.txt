@@ -6,7 +6,6 @@ terrain = urban_austin
 # terrain =
 is_slave = yes
 
-
 1815.8.1 = {
     owner = VNS
     controller = VNS

@@ -1,6 +1,5 @@
 add_core = NEJ
 add_core = SYR
-
 1815.8.1 = {
     owner = NEJ
     controller = NEJ

@@ -1,6 +1,5 @@
 add_core = BHR
 add_core = QAT
-
 1815.8.1 = {
     owner = NEJ
     controller = NEJ

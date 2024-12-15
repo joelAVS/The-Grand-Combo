@@ -3,7 +3,6 @@ trade_goods = fish
 life_rating = 35
 #terrain = jungle_mountains
 colonial = 2
-
 1815.8.1 = {
     owner = NET
     controller = NET
