@@ -15,6 +15,6 @@ terrain = urban_poznan
     controller = PZN
 }
 1861.7.1 = {
-    owner = PZN
-    controller = PZN
+    owner = PRU
+    controller = PRU
 }
