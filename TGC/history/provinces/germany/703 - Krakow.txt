@@ -10,3 +10,11 @@ university = 1
     owner = KRA
     controller = KRA
 }
+1836.1.1 = {
+    owner = KRA
+    controller = KRA
+}
+1861.7.1 = {
+    owner = KRA
+    controller = KRA
+}

@@ -8,3 +8,11 @@ life_rating = 35
     owner = GON
     controller = GON
 }
+1836.1.1 = {
+    owner = GON
+    controller = GON
+}
+1861.7.1 = {
+    owner = GON
+    controller = GON
+}

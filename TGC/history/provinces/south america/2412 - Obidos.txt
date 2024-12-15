@@ -15,6 +15,6 @@ colonial = 2
     controller = GPR
 }
 1861.7.1 = {
-    owner = GPR
-    controller = GPR
+    owner = BRZ
+    controller = BRZ
 }

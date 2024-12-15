@@ -6,3 +6,11 @@ terrain = swamp_forest
     owner = RUS
     controller = RUS
 }
+1836.1.1 = {
+    owner = RUS
+    controller = RUS
+}
+1861.7.1 = {
+    owner = RUS
+    controller = RUS
+}

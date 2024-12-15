@@ -8,3 +8,11 @@ terrain = urban_lahore
     owner = PNJ
     controller = PNJ
 }
+1836.1.1 = {
+    owner = PNJ
+    controller = PNJ
+}
+1861.7.1 = {
+    owner = PNJ
+    controller = PNJ
+}

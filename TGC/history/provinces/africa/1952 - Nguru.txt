@@ -6,3 +6,11 @@ life_rating = 35
     owner = DAM
     controller = DAM
 }
+1836.1.1 = {
+    owner = DAM
+    controller = DAM
+}
+1861.7.1 = {
+    owner = DAM
+    controller = DAM
+}

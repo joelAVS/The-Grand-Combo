@@ -9,3 +9,11 @@ life_rating = 35
     owner = MKN
     controller = MKN
 }
+1836.1.1 = {
+    owner = MKN
+    controller = MKN
+}
+1861.7.1 = {
+    owner = MKN
+    controller = MKN
+}

@@ -9,3 +9,11 @@ terrain = urban_gonder
     owner = GON
     controller = GON
 }
+1836.1.1 = {
+    owner = GON
+    controller = GON
+}
+1861.7.1 = {
+    owner = GON
+    controller = GON
+}

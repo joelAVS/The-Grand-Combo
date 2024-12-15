@@ -8,3 +8,11 @@ colonial = 2
     owner = MTC
     controller = MTC
 }
+1836.1.1 = {
+    owner = MTC
+    controller = MTC
+}
+1861.7.1 = {
+    owner = MTC
+    controller = MTC
+}

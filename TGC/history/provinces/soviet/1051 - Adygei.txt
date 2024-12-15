@@ -7,3 +7,11 @@ life_rating = 35
     owner = CIR
     controller = CIR
 }
+1836.1.1 = {
+    owner = CIR
+    controller = CIR
+}
+1861.7.1 = {
+    owner = CIR
+    controller = CIR
+}

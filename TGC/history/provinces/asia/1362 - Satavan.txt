@@ -7,3 +7,11 @@ terrain = jungle_mountains
     owner = CHK
     controller = CHK
 }
+1836.1.1 = {
+    owner = CHK
+    controller = CHK
+}
+1861.7.1 = {
+    owner = CHK
+    controller = CHK
+}

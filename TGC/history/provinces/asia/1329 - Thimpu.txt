@@ -7,3 +7,11 @@ terrain = urban_thimpu
     owner = BHU
     controller = BHU
 }
+1836.1.1 = {
+    owner = BHU
+    controller = BHU
+}
+1861.7.1 = {
+    owner = BHU
+    controller = BHU
+}

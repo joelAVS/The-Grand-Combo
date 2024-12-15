@@ -8,3 +8,11 @@ life_rating = 32
     owner = NGA
     controller = NGA
 }
+1836.1.1 = {
+    owner = NGA
+    controller = NGA
+}
+1861.7.1 = {
+    owner = NGA
+    controller = NGA
+}

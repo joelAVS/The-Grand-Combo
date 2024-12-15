@@ -9,3 +9,11 @@ terrain = dryhills
     owner = ORI
     controller = ORI
 }
+1836.1.1 = {
+    owner = ORI
+    controller = ORI
+}
+1861.7.1 = {
+    owner = ORI
+    controller = ORI
+}

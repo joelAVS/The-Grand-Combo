@@ -7,3 +7,11 @@ terrain = urban_riyadh
     owner = NEJ
     controller = NEJ
 }
+1836.1.1 = {
+    owner = NEJ
+    controller = NEJ
+}
+1861.7.1 = {
+    owner = NEJ
+    controller = NEJ
+}

@@ -8,3 +8,11 @@ terrain = urban_hanover
     owner = HAN
     controller = HAN
 }
+1836.1.1 = {
+    owner = HAN
+    controller = HAN
+}
+1861.7.1 = {
+    owner = HAN
+    controller = HAN
+}

@@ -9,3 +9,11 @@ colonial = 2
     owner = NET
     controller = NET
 }
+1836.1.1 = {
+    owner = NET
+    controller = NET
+}
+1861.7.1 = {
+    owner = NET
+    controller = NET
+}

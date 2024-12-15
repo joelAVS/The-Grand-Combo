@@ -6,3 +6,11 @@ life_rating = 35
     owner = GBU
     controller = GBU
 }
+1836.1.1 = {
+    owner = GBU
+    controller = GBU
+}
+1861.7.1 = {
+    owner = GBU
+    controller = GBU
+}

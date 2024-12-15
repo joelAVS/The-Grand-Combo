@@ -8,3 +8,11 @@ terrain = urban_andorra_la_vella
     owner = ADO
     controller = ADO
 }
+1836.1.1 = {
+    owner = ADO
+    controller = ADO
+}
+1861.7.1 = {
+    owner = ADO
+    controller = ADO
+}

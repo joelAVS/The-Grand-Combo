@@ -6,3 +6,11 @@ life_rating = 20
     owner = EGY
     controller = EGY
 }
+1836.1.1 = {
+    owner = EGY
+    controller = EGY
+}
+1861.7.1 = {
+    owner = EGY
+    controller = EGY
+}

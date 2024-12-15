@@ -8,3 +8,11 @@ terrain = urban_kashgar
     owner = XIN
     controller = XIN
 }
+1836.1.1 = {
+    owner = XIN
+    controller = XIN
+}
+1861.7.1 = {
+    owner = XIN
+    controller = XIN
+}

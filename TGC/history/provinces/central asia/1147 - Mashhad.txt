@@ -10,3 +10,11 @@ terrain = urban_nishapur
     owner = KHR
     controller = KHR
 }
+1836.1.1 = {
+    owner = KHR
+    controller = KHR
+}
+1861.7.1 = {
+    owner = KHR
+    controller = KHR
+}

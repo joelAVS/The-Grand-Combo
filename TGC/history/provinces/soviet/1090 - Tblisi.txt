@@ -8,3 +8,11 @@ terrain = urban_tblisi
     owner = TCA
     controller = TCA
 }
+1836.1.1 = {
+    owner = TCA
+    controller = TCA
+}
+1861.7.1 = {
+    owner = TCA
+    controller = TCA
+}

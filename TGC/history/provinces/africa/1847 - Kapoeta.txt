@@ -8,3 +8,11 @@ life_rating = 15
     owner = KAF
     controller = KAF
 }
+1836.1.1 = {
+    owner = KAF
+    controller = KAF
+}
+1861.7.1 = {
+    owner = KAF
+    controller = KAF
+}

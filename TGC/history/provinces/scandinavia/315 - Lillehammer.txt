@@ -9,3 +9,11 @@ university = 1
     owner = NOR
     controller = NOR
 }
+1836.1.1 = {
+    owner = NOR
+    controller = NOR
+}
+1861.7.1 = {
+    owner = NOR
+    controller = NOR
+}

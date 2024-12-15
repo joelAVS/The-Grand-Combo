@@ -12,3 +12,11 @@ university = 1
     owner = FRM
     controller = FRM
 }
+1836.1.1 = {
+    owner = FRM
+    controller = FRM
+}
+1861.7.1 = {
+    owner = FRM
+    controller = FRM
+}

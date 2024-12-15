@@ -10,3 +10,11 @@ bank = 1
     owner = SWE
     controller = SWE
 }
+1836.1.1 = {
+    owner = SWE
+    controller = SWE
+}
+1861.7.1 = {
+    owner = SWE
+    controller = SWE
+}

@@ -8,3 +8,11 @@ terrain = urban_nagpur
     owner = NAG
     controller = NAG
 }
+1836.1.1 = {
+    owner = NAG
+    controller = NAG
+}
+1861.7.1 = {
+    owner = NAG
+    controller = NAG
+}

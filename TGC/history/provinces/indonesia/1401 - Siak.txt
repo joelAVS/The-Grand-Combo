@@ -6,3 +6,11 @@ life_rating = 35
     owner = SAK
     controller = SAK
 }
+1836.1.1 = {
+    owner = SAK
+    controller = SAK
+}
+1861.7.1 = {
+    owner = SAK
+    controller = SAK
+}

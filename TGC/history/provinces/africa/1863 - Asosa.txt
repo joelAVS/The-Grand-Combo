@@ -5,3 +5,11 @@ life_rating = 15
     owner = ETH
     controller = ETH
 }
+1836.1.1 = {
+    owner = ETH
+    controller = ETH
+}
+1861.7.1 = {
+    owner = ETH
+    controller = ETH
+}

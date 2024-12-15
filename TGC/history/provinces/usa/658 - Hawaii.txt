@@ -7,3 +7,11 @@ terrain = urban_hawaii
     owner = HAW
     controller = HAW
 }
+1836.1.1 = {
+    owner = HAW
+    controller = HAW
+}
+1861.7.1 = {
+    owner = HAW
+    controller = HAW
+}

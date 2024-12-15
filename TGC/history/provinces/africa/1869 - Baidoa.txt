@@ -8,3 +8,11 @@ life_rating = 35
     owner = GEL
     controller = GEL
 }
+1836.1.1 = {
+    owner = GEL
+    controller = GEL
+}
+1861.7.1 = {
+    owner = GEL
+    controller = GEL
+}

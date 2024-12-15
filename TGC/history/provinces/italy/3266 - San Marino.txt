@@ -7,3 +7,11 @@ terrain = urban_san_marino
     owner = SMR
     controller = SMR
 }
+1836.1.1 = {
+    owner = SMR
+    controller = SMR
+}
+1861.7.1 = {
+    owner = SMR
+    controller = SMR
+}

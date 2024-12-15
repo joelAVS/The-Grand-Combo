@@ -25,3 +25,7 @@ party_loyalty = {
     controller = CSA
     add_core = CSA
 }
+1836.1.1 = {
+    owner = USA
+    controller = USA
+}

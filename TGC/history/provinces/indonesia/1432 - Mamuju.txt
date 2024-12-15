@@ -6,3 +6,11 @@ life_rating = 30
     owner = PIT
     controller = PIT
 }
+1836.1.1 = {
+    owner = PIT
+    controller = PIT
+}
+1861.7.1 = {
+    owner = PIT
+    controller = PIT
+}

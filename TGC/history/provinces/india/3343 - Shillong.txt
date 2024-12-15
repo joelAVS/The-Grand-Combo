@@ -9,3 +9,11 @@ terrain = jungle_hills
     owner = KHA
     controller = KHA
 }
+1836.1.1 = {
+    owner = KHA
+    controller = KHA
+}
+1861.7.1 = {
+    owner = KHA
+    controller = KHA
+}

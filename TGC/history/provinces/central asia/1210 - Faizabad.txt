@@ -8,3 +8,11 @@ life_rating = 35
     owner = BDK
     controller = BDK
 }
+1836.1.1 = {
+    owner = BDK
+    controller = BDK
+}
+1861.7.1 = {
+    owner = BDK
+    controller = BDK
+}

@@ -7,3 +7,11 @@ life_rating = 31
     owner = SUL
     controller = SUL
 }
+1836.1.1 = {
+    owner = SUL
+    controller = SUL
+}
+1861.7.1 = {
+    owner = SUL
+    controller = SUL
+}

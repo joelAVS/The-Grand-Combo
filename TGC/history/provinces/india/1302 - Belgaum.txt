@@ -8,3 +8,11 @@ colonial = 2
     owner = MUD
     controller = MUD
 }
+1836.1.1 = {
+    owner = MUD
+    controller = MUD
+}
+1861.7.1 = {
+    owner = MUD
+    controller = MUD
+}

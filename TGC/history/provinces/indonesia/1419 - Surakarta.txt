@@ -8,3 +8,11 @@ bank = 1
     owner = JAV
     controller = JAV
 }
+1836.1.1 = {
+    owner = JAV
+    controller = JAV
+}
+1861.7.1 = {
+    owner = JAV
+    controller = JAV
+}

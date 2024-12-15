@@ -8,3 +8,11 @@ life_rating = 40
     owner = KNP
     controller = KNP
 }
+1836.1.1 = {
+    owner = KNP
+    controller = KNP
+}
+1861.7.1 = {
+    owner = KNP
+    controller = KNP
+}

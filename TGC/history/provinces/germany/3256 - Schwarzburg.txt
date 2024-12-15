@@ -7,3 +7,11 @@ life_rating = 35
     owner = SWG
     controller = SWG
 }
+1836.1.1 = {
+    owner = SWG
+    controller = SWG
+}
+1861.7.1 = {
+    owner = SWG
+    controller = SWG
+}

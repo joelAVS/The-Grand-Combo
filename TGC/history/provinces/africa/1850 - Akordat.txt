@@ -7,3 +7,11 @@ life_rating = 10
     owner = TIG
     controller = TIG
 }
+1836.1.1 = {
+    owner = TIG
+    controller = TIG
+}
+1861.7.1 = {
+    owner = TIG
+    controller = TIG
+}

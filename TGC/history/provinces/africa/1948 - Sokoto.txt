@@ -8,3 +8,11 @@ terrain = urban_sokoto
     owner = SOK
     controller = SOK
 }
+1836.1.1 = {
+    owner = SOK
+    controller = SOK
+}
+1861.7.1 = {
+    owner = SOK
+    controller = SOK
+}

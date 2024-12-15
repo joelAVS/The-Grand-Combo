@@ -7,3 +7,11 @@ terrain = urban_isle_of_man
     owner = ENG
     controller = ENG
 }
+1836.1.1 = {
+    owner = ENG
+    controller = ENG
+}
+1861.7.1 = {
+    owner = ENG
+    controller = ENG
+}

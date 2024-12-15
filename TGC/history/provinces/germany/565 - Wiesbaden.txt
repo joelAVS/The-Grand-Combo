@@ -7,3 +7,11 @@ life_rating = 40
     owner = NAS
     controller = NAS
 }
+1836.1.1 = {
+    owner = NAS
+    controller = NAS
+}
+1861.7.1 = {
+    owner = NAS
+    controller = NAS
+}

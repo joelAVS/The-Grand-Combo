@@ -8,3 +8,11 @@ terrain = boreal
     owner = FIN
     controller = FIN
 }
+1836.1.1 = {
+    owner = FIN
+    controller = FIN
+}
+1861.7.1 = {
+    owner = FIN
+    controller = FIN
+}

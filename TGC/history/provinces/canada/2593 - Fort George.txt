@@ -7,3 +7,11 @@ terrain = boreal
     owner = RPL
     controller = RPL
 }
+1836.1.1 = {
+    owner = RPL
+    controller = RPL
+}
+1861.7.1 = {
+    owner = RPL
+    controller = RPL
+}

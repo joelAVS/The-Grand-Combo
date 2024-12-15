@@ -7,3 +7,11 @@ terrain = urban_granada
     owner = SPA
     controller = SPA
 }
+1836.1.1 = {
+    owner = SPA
+    controller = SPA
+}
+1861.7.1 = {
+    owner = SPA
+    controller = SPA
+}

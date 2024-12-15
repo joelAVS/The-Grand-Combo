@@ -9,3 +9,11 @@ naval_base = 1
     owner = AGC
     controller = AGC
 }
+1836.1.1 = {
+    owner = AGC
+    controller = AGC
+}
+1861.7.1 = {
+    owner = AGC
+    controller = AGC
+}

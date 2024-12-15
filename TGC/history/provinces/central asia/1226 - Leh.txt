@@ -9,3 +9,11 @@ life_rating = 35
     owner = PNJ
     controller = PNJ
 }
+1836.1.1 = {
+    owner = PNJ
+    controller = PNJ
+}
+1861.7.1 = {
+    owner = PNJ
+    controller = PNJ
+}

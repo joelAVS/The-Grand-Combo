@@ -6,3 +6,11 @@ life_rating = 32
     owner = SBS
     controller = SBS
 }
+1836.1.1 = {
+    owner = SBS
+    controller = SBS
+}
+1861.7.1 = {
+    owner = SBS
+    controller = SBS
+}

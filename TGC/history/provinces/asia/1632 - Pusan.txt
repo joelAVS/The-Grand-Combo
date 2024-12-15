@@ -7,3 +7,11 @@ terrain = urban_pusan
     owner = KOR
     controller = KOR
 }
+1836.1.1 = {
+    owner = KOR
+    controller = KOR
+}
+1861.7.1 = {
+    owner = KOR
+    controller = KOR
+}

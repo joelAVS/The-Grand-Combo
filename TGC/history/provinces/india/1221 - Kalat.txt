@@ -9,3 +9,11 @@ terrain = urban_kalat
     owner = KAL
     controller = KAL
 }
+1836.1.1 = {
+    owner = KAL
+    controller = KAL
+}
+1861.7.1 = {
+    owner = KAL
+    controller = KAL
+}

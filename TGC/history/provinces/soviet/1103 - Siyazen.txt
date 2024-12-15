@@ -7,3 +7,11 @@ life_rating = 35
     owner = DAG
     controller = DAG
 }
+1836.1.1 = {
+    owner = DAG
+    controller = DAG
+}
+1861.7.1 = {
+    owner = DAG
+    controller = DAG
+}

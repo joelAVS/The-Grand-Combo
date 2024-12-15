@@ -8,3 +8,11 @@ terrain = urban_monaco
     owner = MNC
     controller = MNC
 }
+1836.1.1 = {
+    owner = MNC
+    controller = MNC
+}
+1861.7.1 = {
+    owner = MNC
+    controller = MNC
+}

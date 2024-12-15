@@ -6,3 +6,11 @@ life_rating = 35
     owner = HAI
     controller = HAI
 }
+1836.1.1 = {
+    owner = HAI
+    controller = HAI
+}
+1861.7.1 = {
+    owner = HAI
+    controller = HAI
+}

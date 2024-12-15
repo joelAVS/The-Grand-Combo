@@ -7,3 +7,11 @@ life_rating = 10
     owner = TOR
     controller = TOR
 }
+1836.1.1 = {
+    owner = TOR
+    controller = TOR
+}
+1861.7.1 = {
+    owner = TOR
+    controller = TOR
+}

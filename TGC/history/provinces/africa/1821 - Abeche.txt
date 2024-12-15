@@ -6,3 +6,11 @@ life_rating = 5
     owner = DAR
     controller = DAR
 }
+1836.1.1 = {
+    owner = DAR
+    controller = DAR
+}
+1861.7.1 = {
+    owner = DAR
+    controller = DAR
+}

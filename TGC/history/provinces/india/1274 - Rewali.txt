@@ -9,3 +9,11 @@ life_rating = 32
     owner = REW
     controller = REW
 }
+1836.1.1 = {
+    owner = REW
+    controller = REW
+}
+1861.7.1 = {
+    owner = REW
+    controller = REW
+}

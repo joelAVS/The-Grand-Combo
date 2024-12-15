@@ -11,3 +11,11 @@ life_rating = 35
     owner = SRN
     controller = SRN
 }
+1836.1.1 = {
+    owner = SRN
+    controller = SRN
+}
+1861.7.1 = {
+    owner = SRN
+    controller = SRN
+}

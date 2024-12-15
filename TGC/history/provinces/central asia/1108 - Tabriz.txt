@@ -10,3 +10,11 @@ terrain = urban_tabriz
     owner = PER
     controller = PER
 }
+1836.1.1 = {
+    owner = PER
+    controller = PER
+}
+1861.7.1 = {
+    owner = PER
+    controller = PER
+}

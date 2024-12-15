@@ -6,3 +6,11 @@ life_rating = 38
     owner = KLM
     controller = KLM
 }
+1836.1.1 = {
+    owner = KLM
+    controller = KLM
+}
+1861.7.1 = {
+    owner = KLM
+    controller = KLM
+}

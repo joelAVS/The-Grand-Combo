@@ -7,3 +7,11 @@ terrain = urban_shanghai
     owner = QNG
     controller = QNG
 }
+1836.1.1 = {
+    owner = QNG
+    controller = QNG
+}
+1861.7.1 = {
+    owner = QNG
+    controller = QNG
+}

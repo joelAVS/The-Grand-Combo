@@ -7,3 +7,11 @@ terrain = urban_lhasa
     owner = TIB
     controller = TIB
 }
+1836.1.1 = {
+    owner = TIB
+    controller = TIB
+}
+1861.7.1 = {
+    owner = TIB
+    controller = TIB
+}

@@ -12,3 +12,11 @@ naval_base = 2
     owner = EIC
     controller = EIC
 }
+1836.1.1 = {
+    owner = EIC
+    controller = EIC
+}
+1861.7.1 = {
+    owner = EIC
+    controller = EIC
+}

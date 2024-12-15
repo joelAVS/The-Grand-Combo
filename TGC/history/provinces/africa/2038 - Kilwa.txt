@@ -7,3 +7,11 @@ life_rating = 35
     owner = OMA
     controller = OMA
 }
+1836.1.1 = {
+    owner = OMA
+    controller = OMA
+}
+1861.7.1 = {
+    owner = OMA
+    controller = OMA
+}

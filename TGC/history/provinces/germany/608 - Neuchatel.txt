@@ -19,3 +19,11 @@ party_loyalty = {
     owner = NCT
     controller = NCT
 }
+1836.1.1 = {
+    owner = NCT
+    controller = NCT
+}
+1861.7.1 = {
+    owner = NCT
+    controller = NCT
+}

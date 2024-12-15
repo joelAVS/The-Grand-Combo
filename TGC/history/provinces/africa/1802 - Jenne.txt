@@ -7,3 +7,11 @@ terrain = urban_timbuktu
     owner = MAS
     controller = MAS
 }
+1836.1.1 = {
+    owner = MAS
+    controller = MAS
+}
+1861.7.1 = {
+    owner = MAS
+    controller = MAS
+}

@@ -7,3 +7,11 @@ terrain = urban_tananarive
     owner = MAD
     controller = MAD
 }
+1836.1.1 = {
+    owner = MAD
+    controller = MAD
+}
+1861.7.1 = {
+    owner = MAD
+    controller = MAD
+}

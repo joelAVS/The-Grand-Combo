@@ -7,3 +7,11 @@ life_rating = 10
     owner = WAN
     controller = WAN
 }
+1836.1.1 = {
+    owner = WAN
+    controller = WAN
+}
+1861.7.1 = {
+    owner = WAN
+    controller = WAN
+}

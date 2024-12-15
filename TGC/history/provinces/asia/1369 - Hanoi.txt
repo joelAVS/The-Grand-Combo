@@ -7,3 +7,11 @@ terrain = urban_hanoi
     owner = DAI
     controller = DAI
 }
+1836.1.1 = {
+    owner = DAI
+    controller = DAI
+}
+1861.7.1 = {
+    owner = DAI
+    controller = DAI
+}

@@ -8,3 +8,11 @@ terrain = urban_ulaan_baatar
     owner = MGL
     controller = MGL
 }
+1836.1.1 = {
+    owner = MGL
+    controller = MGL
+}
+1861.7.1 = {
+    owner = MGL
+    controller = MGL
+}

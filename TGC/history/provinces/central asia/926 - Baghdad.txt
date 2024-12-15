@@ -10,3 +10,11 @@ colonial = 2
     owner = TUR
     controller = TUR
 }
+1836.1.1 = {
+    owner = TUR
+    controller = TUR
+}
+1861.7.1 = {
+    owner = TUR
+    controller = TUR
+}

@@ -7,3 +7,11 @@ life_rating = 35
     owner = MIG
     controller = MIG
 }
+1836.1.1 = {
+    owner = MIG
+    controller = MIG
+}
+1861.7.1 = {
+    owner = MIG
+    controller = MIG
+}

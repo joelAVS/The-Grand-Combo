@@ -8,3 +8,11 @@ terrain = urban_brunswick
     owner = BRA
     controller = BRA
 }
+1836.1.1 = {
+    owner = BRA
+    controller = BRA
+}
+1861.7.1 = {
+    owner = BRA
+    controller = BRA
+}

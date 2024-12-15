@@ -11,3 +11,11 @@ railroad = 1
     owner = PRU
     controller = PRU
 }
+1836.1.1 = {
+    owner = PRU
+    controller = PRU
+}
+1861.7.1 = {
+    owner = PRU
+    controller = PRU
+}

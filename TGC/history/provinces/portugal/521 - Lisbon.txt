@@ -21,3 +21,11 @@ state_building = {
     owner = POR
     controller = POR
 }
+1836.1.1 = {
+    owner = POR
+    controller = POR
+}
+1861.7.1 = {
+    owner = POR
+    controller = POR
+}

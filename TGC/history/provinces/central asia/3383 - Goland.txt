@@ -11,3 +11,11 @@ terrain = wonder_mount_ararat
     owner = BDN
     controller = BDN
 }
+1836.1.1 = {
+    owner = BDN
+    controller = BDN
+}
+1861.7.1 = {
+    owner = BDN
+    controller = BDN
+}

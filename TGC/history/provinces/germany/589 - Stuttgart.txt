@@ -8,3 +8,11 @@ terrain = urban_stuttgart
     owner = WUR
     controller = WUR
 }
+1836.1.1 = {
+    owner = WUR
+    controller = WUR
+}
+1861.7.1 = {
+    owner = WUR
+    controller = WUR
+}

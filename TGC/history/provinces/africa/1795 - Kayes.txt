@@ -6,3 +6,11 @@ life_rating = 32
     owner = SEG
     controller = SEG
 }
+1836.1.1 = {
+    owner = SEG
+    controller = SEG
+}
+1861.7.1 = {
+    owner = SEG
+    controller = SEG
+}
