@@ -15439,7 +15439,7 @@ country_event = { # DEVNOTE: Many of the Lithuanian renames and other renames fo
 					}
 		# Levant
 			# IDK I'll organize this later
-				# Byzantine
+				# Greek
 					any_country = {
 						limit = {
 							owns = 903
@@ -15616,7 +15616,7 @@ country_event = { # DEVNOTE: Many of the Lithuanian renames and other renames fo
 					}
 		# Egypt
 			# IDK I'll organize this later 
-				# Byzantine
+				# Greek
 					any_country = {
 						limit = {
 							owns = 1755
@@ -15812,9 +15812,100 @@ country_event = { # DEVNOTE: Many of the Lithuanian renames and other renames fo
 						}
 						1768 = { change_province_name = "Hierakonopolis" }
 					}
+				#Italian
+					any_country = {
+						limit = {
+							owns = 1842
+							is_culture_group = italian
+						}
+						1842 = { change_province_name = "Juneinè" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1841
+							is_culture_group = italian
+						}
+						1841 = { change_province_name = "El Fascer" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1843
+							is_culture_group = italian
+						}
+						1843 = { change_province_name = "Uau" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1833
+							is_culture_group = italian
+						}
+						1833 = { change_province_name = "Sauchin" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1836
+							is_culture_group = italian
+						}
+						1836 = { change_province_name = "Haia" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1835
+							is_culture_group = italian
+						}
+						1835 = { change_province_name = "Dongola" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1806
+							is_culture_group = italian
+						}
+						1806 = { change_province_name = "Atbarà" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1827
+							is_culture_group = italian
+						}
+						1827 = { change_province_name = "Karthum" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1829
+							is_culture_group = italian
+						}
+						1829 = { change_province_name = "Cassala" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1828
+							is_culture_group = italian
+						}
+						1828 = { change_province_name = "Uad Medani" }
+					}
+
+					any_country = {
+						limit = {
+							owns = 1831
+							is_culture_group = italian
+						}
+						1831 = { change_province_name = "Rabac" }
+					}
+
+					
+
 		# Cyrenaica
 			#IDK I'll organize later
-				# Byzantine
+				# Greek
 					any_country = {
 						limit = {
 							owns = 1735
@@ -15841,7 +15932,7 @@ country_event = { # DEVNOTE: Many of the Lithuanian renames and other renames fo
 					}
 		# Tripolitania
 			#IDK I'll organize later
-				# Byzantine
+				# Greek
 					any_country = {
 						limit = {
 							owns = 1731
@@ -15882,7 +15973,7 @@ country_event = { # DEVNOTE: Many of the Lithuanian renames and other renames fo
 					}
 		# Tunis
 			#IDK I'll organize later
-				# Byzantine
+				# Greek
 					any_country = {
 						limit = {
 							owns = 1726
